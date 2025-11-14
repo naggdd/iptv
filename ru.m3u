@@ -101,7 +101,7 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+9)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="match-tv",Матч!
+#EXTINF:-1 group-title="Основные" tvg-id="match-tv" tvg-logo="https://i.postimg.cc/HWJQkCcp/match.png", Матч!
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
@@ -1682,10 +1682,6 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport2 HD
 http://5.188.159.128:8070/eurosport2/index.m3u8
-
-#EXTINF:-1 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спортивные",Матч! ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные", Матч Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
