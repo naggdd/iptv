@@ -38,7 +38,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (-1)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
 
@@ -46,63 +46,63 @@ https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+1)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
 
-#EXTINF:-1 group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+1)
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl2" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 
-#EXTINF:-1 group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+2)
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+3)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
 
-#EXTINF:-1 group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+3)
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+3)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl4" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 
-#EXTINF:-1 group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+4)
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+4)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+5)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
 
-#EXTINF:-1 group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+5)
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+5)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+6)
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+6)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+7)
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
 
-#EXTINF:-1 group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+7)
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+7)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+8)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
 
-#EXTINF:-1 group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+8)
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+8)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+9)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 
-#EXTINF:-1 group-title="Федеральные плюс" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+9)
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+9)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="Основные" tvg-id="match-tv",Матч!
