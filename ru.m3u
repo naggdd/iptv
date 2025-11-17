@@ -384,101 +384,97 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="sts-love",СТС Love
+#EXTINF:-1 tvg-id="sts-love" group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="sts-love-pl2",СТС Love (+2)
+#EXTINF:-1 tvg-id="sts-love-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="sts-love-pl4",СТС Love (+4)
+#EXTINF:-1 tvg-id="sts-love-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="solnce",Солнце
+#EXTINF:-1 tvg-id="solnce" group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="solnce-pl2",Солнце (+2)
+#EXTINF:-1 tvg-id="solnce-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="solnce-pl4",Солнце (+4)
+#EXTINF:-1 tvg-id="solnce-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="solnce-pl7",Солнце (+7)
+#EXTINF:-1 tvg-id="solnce-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="super",Суббота
+#EXTINF:-1 tvg-id="super" group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="super-pl2",Суббота (+2)
+#EXTINF:-1 tvg-id="super-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="super-pl4",Суббота (+4)
+#EXTINF:-1 tvg-id="super-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="super-pl7",Суббота (+7)
+#EXTINF:-1 tvg-id="super-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="tnt4",ТНТ4
+#EXTINF:-1 tvg-id="tnt4" group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="tnt4-pl2",ТНТ4 (+2)
+#EXTINF:-1 tvg-id="tnt4-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="tnt4-pl4",ТНТ4 (+4)
+#EXTINF:-1 tvg-id="tnt4-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="tnt4-pl7",ТНТ4 (+7)
+#EXTINF:-1 tvg-id="tnt4-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="che",Че!
+#EXTINF:-1 tvg-id="che" group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че!
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="che-pl2",Че! (+2)
+#EXTINF:-1 tvg-id="che-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="che-pl4",Че! (+4)
+#EXTINF:-1 tvg-id="che-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="che-pl7",Че! (+7)
+#EXTINF:-1 tvg-id="che-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="yu",Ю
+#EXTINF:-1 tvg-id="yu" group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="yu-pl2",Ю (+2)
+#EXTINF:-1 tvg-id="yu-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="yu-pl4",Ю (+4)
+#EXTINF:-1 tvg-id="yu-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="yu-pl7",Ю (+7)
+#EXTINF:-1 tvg-id="yu-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-
-#EXTINF:-1 group-title="Основные",Всё ТВ HD
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png" group-title="Эфирные", РТР-Планета Европа
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
@@ -1215,26 +1211,6 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/varia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 
-#EXTINF:-1 tvg-id="solnce-pl2" catchup="append" tvg-logo="https://i.ibb.co/jZ1xyDx/Solnce-220x220.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Солнце (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="solnce-pl4" catchup="append" tvg-logo="https://i.ibb.co/jZ1xyDx/Solnce-220x220.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Солнце (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="solnce-pl7" catchup="append" tvg-logo="https://i.ibb.co/jZ1xyDx/Solnce-220x220.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Солнце (+7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",СТС Love (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",СТС Love (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Супер (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
@@ -1246,38 +1222,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Супер (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТНТ4 (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТНТ4 (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Че! (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Че! (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Че! (+7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Ю (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Ю (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Ю (+7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 #EXTINF:-1 tvg-id="rbk" group-title="Новости", РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
@@ -1486,29 +1430,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Спортивные", Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",СТС Love
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Суббота!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",ТНТ4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-
 #EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1008.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",ТВ-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Че
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Ю
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
 #EXTINF:-1 tvg-id="art-tv" group-title="Развлекательные", Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
@@ -1566,10 +1490,6 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://tochkatv.tv/wp-content/uploads/2023/11/magnat_live-1170x720.jpg" group-title="Развлекательные",Магнат
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-
-#EXTINF:-1 "tvg-id="Всё ТВ" tvg-logo="https://images.iptv.rt.ru/images/ch4dk93mhk079s3jpo50.png" catchup="append" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы",Всё ТВ Трейлеры
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", VIJU+ PREMIERE
 http://194.32.242.245/vippremiere/index.m3u8
@@ -1706,6 +1626,10 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/pobeda.png", Победа
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кинозалы", LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
