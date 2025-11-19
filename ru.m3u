@@ -548,7 +548,7 @@ http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/pJSpzRp/thumb-1b6a765369e8bc9e0535852478409267.png" tvg-name="41 регион" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",41 Регион
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/pJSpzRp/thumb-1b6a765369e8bc9e0535852478409267.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",41 Регион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 
@@ -560,7 +560,7 @@ http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
 
-#EXTINF:-1 tvg-id="6tv" catchup="append" tvg-logo="https://settv.ru/static/images/logo/6tv_logo.png" tvg-name="6тв (хабаровск)" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",6 ТВ
+#EXTINF:-1 tvg-id="6tv" catchup="append" tvg-logo="https://settv.ru/static/images/logo/6tv_logo.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",6 ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
 
@@ -672,7 +672,7 @@ http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
 
-#EXTINF:-1 tvg-id="vektor-24" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1529493228465.jpg" tvg-name="вектор 24" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Вектор 24
+#EXTINF:-1 tvg-id="vektor-24" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1529493228465.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Вектор 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
 
@@ -874,7 +874,7 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/CnLgPXw/thumb-036e0d0e5dfcd313b5b83fbddddceab9.png" tvg-name="наши города" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Наши города (Когалым)
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/CnLgPXw/thumb-036e0d0e5dfcd313b5b83fbddddceab9.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Наши города (Когалым)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
 
@@ -914,7 +914,7 @@ http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg" tvg-name="область 45" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Область 45 HD (Курган)
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Область 45 HD (Курган)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
 
@@ -1092,7 +1092,7 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://epg.domru.ru/chlogo/1576147839.png" tvg-name="толк" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",ТОЛК (Барнаул)
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://epg.domru.ru/chlogo/1576147839.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",ТОЛК (Барнаул)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 
@@ -1474,6 +1474,24 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://tochkatv.tv/wp-content/uploads/2023/11/magnat_live-1170x720.jpg" group-title="Развлекательные",Магнат
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+
+#EXTINF:-1 group-title="Vokka Production" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4hd.png", TV4 HD
+https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+#EXTINF:-1 group-title="Vokka Production" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4sd.png", TV4 SD
+https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
+#EXTINF:-1 group-title="Vokka Production" tvg-logo="https://taurerassets.xyz/tv_content/images/htvhd.png", HTV HD
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+
+#EXTINF:-1 group-title="alpha Production" tvg-logo="https://taurerassets.xyz/tv_content/images/alphacinemahd.png", alpha Cinema HD
+https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
+#EXTINF:-1 group-title="alpha Production" tvg-logo="https://taurerassets.xyz/tv_content/images/alphamoretimehd.png", alpha Moretime HD
+https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
+#EXTINF:-1 group-title="alpha Production" tvg-logo="https://taurerassets.xyz/tv_content/images/alphafunnyhd.png", alpha Funny HD
+https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
+#EXTINF:-1 group-title="alpha Production" tvg-logo="https://taurerassets.xyz/tv_content/images/15plusmusichd.png", 15+ Music HD
+https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
+#EXTINF:-1 group-title="alpha Production" tvg-logo="https://taurerassets.xyz/tv_content/images/newrussianhd.png", Новый Русский HD
+https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", VIJU+ PREMIERE
 http://194.32.242.245/vippremiere/index.m3u8
@@ -2066,16 +2084,16 @@ http://109.75.59.241:8017/BigPlanet/index.m3u8
 #EXTINF:-1 tvg-id="travel-channel" group-title="Познавательные",Travel Channel HD
 http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png" tvg-name="Союз" group-title="Религиозные",Союз
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png" group-title="Религиозные",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tri-angela" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/3ABN-Rusia-en-directo-Online.png" group-title="Религиозные",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="Религиозные",Радость Моя
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" group-title="Религиозные",Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" tvg-name="МузСоюз" group-title="Религиозные",Муз Союз
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" group-title="Религиозные",Муз Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
 #EXTINF:-1 group-title="Республика Крым" tvg-id="sevastopol-24",СТВ24
