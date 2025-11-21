@@ -432,3 +432,36 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 "tvg-id="Всё ТВ" tvg-logo="https://images.iptv.rt.ru/images/ch4dk93mhk079s3jpo50.png" catchup="append" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы",Всё ТВ Трейлеры
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD 1
+http://178.134.1.158:8081/eurosport/index.m3u8
+
+#EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные", Матч! Планета
+http://tvip.btk.teleos.ru:8081/chid52/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="setanta1-ge" group-title="Спортивные", Setanta Sports 1 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1 tvg-id="uzsport" group-title="Спортивные", UzSport
+https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvradioo.ru/wp-content/uploads/2023/01/sport-teleyaylym.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://offer.racingamerica.com/wp-content/uploads/2023/04/RacingAmerica-FullColor-Registered.png" tvg-id="no_epg_sport" group-title="Спортивные", Racing America
+https://livetv-fa.tubi.video/racing-america/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://photos.live-tv-channels.org/tv-logo/canal-motor-5880.webp" group-title="Спортивные", Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.pinimg.com/736x/bf/fb/84/bffb840eb9b62cec183277f26a5be5bd.jpg" group-title="Спортивные",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Спортивные", Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Спортивные", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Спортивные", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
