@@ -474,3 +474,33 @@ http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0925/60/9fb81f851b8d68ef84ff900adf597f60.png" tvg-id="Sochi Live" group-title="Relax", SOCHI LIVE HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Познавательные", National Geographic
+http://46.8.46.14/National_Geographic/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Discovery
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Discovery Science
+http://46.8.46.14/DiscoveryScience/index.m3u8
+
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery Европа
+http://46.8.46.14/InvestigationDiscovery/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные", TLC
+http://5.188.159.128:8070/TLC/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery HD
+http://94.232.127.28:8080/discovery-east/index.m3u8
+
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra Европа
+http://94.232.127.28:8080/idxtra/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC Россия HD
+http://94.232.127.28:8080/tlc/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet", Animal Planet HD
+http://94.232.127.28:8080/animalplanethd/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-channel" group-title="Познавательные",Travel Channel HD
+http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8

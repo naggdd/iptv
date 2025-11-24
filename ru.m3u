@@ -1767,119 +1767,56 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 #EXTINF:-1 tvg-id="mtv-hits" group-title="Музыкальные", MTV Hits
 http://94.232.127.28:8080/mtvhits/index.m3u8
 
-#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",Terra HD
+#EXTINF:-1 group-title="Познавательные", Terra
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", National Geo Wild
-http://91.194.191.241:8081/chid112/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
-http://tvip.btk.teleos.ru:8081/chid112/mono.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD
-https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/mono.m3u8
-
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
-http://46.8.46.14/National_Geographic/index.m3u8
-
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", NationalGeographic HD
+#EXTINF:-1 group-title="Познавательные", National Geographic
 https://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-science-pl" group-title="Познавательные", Discovery Science
-http://46.8.46.14/DiscoveryScience/index.m3u8
-
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery Европа
-http://46.8.46.14/InvestigationDiscovery/index.m3u8
-
-#EXTINF:-1 tvg-id="docubox-hd" group-title="Познавательные", DocuBox
-http://188.190.222.53/DocuBOX/index.m3u8
-
-#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC HD
-http://5.188.159.128:8070/TLC/index.m3u8
-
-#EXTINF:-1 tvg-id="zdorovoe-tv" group-title="Познавательные",Здоровое ТВ
+#EXTINF:-1 group-title="Познавательные", National Geographic Wild
+https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Здоровое ТВ
 http://95.66.188.74/ZdorovoeTV/index.m3u8
-
-#EXTINF:-1 tvg-id="drive" group-title="Познавательные", Драйв
+#EXTINF:-1 group-title="Познавательные", Драйв
 http://46.8.46.14/Drive/index.m3u8
-
-#EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные",Просвещение
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/prosveschenie.png", Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="360-podmoskovie" group-title="Познавательные", 360° Подмосковье HD
+#EXTINF:-1 group-title="Познавательные", 360° Подмосковье
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
-
-#EXTINF:-1 tvg-id="usadba" group-title="Познавательные", Усадьба
+#EXTINF:-1 group-title="Познавательные", Усадьба
 http://95.66.188.74/Usadba/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet", Animal Planet HD
-https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="kto-est-kto" group-title="Познавательные", Кто есть кто
+#EXTINF:-1 group-title="Познавательные", Animal Planet
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u
+#EXTINF:-1 group-title="Познавательные", Кто есть кто
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-
-#EXTINF:-1 tvg-id="stv-by" group-title="Познавательные", СТВ Беларусь
+#EXTINF:-1 group-title="Познавательные", СТВ
 https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="rtg-tv" group-title="Познавательные",RTG TV
-http://188.190.222.53/RTG_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="rtg-tv" group-title="Познавательные",RTG HD
+#EXTINF:-1 group-title="Познавательные", RTG
 http://95.66.188.74/RTGHD/index.m3u8
-
-#EXTINF:-1 tvg-id="hd-life" group-title="Познавательные",Точка.РФ
+#EXTINF:-1 group-title="Познавательные", Точка.РФ
 http://95.66.188.74/HD_Life/mono.m3u8
-
-#EXTINF:-1 tvg-id="zoopark" group-title="Познавательные", ZooПарк
+#EXTINF:-1 group-title="Познавательные", ZooПарк
 http://46.8.46.14/zoo/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные", Большая Азия HD
+#EXTINF:-1 group-title="Познавательные", Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/univer-tv.png" tvg-id="univer-tv" group-title="Познавательные", Univer TV
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/univer-tv.png", Univer
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="Познавательные", лекторий DОСТОЕВСКИЙ
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg", лекторий DОСТОЕВСКИЙ
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="moskovsky-obrazovatelny" group-title="Познавательные", Мособр TV HD
+#EXTINF:-1 group-title="Познавательные", Московское образование
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery HD
-http://94.232.127.28:8080/discovery-east/index.m3u8
-
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra Европа
-http://94.232.127.28:8080/idxtra/index.m3u8
-
-#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC Россия HD
-http://94.232.127.28:8080/tlc/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet", Animal Planet HD
-http://94.232.127.28:8080/animalplanethd/index.m3u8
-
-#EXTINF:-1 tvg-id="big-planet" group-title="Познавательные", Big Planet
+#EXTINF:-1 group-title="Познавательные", Big Planet
 http://109.75.59.241:8017/BigPlanet/index.m3u8
-
-#EXTINF:-1 tvg-id="travel-channel" group-title="Познавательные",Travel Channel HD
-http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные", Арсенал HD
+#EXTINF:-1 group-title="Познавательные", Арсенал
 http://95.66.188.74/Arsenal_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения
 http://46.8.46.14/AdventureHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Бобер
 http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Познавательные", НТВ Неизвестная Россия HD
+#EXTINF:-1 group-title="Познавательные", НТВ Неизвестная Россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
 http://31.148.48.15:80/Poehali/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Galaxy HD
-http://3.team.ga:80/ch148/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsnQ2UUs8d6sOhd-TU-DrXDbF-zACQn1LImIkMgv72uHB
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -1942,3 +1879,4 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Радио", Радио Спутник
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+ 
