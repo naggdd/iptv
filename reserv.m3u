@@ -504,3 +504,6 @@ http://94.232.127.28:8080/animalplanethd/index.m3u8
 
 #EXTINF:-1 tvg-id="travel-channel" group-title="Познавательные",Travel Channel HD
 http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8
+
+#EXTINF:-1 tvg-id="kuban-24-orbita" catchup="append" tvg-logo="http://only4.tv/ch/6222.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Кубань 24 Орбита
+http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
