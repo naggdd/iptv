@@ -761,92 +761,63 @@ http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Свое (Ставрополь)
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
-
-#EXTINF:-1 tvg-id="seym-kursk" catchup="append" tvg-logo="https://pbs.twimg.com/profile_images/1200315493875376134/qevky-pJ_400x400.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Сейм Курск
+#EXTINF:-1 group-title="Региональные", Сейм (Курск)
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_SEIM/variant.m3u8
-
-#EXTINF:-1 tvg-id="sigma" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPxMZpPeTSC8GPxoZAd1HGRBF9jN0URg6AbwKQT2LXON_X2lLl01ejzP7QYUCcmwM9EOI&usqp=CAU" group-title="Региональные",Сигма HD
+#EXTINF:-1 group-title="Региональные", Сигма (Новый Уренгой)
 https://lifecam.sigma-ktv.ru/ctv/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="sochi24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Сочи 24 HD
+#EXTINF:-1 group-title="Региональные", Сочи24 (Краснодарский Край)
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-
-#EXTINF:-1 tvg-id="surgut-24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Сургут 24
+#EXTINF:-1 group-title="Региональные", Сургут (ХМАО-Югра)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
-
-#EXTINF:-1 tvg-id="tv21plus" catchup="append" tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1469693161772.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ТВ-21+
+#EXTINF:-1 group-title="Региональные", ТВ-21+ (Мурманск)
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578964121507.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ТВ-7 (Абакан)
+#EXTINF:-1 group-title="Региональные", ТВ-7 (Абакан)
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-
-#EXTINF:-1 tvg-id="tv-in" catchup="append" tvg-logo="https://tvbesedka.com/Upload/2020/11/29/19/12/10/c4a5d0b0-103e-4a2a-8e8f-7ed2b6f0e8e9.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ТВ-ИН (Магнитогорск)
+#EXTINF:-1 group-title="Региональные", ТВ-ИН (Магнитогорск)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-
-#EXTINF:-1 tvg-id="tvk-krasnoyarsk" catchup="append" tvg-logo="https://pbs.twimg.com/profile_images/1168810402253328384/8dTHHwcG_200x200.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ТВК Красноярск HD
+#EXTINF:-1 group-title="Региональные", ТВК (Красноярск)
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
-
-#EXTINF:-1 tvg-id="tk-variant" catchup="append" tvg-logo="https://assets.limehd.tv/uploads/channel/10471/thumb_b87e39bfce91bbfbc03ab540ee895369.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ТК Вариант
+#EXTINF:-1 group-title="Региональные", Вариант (Владимир)
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
-
-#EXTINF:-1 tvg-id="trk-ryazan" catchup="append" tvg-logo="http://online-red.tv/uploads/posts/2018-06/1530004445_tkr.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ТКР Рязань
+#EXTINF:-1 group-title="Региональные", ТКР Рязань
 http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
-
-#EXTINF:-1 tvg-id="tnv" catchup="append" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1499776279320.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ТНВ-Татарстан
+#EXTINF:-1 group-title="Региональные", ТНВ (Татарстан)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://www.metro-set.ru/data/tvlogo/38649EC2-78F0-4DC8-A49B-79160FCA4E81.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ТНР24 (Нижневартовск)
+#EXTINF:-1 group-title="Региональные", ТНР24 (Нижневартовск)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://epg.domru.ru/chlogo/1576147839.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ТОЛК (Барнаул)
+#EXTINF:-1 group-title="Региональные", Толк (Барнаул)
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhtk-h8SyN57TFWKRkNIAeMeJrwGPnLkUEWCQ9p=s220-c-k-c0x00ffffff-no-rj?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ТРК Юганск
+#EXTINF:-1 group-title="Региональные", Юганск (Нефтеюганск)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
-
-#EXTINF:-1 tvg-id="tagil-tv-24" catchup="append" tvg-logo="http://www.tagil-tv.ru/sites/default/files/styles/news_one/public/news/logo_tagil-tv-2020-belyy-fon.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Тагил-ТВ 24
+#EXTINF:-1 group-title="Региональные",Тагил-ТВ (Нижний Тагил)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
-
-#EXTINF:-1 tvg-id="takt" catchup="append" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjmiGU1tpF1RdlIqIy5W6ofX1GNUGSooq0YLQgx=s220-c-k-c0x00ffffff-no-rj?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Такт (Курск)
+#EXTINF:-1 group-title="Региональные", Такт 24 (Курск)
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8
-
-#EXTINF:-1 tvg-id="tamyr" catchup="append" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngcFg7erpo0FSugSPnUXCne2YaHNFBcsgbekNmpgw=s220-c-k-c0x00ffffff-no-rj?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Тамыр
+#EXTINF:-1 group-title="Региональные", Тамыр (Башкортостан)
 http://s45177.cdn.ngenix.net/hls/CH_R03_TAMYRTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="tatarstan24" catchup="append" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjRKw5DWCHwF14uHnsysfFKwezK3TBZcrJSiOotBg=s200-c-k-c0x00ffffff-no-rj?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Татарстан-24
+#EXTINF:-1 group-title="Региональные", Татарстан-24 (Казань)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
-
-#EXTINF:-1 tvg-id="tverskoy-prospekt" catchup="append" tvg-logo="https://tvbesedka.com/Upload/2020/10/26/10/50/43/730c9e0c-9b58-4565-87e4-164bf5c59b1b.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Тверской проспект
+#EXTINF:-1 group-title="Региональные", Тверской проспект - Регион (Тверь)
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
-
-#EXTINF:-1 tvg-id="86-surgut" catchup="append" tvg-logo="https://assets.limehd.tv/uploads/channel/10280/thumb_068aa835683602562838896b6a4b3d00.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Телеканал 86 Сургут HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://assets.limehd.tv/uploads/channel/10280/thumb_068aa835683602562838896b6a4b3d00.png", С86 (Сургут)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKANAL86/variant.m3u8
-
-#EXTINF:-1 tvg-id="tivikom" catchup="append" tvg-logo="https://i.ibb.co/Nj3mNB4/thumb-d2d9827bce959a8d66d369c002f00e76.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Тивиком HD
+#EXTINF:-1 group-title="Региональные", Тивиком (Бурятия)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/HDRs2bB/e8c4f9ac70810bbed6d2b7c73d4e382b.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Тобольское время
+#EXTINF:-1 group-title="Региональные", Тобольское время (Тюменская область)
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
-
-#EXTINF:-1 tvg-id="tolyatti24" catchup="append" tvg-logo="https://play-lh.googleusercontent.com/byWT0Gi59hfhQ1I5ZlqEkt0IIvnBIhuj3AUFk8EpDmjoNHxsMNmkvcCV5-vwRoLIaQ=s200-rw?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Тольятти 24
+#EXTINF:-1 group-title="Региональные", Тольятти 24 (Самарская область)
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-
-#EXTINF:-1 tvg-id="tomskoe-vremia" catchup="append" tvg-logo="https://tomsk-time.ru/uploads/posts/2019-11/1575015528_1575015465.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Томское время HD
+#EXTINF:-1 group-title="Региональные", Томское время (Томская область)
 http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TOMSKVREMIA/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQswxT8lYxCzL8vivJTT3lMCBCxLfKNaShoPemqFQ=s220-c-k-c0x00ffffff-no-rj?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Тува 24 (Кызыл)
+#EXTINF:-1 group-title="Региональные", Тува 24 (Тыва)
 http://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8
-
-#EXTINF:-1 tvg-id="tugan-tel" catchup="append" tvg-logo="http://online-red.online/uploads/posts/2018-06/1529240904_tugantel.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Туган Тел
+#EXTINF:-1 group-title="Региональные", Туган Тел (Башкортостан)
 http://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnic2hkrdDQkW0itn2nfEsKC9pRN6NFamsmOBkpZng=s220-c-k-c0x00ffffff-no-rj?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Туринская телекомпания Вектор
+#EXTINF:-1 group-title="Региональные", Вектор (Свердловская область)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
-
-#EXTINF:-1 tvg-id="tumenskoe-vremia" catchup="append" tvg-logo="https://i.ibb.co/ZKXNRf4/Tyumenskoe-vremya-120x120.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Тюменское время
+#EXTINF:-1 group-title="Региональные", Тюменское время (Тюмень)
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
-
-#EXTINF:-1 tvg-id="udmurtia" catchup="append" tvg-logo="https://i.ibb.co/B4kqqy7/Udmurtiya-120x120.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Удмуртия
+#EXTINF:-1 group-title="Региональные", Моя Удмуртия (Ижевск)
 http://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 
 #EXTINF:-1 tvg-id="ulianovskaya-pravda" catchup="append" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni-KblZBwEIDePT45FTKAKWCZfyKQPQt6eXVVTTIw=s220-c-k-c0x00ffffff-no-rj?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Ульяновская правда
