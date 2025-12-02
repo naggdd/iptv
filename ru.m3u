@@ -819,20 +819,15 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Моя Удмуртия (Ижевск)
 http://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
-
-#EXTINF:-1 tvg-id="ulianovskaya-pravda" catchup="append" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni-KblZBwEIDePT45FTKAKWCZfyKQPQt6eXVVTTIw=s220-c-k-c0x00ffffff-no-rj?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Ульяновская правда
+#EXTINF:-1 group-title="Региональные", УлПравда (Ульяновск)
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
-
-#EXTINF:-1 tvg-id="xamdan-kalm24" catchup="append" tvg-logo="https://i.ibb.co/19C5GnQ/Hamdan-Kalmykiya-24-240x180.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Хамдан-Калмыкия 24 (Элиста)
+#EXTINF:-1 group-title="Региональные", НТК (Калмыкия)
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
-
-#EXTINF:-1 tvg-id="chavash-en" catchup="append" tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Чаваш ЕН
+#EXTINF:-1 group-title="Региональные", Чаваш ЕН (Чувашия)
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="schelkovo" group-title="Региональные",Щёлково
+#EXTINF:-1 tvg-id="schelkovo" group-title="Региональные", TV 41 (Щелково)
 https://stream1.tv41.ru/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="express" catchup="append" tvg-logo="http://teleon.tv/images/logos/tv-express-mini.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Экспресс HD
+#EXTINF:-1 group-title="Региональные", Экспресс (Пенза)
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 
 #EXTINF:-1 tvg-id="tnt4-pl2" catchup="append" tvg-logo="https://gl.weburg.net/00/fck/era-tvlogo.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Эра-ТВ (Екатеринбург)
