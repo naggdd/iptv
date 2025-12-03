@@ -1,479 +1,248 @@
-#EXTINF:-1 tvg-id="pervy" group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-
-#EXTINF:-1 tvg-id="pervy-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+3)
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-
-#EXTINF:-1 tvg-id="pervy-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="pervy-pl5" group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+5)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+5)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-
-#EXTINF:-1 tvg-id="pervy-pl6" group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+6)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+6)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+7)
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-
-#EXTINF:-1 tvg-id="pervy-pl8" group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+8)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+8)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (-1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (-1)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 tvg-id="rossia1" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="rossia1-pl2" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+3)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="rossia1-pl4" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+4)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+5)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
-
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+5)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+6)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-
-#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+7)
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+7)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+8)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD (+9)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="match-tv" group-title="Основные" tvg-logo="https://i.postimg.cc/HWJQkCcp/match.png", Матч!
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.postimg.cc/HWJQkCcp/match.png", Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="ntv" group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ (+1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="ntv-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="ntv-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="ntv-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="5kanal-ru" group-title="Основные" tvg-logo="https://i.imgur.com/KPXMa3U.png", Пятый
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KPXMa3U.png", Пятый
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-
-#EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/KPXMa3U.png", Пятый (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KPXMa3U.png", Пятый (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="5kanal-ru-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/KPXMa3U.png", Пятый (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KPXMa3U.png", Пятый (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="5kanal-ru-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/KPXMa3U.png", Пятый (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KPXMa3U.png", Пятый (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="kultura" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png", Россия К
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png", Россия К
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-
-#EXTINF:-1 tvg-id="kultura-pl2" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png", Россия К (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png", Россия К (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="kultura-pl4" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png", Россия К (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png", Россия К (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="kultura-pl7" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png", Россия К (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png", Россия К (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="rossia-24" "group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png", Россия 24
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png", Россия 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-
-#EXTINF:-1 tvg-id="rossia-24" group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png", Россия 24 HD
+#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png", Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-
-#EXTINF:-1 tvg-id="karusel" group-title="Основные" tvg-logo="http://only4.tv/ch/822.png", Карусель
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="http://only4.tv/ch/822.png", Карусель
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-id="karusel-pl2" group-title="Основные" tvg-logo="http://only4.tv/ch/822.png", Карусель (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="http://only4.tv/ch/822.png", Карусель (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="karusel-pl4" group-title="Основные" tvg-logo="http://only4.tv/ch/822.png", Карусель (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="http://only4.tv/ch/822.png", Карусель (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="karusel-pl7" group-title="Основные" tvg-logo="http://only4.tv/ch/822.png", Карусель (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="http://only4.tv/ch/822.png", Карусель (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="otr" group-title="Основные" tvg-logo="https://i.imgur.com/VaWlnjZ.png", ОТР
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/VaWlnjZ.png", ОТР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-
-#EXTINF:-1 tvg-id="tvcentr" group-title="Основные" tvg-logo="https://i.postimg.cc/KcgtT9C7/tvcentr.png", ТВ Центр
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.postimg.cc/KcgtT9C7/tvcentr.png", ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-
-#EXTINF:-1 tvg-id="tvcentr-pl2" group-title="Основные" tvg-logo="https://i.postimg.cc/KcgtT9C7/tvcentr.png", ТВ Центр (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.postimg.cc/KcgtT9C7/tvcentr.png", ТВ Центр (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="tvcentr-pl4" group-title="Основные" tvg-logo="https://i.postimg.cc/KcgtT9C7/tvcentr.png", ТВ Центр (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.postimg.cc/KcgtT9C7/tvcentr.png", ТВ Центр (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="tvcentr-pl7" group-title="Основные" tvg-logo="https://i.postimg.cc/KcgtT9C7/tvcentr.png", ТВ Центр (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.postimg.cc/KcgtT9C7/tvcentr.png", ТВ Центр (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="rentv" group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", РЕН ТВ
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", РЕН ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="rentv-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", РЕН ТВ (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", РЕН ТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="rentv-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", РЕН ТВ (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", РЕН ТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="rentv-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", РЕН ТВ (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", РЕН ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="rentv-int" group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", Рен ТВ International
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", Рен ТВ International
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-
-#EXTINF:-1 tvg-id="spas" group-title="Основные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-
-#EXTINF:-1 tvg-id="spas-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="spas-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="sts" group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-
-#EXTINF:-1 tvg-id="sts-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="sts-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="sts-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="domashny" group-title="Основные" tvg-logo="https://i.imgur.com/XVRwgom.png", Домашний
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/XVRwgom.png", Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-
-#EXTINF:-1 tvg-id="domashny-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/XVRwgom.png", Домашний (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/XVRwgom.png", Домашний (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="domashny-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/XVRwgom.png", Домашний (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/XVRwgom.png", Домашний (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="domashny-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/XVRwgom.png", Домашний (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/XVRwgom.png", Домашний (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="tv3-ru" group-title="Основные" tvg-logo="https://i.imgur.com/JLAvq8O.png", ТВ3
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/JLAvq8O.png", ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-
-#EXTINF:-1 tvg-id="tv3-ru-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/JLAvq8O.png", ТВ3 (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/JLAvq8O.png", ТВ3 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="tv3-ru-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/JLAvq8O.png", ТВ3 (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/JLAvq8O.png", ТВ3 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="tv3-ru-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/JLAvq8O.png", ТВ3 (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/JLAvq8O.png", ТВ3 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="piatnica" group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-
-#EXTINF:-1 tvg-id="piatnica-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="piatnica-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="piatnica-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="piatnica-int" group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница! International
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница! International
 http://158.101.222.193:88/georgia_play.php?id=friday
-
-#EXTINF:-1 tvg-id="zvezda" group-title="Основные" tvg-logo="https://i.imgur.com/4PAcpfM.png", Звезда
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/4PAcpfM.png", Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-
-#EXTINF:-1 tvg-id="zvezda-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/4PAcpfM.png", Звезда (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/4PAcpfM.png", Звезда (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="zvezda-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/4PAcpfM.png", Звезда (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/4PAcpfM.png", Звезда (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="zvezda-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/4PAcpfM.png", Звезда (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/4PAcpfM.png", Звезда (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="zvezda-plus" group-title="Основные" tvg-logo="https://i.imgur.com/NNmjD9Z.png", Звезда Плюс HD
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/NNmjD9Z.png", Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="mir" group-title="Основные" tvg-logo="https://i.imgur.com/AqWaJT8.png", МИР
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/AqWaJT8.png", МИР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-
-#EXTINF:-1 tvg-id="mir-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/AqWaJT8.png", МИР (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/AqWaJT8.png", МИР (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="mir-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/AqWaJT8.png", МИР (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/AqWaJT8.png", МИР (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="mir-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/AqWaJT8.png", МИР (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/AqWaJT8.png", МИР (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="mir-24" group-title="Основные" tvg-logo="https://i.imgur.com/dj9c8Yd.png", Мир 24
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/dj9c8Yd.png", Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tnt" group-title="Основные" tvg-logo="https://i.imgur.com/T4A6rEI.png", ТНТ
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/T4A6rEI.png", ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-
-#EXTINF:-1 tvg-id="tnt-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/T4A6rEI.png", ТНТ (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/T4A6rEI.png", ТНТ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="tnt-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/T4A6rEI.png", ТНТ (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/T4A6rEI.png", ТНТ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="tnt-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/T4A6rEI.png", ТНТ (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/T4A6rEI.png", ТНТ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="muztv" group-title="Основные" tvg-logo="https://i.imgur.com/BtqrHmz.png", МУЗ-ТВ
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/BtqrHmz.png", МУЗ-ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="muztv-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/BtqrHmz.png", МУЗ-ТВ (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/BtqrHmz.png", МУЗ-ТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="muztv-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/BtqrHmz.png", МУЗ-ТВ (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/BtqrHmz.png", МУЗ-ТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="muztv-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/BtqrHmz.png", МУЗ-ТВ (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/BtqrHmz.png", МУЗ-ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="2na2" group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-
-#EXTINF:-1 tvg-id="2na2-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="2na2-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="2na2-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="sts-love" group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-
-#EXTINF:-1 tvg-id="sts-love-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="sts-love-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="solnce" group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-
-#EXTINF:-1 tvg-id="solnce-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="solnce-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="solnce-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="super" group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-
-#EXTINF:-1 tvg-id="super-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="super-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="super-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="tnt4" group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-
-#EXTINF:-1 tvg-id="tnt4-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="tnt4-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="tnt4-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="che" group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че!
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-
-#EXTINF:-1 tvg-id="che-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="che-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="che-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="yu" group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-
-#EXTINF:-1 tvg-id="yu-pl2" group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="yu-pl4" group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="yu-pl7" group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 #EXTINF:-1 group-title="Эфирные" "tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png", РТР-Планета
@@ -825,33 +594,23 @@ http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Чаваш ЕН (Чувашия)
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
-#EXTINF:-1 tvg-id="schelkovo" group-title="Региональные", TV 41 (Щелково)
+#EXTINF:-1 group-title="Региональные", TV 41 (Щелково)
 https://stream1.tv41.ru/hls/live.m3u8
 #EXTINF:-1 group-title="Региональные", Экспресс (Пенза)
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
-
-#EXTINF:-1 tvg-id="tnt4-pl2" catchup="append" tvg-logo="https://gl.weburg.net/00/fck/era-tvlogo.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Эра-ТВ (Екатеринбург)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_TNT4_EKT/variant.m3u8
-
-#EXTINF:-1 tvg-id="efir24-relax" catchup="append" tvg-logo="https://i.ibb.co/9cH52T9/Efir-24-Relaks-200x195.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Эфир-24 Релакс
+#EXTINF:-1 group-title="Региональные", Эфир-24 Релакс (Татарстан)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-
-#EXTINF:-1 tvg-id="utv-cheboxary" catchup="append" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/201.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ЮТВ Чебоксары
+#EXTINF:-1 group-title="Региональные", ЮТВ (Чувашия)
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="yugra" catchup="append" tvg-logo="https://television-live.com/uploads/posts/53t45gcg5gge4fw.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Югра
+#EXTINF:-1 group-title="Региональные", Югра (ХМАО-Югра)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
-
-#EXTINF:-1 tvg-id="yurgan" catchup="append" tvg-logo="http://teleon.tv/images/logos/yurgan_ru.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Юрган
+#EXTINF:-1 group-title="Региональные", Юрган (Коми)
 http://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
-
-#EXTINF:-1 tvg-id="yakutia24" catchup="append" tvg-logo="https://yt3.ggpht.com/a/AATXAJzLMlEX7Rpfatq4wm-IDrHPF-5VkSekSaOjY5Hc=s200-c-k-c0xffffffff-no-rj-mo?.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Якутия 24
+#EXTINF:-1 group-title="Региональные", Якутия 24 (Саха)
 http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
-
-#EXTINF:-1 tvg-id="vremia-arktiki" catchup="append" tvg-logo="http://www.tvonline24.org/images/118.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Ямал 1
+#EXTINF:-1 group-title="Региональные", Ямал 1 (ЯНАО)
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
-
-#EXTINF:-1 tvg-id="yamal-region" catchup="append" tvg-logo="http://frocus.net/images/logotv/Yamal_region-new.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Ямал-Регион
+#EXTINF:-1 group-title="Региональные", Ямал (ЯНАО)
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 
 #EXTINF:-1 group-title="Новости", РБК
@@ -875,9 +634,9 @@ http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Новости", Euronews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 #EXTINF:-1 group-title="Новости", CNN
-https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 #EXTINF:-1 group-title="Новости", BBC World News
-https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Новости", RT News
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="Новости", 360 Новости
@@ -1034,10 +793,6 @@ http://194.32.242.245/vipcomedy/index.m3u8
 http://46.8.46.14/vipcomedy/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000
 http://46.8.46.14/tv1000/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ScX16w4SdARDkCF0ymhgfA&e=1763954385&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ppPZwasa5HGUlyAsyHZV3Q&e=1763954420&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Кино и сериалы", A1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино и сериалы", A2
@@ -1491,4 +1246,3 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Радио", Радио Спутник
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
- 
