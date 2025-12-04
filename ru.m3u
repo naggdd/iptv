@@ -612,6 +612,8 @@ http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Ямал (ЯНАО)
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Телемикс (Уссурийск)
+http://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
 
 #EXTINF:-1 group-title="Новости", РБК
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
@@ -707,6 +709,8 @@ https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://94.232.127.28:8080/nicktoons/index.m3u8
 
+#EXTINF:-1 group-title="Спортивные", NBA
+http://49.0.64.96:8007/NBA
 #EXTINF:-1 group-title="Спортивные", Футбол
 http://188.190.222.53/Football/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Спортивные", UFA
@@ -793,6 +797,8 @@ http://194.32.242.245/vipcomedy/index.m3u8
 http://46.8.46.14/vipcomedy/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000
 http://46.8.46.14/tv1000/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Кино и сериалы", A1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино и сериалы", A2
@@ -833,10 +839,26 @@ http://188.190.222.53/FilmBOX/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="Кино и сериалы", Про100 ТВ
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Star Media
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Star Cinema
+https://vod.splay.uz/live_splay/original/Star_Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
+https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киномикс
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
 http://46.8.46.14/kinoseria/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 group-title="Кино и сериалы", Киносемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 group-title="Кино и сериалы", Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="Кино и сериалы", Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="Кино и сериалы", Многосерийное ТВ
 https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
@@ -855,7 +877,7 @@ http://94.232.127.28:8080/sony-turbo/index.m3u8
 http://94.232.127.28:8080/tv1000premium/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/kino-24.png", Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/start-air.png", Start Air HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/start-air.png", Start Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/pobeda.png", Победа
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -873,6 +895,10 @@ https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", HTV
 https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Индийское кино
+http://188.113.190.12/329/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Индия
+http://158.101.222.193:88/georgia_play.php?id=zeetv
 
 #EXTINF:-1 group-title="Кинозалы", SeleCaoTV Фильмы
 http://195.9.195.3:8080/hls/163253.m3u8
@@ -930,8 +956,6 @@ https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Тик Ток
 https://fl1001.bozztv.com/ushba61/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Star Media
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Вне закона
 https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Документалка 1
@@ -1184,6 +1208,10 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
 http://31.148.48.15:80/Poehali/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Психология
+http://178.212.71.253:8000/play/96/index.m3u8
+#EXTINF:-1 group-title="Познавательные", 555 Hunt Fishing TV
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -1246,3 +1274,5 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Радио", Радио Спутник
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="Радио", PDJ Mini
+https://radio.promodj.com/mini-192
