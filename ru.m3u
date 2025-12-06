@@ -114,12 +114,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", Рен ТВ International
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС (+2)
@@ -600,8 +594,6 @@ https://fl1001.bozztv.com/ushba44/index.m3u8
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Мистер Бин
 https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Тик Ток
-https://fl1001.bozztv.com/ushba61/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Вне закона
 https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Документалка 1
@@ -814,8 +806,6 @@ http://94.232.127.28:8080/mtvhits/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Первый Российский Национальный
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:-1 group-title="Познавательные", Конгресс ТВ
-http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png", Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TV BRICS
@@ -875,6 +865,12 @@ http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Три Ангела
@@ -883,6 +879,14 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png", Муз Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные", Надежда
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные", Бог Благ
+https://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Религиозные", Хузур
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные", Вера 24
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1 group-title="Радио", Радио Родных Дорог
 https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8
