@@ -411,6 +411,14 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://95.66.188.74/.black/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Блокбастер
+http://50.7.28.226/8939/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинеко
+http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино 1
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FX
 http://91.194.191.241:8081/chid67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FX Life
@@ -463,7 +471,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Comedy Central
 http://46.8.46.14/paramountcomedy/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/retro-tv.png", Ретро ТВ
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/retro-tv.png", Ретро
 http://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -495,6 +503,10 @@ http://158.101.222.193:88/georgia_play.php?id=kinosemya
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киноман
+http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 group-title="Кино и сериалы", Многосерийное ТВ
 https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
@@ -527,6 +539,12 @@ http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Новый Русский
 https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский детектив
+http://195.158.223.132:8008/Russkiy_Detektiv
+#EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
+http://185.46.16.239:8000/Russkiy_Illyuzion
+#EXTINF:-1 group-title="Кино и сериалы", Русский роман
+http://85.208.223.249:8888/play/a007
 #EXTINF:-1 group-title="Кино и сериалы", TV4 HD
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV4 SD
@@ -537,87 +555,91 @@ https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
 http://188.113.190.12/329/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
-
-#EXTINF:-1 group-title="Кинозалы", СССР
+#EXTINF:-1 group-title="Кино и сериалы", Про любовь
+http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Советская киноклассика
+http://50.7.28.226/9461/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", СССР
 https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", СССР Военные
+#EXTINF:-1 group-title="Кино и сериалы", СССР Военные
 https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Русские фильмы СССР
+#EXTINF:-1 group-title="Кино и сериалы", Русские фильмы СССР
 https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", SeleCaoTV Фильмы
+#EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Фильмы
 http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:-1 group-title="Кинозалы", SeleCaoTV Сериалы
+#EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Сериалы
 http://195.9.195.3:8080/manifest/157269_master.m3u8
-#EXTINF:-1 group-title="Кинозалы", Аниме TB
+#EXTINF:-1 group-title="Кино и сериалы", Аниме TB
 http://195.9.195.3:8080/hls/171547.m3u8
-#EXTINF:-1 group-title="Кинозалы", СТРК HD
+#EXTINF:-1 group-title="Кино и сериалы", СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg", Moviee Toper
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg", Moviee Toper
 http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1651532_atYl.jpg", Kino Jam
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1651532_atYl.jpg", Kino Jam
 http://195.9.195.3:8080/hls/210182.m3u8
-#EXTINF:-1 group-title="Кинозалы", КиноФраншизы 24/7
+#EXTINF:-1 group-title="Кино и сериалы", КиноФраншизы 24/7
 http://195.9.195.3:8080/hls/218193.m3u8
-#EXTINF:-1 group-title="Кинозалы", Фильмы 24/7
+#EXTINF:-1 group-title="Кино и сериалы", Фильмы 24/7
 http://195.9.195.3:8080/hls/218251.m3u8
-#EXTINF:-1 group-title="Кинозалы", Малдер Всё тв
+#EXTINF:-1 group-title="Кино и сериалы", Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
-#EXTINF:-1 group-title="Кинозалы", 1FILMAX
+#EXTINF:-1 group-title="Кино и сериалы", 1FILMAX
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 group-title="Кинозалы", 2FILMAX
+#EXTINF:-1 group-title="Кино и сериалы", 2FILMAX
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.ibb.co/688SVFy/image-38.png", Фантом
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/688SVFy/image-38.png", Фантом
 http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:-1 group-title="Кинозалы", LAV-KINO
+#EXTINF:-1 group-title="Кино и сериалы", LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-0 group-title="Кинозалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка HD
+#EXTINF:-0 group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка HD
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg", VHS кино
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg", VHS кино
 http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-0 group-title="Кинозалы", Следствие вели...
+#EXTINF:-0 group-title="Кино и сериалы", Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-0 group-title="Кинозалы", Пёс
+#EXTINF:-0 group-title="Кино и сериалы", Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-0 group-title="Кинозалы", Скорая помощь
+#EXTINF:-0 group-title="Кино и сериалы", Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-0 group-title="Кинозалы", Ты супер !
+#EXTINF:-0 group-title="Кино и сериалы", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы", Смотрим
+#EXTINF:-1 group-title="Кино и сериалы", Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Cinema
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Funny
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Moretime
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 group-title="Кинозалы", Gameplay
+#EXTINF:-1 group-title="Кино и сериалы", Gameplay
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Gameplay трейлеры
+#EXTINF:-1 group-title="Кино и сериалы", Gameplay трейлеры
 https://fl1001.bozztv.com/ushba44/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/8d/The_Benny_Hill_Show.jpg", Шоу Бенни Хилла
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/8d/The_Benny_Hill_Show.jpg", Шоу Бенни Хилла
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Мистер Бин
+#EXTINF:-1 group-title="Кино и сериалы", Мистер Бин
 https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Вне закона
+#EXTINF:-1 group-title="Кино и сериалы", Вне закона
 https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Документалка 1
+#EXTINF:-1 group-title="Кино и сериалы", Документалка 1
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Документалка 2
+#EXTINF:-1 group-title="Кино и сериалы", Документалка 2
 https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision Motor
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision Motor
 https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision Movies
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision Movies
 https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision Classic
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision Classic
 https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision Кинопанорама
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision Кинопанорама
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Спорт
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Спорт
 https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Овертайм
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Овертайм
 https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 1
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 2
@@ -729,11 +751,15 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноНовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8?password=kizugtv
+https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноСемья
-https://autopilot.catcast.tv/content/38128/index.m3u8?password=kizugtv
+https://autopilot.catcast.tv/content/38128/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - ТелеНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - Христианский
+https://autopilot.catcast.tv/content/34246/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные", 1HD Music
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
