@@ -241,6 +241,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Основные" "tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png", Россия РТР Планет
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 
+#EXTINF:-1 group-title="Новости", Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 group-title="Новости", РБК
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 group-title="Новости", ОСН
@@ -275,7 +277,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="http://i115.fastpic.org/big/2021/0927/96/9eeb7e709b0b078974851708d4a43296.png", Крик-ТВ
+#EXTINF:-1 group-title="Новости" tvg-logo="http://i115.fastpic.org/big/2021/0927/96/9eeb7e709b0b078974851708d4a43296.png", Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости", Крым 24
 http://live24.1tvcrimea.ru/switcher.m3u8
@@ -290,7 +292,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские", О!
 http://95.66.188.74:80/O/mono.m3u8
-#EXTINF:-1 group-title="Детские", Смайлик ТВ
+#EXTINF:-1 group-title="Детские", Смайл
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Baby TIME
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
@@ -408,6 +410,12 @@ http://93.113.203.165/iptv/F5BM9GXMAPYBDK/745/index.m3u8
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png", World Fashion
 http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Gameplay
+https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Gameplay трейлеры
+https://fl1001.bozztv.com/ushba44/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", E
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://95.66.188.74/.black/index.m3u8
@@ -513,7 +521,7 @@ https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood
 http://46.8.46.14/amc/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Cinema HD
+#EXTINF:-1 group-title="Кино и сериалы", Cinema
 http://vod.splay.uz/live_splay/original/CinemaHD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм. Золотая коллекция
 http://188.190.222.53/Mosfilm/index.m3u8
@@ -539,12 +547,6 @@ http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Новый Русский
 https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский детектив
-http://195.158.223.132:8008/Russkiy_Detektiv
-#EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
-http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:-1 group-title="Кино и сериалы", Русский роман
-http://85.208.223.249:8888/play/a007
 #EXTINF:-1 group-title="Кино и сериалы", TV4 HD
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV4 SD
@@ -591,7 +593,7 @@ http://195.9.195.3:8080/hls/204717.m3u8
 http://195.9.195.3:8080/hls/204722.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-0 group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка HD
+#EXTINF:-0 group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка
 http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg", VHS кино
 http://195.9.195.3:8080/hls/218531.m3u8
@@ -611,16 +613,14 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Gameplay
-https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Gameplay трейлеры
-https://fl1001.bozztv.com/ushba44/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/8d/The_Benny_Hill_Show.jpg", Шоу Бенни Хилла
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мистер Бин
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Вне закона
 https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Время
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Документалка 1
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Документалка 2
@@ -919,6 +919,8 @@ https://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.m3u8
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные", МузСоюз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
 #EXTINF:-1 group-title="Радио", Радио Родных Дорог
 https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8
@@ -975,6 +977,10 @@ https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 group-title="Радио", PDJ Mini
 https://radio.promodj.com/mini-192
 
+#EXTINF:-1 group-title="Региональные", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Региональные", Беларусь 1
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
 #EXTINF:-1 group-title="Региональные", Первый информационный (Беларусь)
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Региональные", Первый Крымский (Крым)
