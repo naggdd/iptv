@@ -833,6 +833,10 @@ http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 #EXTINF:-1 group-title="Музыкальные", MTV Hits
 http://94.232.127.28:8080/mtvhits/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Первый Российский Национальный
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
@@ -896,6 +900,10 @@ http://178.212.71.253:8000/play/96/index.m3u8
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Дикий
 https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", НТВ Право
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Открытый мир
+http://v4.proofix.ru/0mir/index.m3u8
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
