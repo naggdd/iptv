@@ -326,7 +326,7 @@ http://95.66.188.74/Cartoon_Classics/index.m3u8
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 #EXTINF:-1 group-title="Детские", Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="Детские", Пингвин Лоло
+#EXTINF:-1 group-title="Детские", Пингвин
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
@@ -336,6 +336,8 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://94.232.127.28:8080/nicktoons/index.m3u8
+#EXTINF:-1 group-title="Детские", Рыжий
+http://31.148.48.15/Rizhiy/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные", NBA
 http://49.0.64.96:8007/NBA
@@ -369,6 +371,16 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_slen
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", A21 Network
 https://tv.a21network.ru/content/37909/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Тонус
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
+#EXTINF:-1 group-title="Спортивные", Setanta Sports 1
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные", Setanta Sports 2
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные", Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
@@ -416,6 +428,8 @@ https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba44/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", E
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", FAN
+http://31.148.48.15/Fan/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://95.66.188.74/.black/index.m3u8
@@ -537,6 +551,8 @@ http://94.232.127.28:8080/tv1000premium/index.m3u8
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/start-air.png", Start Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Start World
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/pobeda.png", Победа
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
@@ -547,6 +563,12 @@ http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Новый Русский
 https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
+http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский детектив
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Русский роман
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV4 HD
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV4 SD
@@ -573,7 +595,7 @@ http://195.9.195.3:8080/hls/163253.m3u8
 http://195.9.195.3:8080/manifest/157269_master.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Аниме TB
 http://195.9.195.3:8080/hls/171547.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", СТРК HD
+#EXTINF:-1 group-title="Кино и сериалы", СТРК
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg", Moviee Toper
 http://195.9.195.3:8080/hls/214749.m3u8
@@ -827,8 +849,26 @@ https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Диалоги о рыбалке
+#EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке
 http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+#EXTINF:-1 group-title="Познавательные", Охотник и рыболов
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
+#EXTINF:-1 group-title="Познавательные", Телепутешествия
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
+#EXTINF:-1 group-title="Познавательные", Конгресс
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Первый космический
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+#EXTINF:-1 group-title="Познавательные", Моя планета
+http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
+#EXTINF:-1 group-title="Познавательные", В мире животных
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
+#EXTINF:-1 group-title="Познавательные", 365 дней
+http://158.101.222.193:88/georgia_play.php?id=365day
+#EXTINF:-1 group-title="Познавательные", Discovery
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Нано
+http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
