@@ -456,13 +456,13 @@ http://194.32.242.245/vipcomedy/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy HD
 http://46.8.46.14/vipcomedy/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000
-http://46.8.46.14/tv1000/index.m3u8
+http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Кино и сериалы", A1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино и сериалы", A2
-http://46.8.46.14/A2/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
@@ -501,8 +501,6 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FilmBox
 http://188.190.222.53/FilmBOX/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Zee-TV
-http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="Кино и сериалы", Про100 ТВ
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Media
@@ -532,7 +530,7 @@ http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 group-title="Кино и сериалы", Многосерийное ТВ
 https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood
 http://46.8.46.14/amc/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
@@ -545,8 +543,6 @@ http://46.8.46.14/eurokino/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Кино и сериалы", Duo 6 [EE]
 http://94.232.127.28:8080/sony-turbo/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Go3 Films
-http://94.232.127.28:8080/tv1000premium/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/kino-24.png", Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/start-air.png", Start Air
