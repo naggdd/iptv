@@ -797,7 +797,7 @@ http://95.66.188.74/ZdorovoeTV/index.m3u8
 http://46.8.46.14/Drive/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/prosveschenie.png", Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", 360° Подмосковье
+#EXTINF:-1 group-title="Познавательные", 360 Подмосковье
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Усадьба
 http://95.66.188.74/Usadba/index.m3u8
@@ -829,7 +829,7 @@ http://95.66.188.74/Arsenal_HD/index.m3u8
 http://46.8.46.14/AdventureHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Бобер
 http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Познавательные", НТВ Неизвестная Россия
+#EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
@@ -1111,6 +1111,8 @@ http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Башкортостан 24
 http://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Aрис 24 (Башкортостан)
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Белгород 24
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Брянская Губерния (Брянск)
@@ -1203,6 +1205,8 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant
 http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.imgur.com/J3r1dqY.png", ННТВ (Нижегородская область)
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Канал-16 (Нижегородская область)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", НТМ (Мордовия)
 http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
 #EXTINF:-1 group-title="Региональные", НТС (Иркутск)
@@ -1267,6 +1271,8 @@ http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_RTKZAB/varian
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://cdn0.region29.ru/i/logo-256x256-invert.png", Регион 29 (Архангельск)
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Арктика 24 (Архангельск)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", Репортер 73 (Ульяновск)
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Рифей (Пермь)
