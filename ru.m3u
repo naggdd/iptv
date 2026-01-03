@@ -342,6 +342,10 @@ https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 http://94.232.127.28:8080/nicktoons/index.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:-1 group-title="Детские", Мультимузыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids
+http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные", NBA
 http://49.0.64.96:8007/NBA
@@ -434,6 +438,8 @@ https://fl1001.bozztv.com/ushba44/index.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", FAN
 http://31.148.48.15/Fan/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", 7 TV
+http://v4.proofix.ru:80/7tv-live/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://95.66.188.74/.black/index.m3u8
@@ -879,6 +885,10 @@ http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
 http://31148.rafail1982.uz/Kuhnya_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", История
 http://31148.rafail1982.uz/Istoriya/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Life TV
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Зоо ТВ
+http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
@@ -892,7 +902,7 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png", Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png", Муз Союз
+#EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png", МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
@@ -902,8 +912,6 @@ https://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.m3u8
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="Религиозные", МузСоюз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные", 1HD Music
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
