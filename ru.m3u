@@ -301,8 +301,6 @@ http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
 http://95.66.188.74:80/O/mono.m3u8
 #EXTINF:-1 group-title="Детские", Смайл
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="Детские", Baby TIME
-https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 #EXTINF:-1 group-title="Детские", Мульт
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD
@@ -440,16 +438,22 @@ http://v4.proofix.ru:80/7tv-live/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://95.66.188.74/.black/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", .Red
+http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi
+http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Блокбастер
 http://50.7.28.226/8939/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
-http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/2131/index.m3u8
+http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дорама HD
+http://176.96.241.40/Dorama/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
-http://dmi3y-tv6.ru/hls/CH_KINOTV.m3u8
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FX
 http://91.194.191.241:8081/chid67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FX Life
@@ -516,6 +520,8 @@ http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Cinema
 https://vod.splay.uz/live_splay/original/Star_Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Комедия
+http://95.66.188.74/Comedia/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинокомедия
 https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
@@ -523,7 +529,7 @@ https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
-http://46.8.46.14/kinoseria/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья
@@ -535,19 +541,29 @@ http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киноман
-http://146.120.14.239:3001/play/a0fv
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Многосерийное ТВ
 https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
 https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ
+http://cdn.voka.tv/live/285-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Родное кино
+http://195.158.223.132:8008/Rodnoe_Kino
+#EXTINF:-1 group-title="Кино и сериалы", Любимое кино
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Мир сериала
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood
 http://46.8.46.14/amc/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
 http://vod.splay.uz/live_splay/original/CinemaHD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм. Золотая коллекция
-http://188.190.222.53/Mosfilm/index.m3u8
+http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
-http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=default
+http://195.158.223.132:8010/Evrokino
+#EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
+http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Кино и сериалы", Duo 6 [EE]
@@ -562,9 +578,9 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Дом Кино Премиум HD
+#EXTINF:-1 group-title="Кино и сериалы", Дом Кино Премиум
 http://95.66.188.74/DomKinoPremiumHD/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Романтичное HD
+#EXTINF:-1 group-title="Кино и сериалы", Романтичное
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Новый Русский
 https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
@@ -574,6 +590,8 @@ http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Сапфир
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV4 HD
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV4 SD
@@ -581,7 +599,7 @@ https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", HTV
 https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
-http://188.113.190.12/329/tracks-v1a1/mono.m3u8
+http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="Кино и сериалы", Про любовь
@@ -665,7 +683,7 @@ https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Saga
 http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", НСТ
-http://178.212.71.253:8000/play/100/index.m3u8
+http://195.9.195.3:8080/hls/217855.m3u8
 
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 1
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
@@ -1050,6 +1068,8 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Региональные", Первый Крымский (Крым)
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="Региональные", Миллет (Крым)
+http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://only4.tv/ch/417.png", Москва Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Мир Белогорья (Белгородская область)
