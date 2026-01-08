@@ -1,54 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/refs/heads/main/logos/perviy.heic", Первый
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/perviy.heic", Первый
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/rossiya_1.heic", Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1 HD
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/rossiya_1.heic", Россия 1 HD
 http://95.66.188.74/Rossia1HD/mono.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.postimg.cc/HWJQkCcp/match.png", Матч!
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/match.heic", Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.postimg.cc/HWJQkCcp/match.png", Матч! HD
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/match.heic", Матч! HD
 https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/ntv.heic", НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/9r1BKzK.png", НТВ HD
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/ntv.heic", НТВ HD
 http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KPXMa3U.png", Пятый
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/pyatiy.heic", Пятый
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png", Россия К
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/rossiya_k.heic", Россия К
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png", Россия 24
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/rossiya_24.heic", Россия 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png", Россия 24 HD
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/rossiya_24.heic", Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="http://only4.tv/ch/822.png", Карусель
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/karusel.heic", Карусель
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/VaWlnjZ.png", ОТР
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/otr.heic", ОТР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.postimg.cc/KcgtT9C7/tvcentr.png", ТВ Центр
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/tv_tsentr.heic", ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/0Tu5lte.png", РЕН ТВ
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/ren_tv.heic", РЕН ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/yY39nMg.png", Спас
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/spas.heic", Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ilUzAeb.png", СТС
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/sts.heic", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/XVRwgom.png", Домашний
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/domashniy.heic", Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/JLAvq8O.png", ТВ3
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/tv3.heic", ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/UfmlXxe.png", Пятница
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/pyatnica.heic", Пятница
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/4PAcpfM.png", Звезда
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/zvezda.heic", Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/AqWaJT8.png", Мир
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/mir.heic", Мир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/AqWaJT8.png", Мир HD
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/mir.heic", Мир HD
 http://176.96.241.40/Mir/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/T4A6rEI.png", ТНТ
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/tnt.heic", ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/BtqrHmz.png", МУЗ-ТВ
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/muz_tv.heic", МУЗ-ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 
 #EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый (+1)
