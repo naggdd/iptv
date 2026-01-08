@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый
+#EXTINF:-1 group-title="Основные" tvg-logo="https://github.com/naggdd/iptv/raw/refs/heads/main/logos/perviy.heic", Первый
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png", Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
