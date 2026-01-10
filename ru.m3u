@@ -204,114 +204,128 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://github.com/naggdd/iptv/raw/main/logos/muz_tv.heic", МУЗ-ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че!
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че! (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png", Россия РТР Планет
-http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-#EXTINF:-1 group-title="Основные", Настоящее время
+#EXTINF:-1 group-title="Популярные", Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-
-#EXTINF:-1 group-title="Новости", Дождь
-http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/2030/index.m3u8
-#EXTINF:-1 group-title="Новости", Москва 24
+#EXTINF:-1 group-title="Популярные", Дом Кино Премиум
+http://95.66.188.74/DomKinoPremiumHD/index.m3u8
+#EXTINF:-1 group-title="Популярные", Русский роман
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 group-title="Популярные", RU.TV
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Популярные", Кинопремьера
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Популярные", Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="Популярные", Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:-1 group-title="Новости", РБК
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/pobeda.png", Победа
+https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/HCefxaK.png", Солнце (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+
+#EXTINF:-1 group-title="Информационные", Дождь
+http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/2030/index.m3u8
+#EXTINF:-1 group-title="Информационные", РБК
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
-#EXTINF:-1 group-title="Новости", ОСН
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png", Россия РТР Планета
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:-1 group-title="Информационные", ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 group-title="Новости", Беларусь 24
+#EXTINF:-1 group-title="Информационные", Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="http://i120.fastpic.org/big/2022/1030/82/98a51aa644e4a988a369cd1c3bc9e882.png", ОНТ
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://i120.fastpic.org/big/2022/1030/82/98a51aa644e4a988a369cd1c3bc9e882.png", ОНТ
 https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="https://iptvx.one/picons/ldpr-tv.png", ЛДПР ТВ
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvx.one/picons/ldpr-tv.png", ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Новости", Соловьев.Live
+#EXTINF:-1 group-title="Информационные", Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 group-title="Новости", Дума ТВ
+#EXTINF:-1 group-title="Информационные", Дума ТВ
 https://dumatv.iptv2022.com/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png", ТАСС
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="https://iptvx.one/picons/pro-business.png", Про бизнес
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://iptvx.one/picons/pro-business.png", Про бизнес
 http://176.107.219.20:9000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Новости", Euronews
+#EXTINF:-1 group-title="Информационные", Euronews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
-#EXTINF:-1 group-title="Новости", CNN
+#EXTINF:-1 group-title="Информационные", CNN
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-#EXTINF:-1 group-title="Новости", BBC World News
+#EXTINF:-1 group-title="Информационные", BBC World News
 https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="Новости", RT News
+#EXTINF:-1 group-title="Информационные", RT News
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="Новости", RTД
+#EXTINF:-1 group-title="Информационные", RTД
 http://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="Новости", 360 Новости
+#EXTINF:-1 group-title="Информационные", 360 Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Новости", Известия
+#EXTINF:-1 group-title="Информационные", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Новости", РЖД
+#EXTINF:-1 group-title="Информационные", РЖД
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Новости", Вместе-РФ
+#EXTINF:-1 group-title="Информационные", Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="http://i115.fastpic.org/big/2021/0927/96/9eeb7e709b0b078974851708d4a43296.png", Крик ТВ
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://i115.fastpic.org/big/2021/0927/96/9eeb7e709b0b078974851708d4a43296.png", Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 group-title="Новости", Крым 24
+#EXTINF:-1 group-title="Информационные", Крым 24
 http://live24.1tvcrimea.ru/switcher.m3u8
-#EXTINF:-1 group-title="Новости", Легендарный 24
+#EXTINF:-1 group-title="Информационные", Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 group-title="Новости", CGTN Русский
+#EXTINF:-1 group-title="Информационные", CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-#EXTINF:-1 group-title="Новости", СТВ 24
+#EXTINF:-1 group-title="Информационные", СТВ 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
 
 #EXTINF:-1 group-title="Детские", Мама
@@ -363,6 +377,12 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
 
+#EXTINF:-1 group-title="Спортивные", Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1 group-title="Спортивные", Матч! Премьер
+http://46.8.46.14/premier/index.m3u8
 #EXTINF:-1 group-title="Спортивные", NBA
 http://49.0.64.96:8007/NBA
 #EXTINF:-1 group-title="Спортивные", Футбол
@@ -377,10 +397,6 @@ http://158.101.222.193:88/georgia_play.php?id=boxtv
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Eurosport 2
 http://5.188.159.128:8070/eurosport2/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="Спортивные", Матч! Премьер
-http://46.8.46.14/premier/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Сетанта Спорт 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Сетанта Спорт 2
@@ -399,8 +415,6 @@ https://tv.a21network.ru/content/37909/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 #EXTINF:-1 group-title="Спортивные", Старт Баскет
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Страна
-http://178.212.71.253:8000/play/51/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
@@ -553,8 +567,6 @@ http://95.66.188.74/Comedia/mono.m3u8
 https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кинопремьера
-https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
@@ -563,8 +575,6 @@ http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="Кино и сериалы", Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 group-title="Кино и сериалы", Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киноман
@@ -583,8 +593,6 @@ http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
 http://46.8.46.14/amc/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
 http://vod.splay.uz/live_splay/original/CinemaHD/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм. Золотая коллекция
-http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
 http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мужское кино
@@ -597,12 +605,8 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Start World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/pobeda.png", Победа
-https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Дом Кино Премиум
-http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Романтичное
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Новый Русский
@@ -611,8 +615,6 @@ https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский роман
-http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Сапфир
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV4 HD
@@ -1011,8 +1013,6 @@ https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8
 #EXTINF:-1 group-title="Музыкальные", DeeJay
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные", RU.TV
-http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png", Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Музыкальные", ТНТ Music
