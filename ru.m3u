@@ -217,11 +217,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Популярные", RU.TV
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Популярные", Бобер
-http://178.212.71.253:8002/play/a00m/index.m3u8
+http://95.66.188.74/Bober/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/pobeda.png", Победа
-https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм. Золотая коллекция HD
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="Популярные", История
 http://31148.rafail1982.uz/Istoriya/index.m3u8
 #EXTINF:-1 group-title="Популярные", Время
@@ -237,7 +237,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 group-title="Популярные", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 group-title="Популярные", FAN
-http://31.148.48.15/Fan/index.m3u8
+http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:-1 group-title="Популярные", О!
 http://95.66.188.74:80/O/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Соловьев.Live
@@ -247,13 +247,15 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 #EXTINF:-1 group-title="Популярные", Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="Популярные", Discovery
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Популярные", Моя планета
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 #EXTINF:-1 group-title="Популярные", Поехали!
 http://31.148.48.15:80/Poehali/index.m3u8
+#EXTINF:-1 group-title="Популярные", Дом Кино
+http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="Популярные", Дом Кино Премиум
-http://95.66.188.74/DomKinoPremiumHD/index.m3u8
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Русский роман
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Популярные", Русский детектив
@@ -277,13 +279,15 @@ https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Популярные", Cinema
-http://vod.splay.uz/live_splay/original/CinemaHD/index.m3u8
+http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Популярные", НСТ
 http://195.9.195.3:8080/hls/217855.m3u8
 #EXTINF:-1 group-title="Популярные", Кинокомедия
-https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 group-title="Популярные", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="Популярные", Мужское кино HD
+http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
 
 #EXTINF:-1 group-title="Популярные (региональные)" tvg-logo="https://i.imgur.com/fhQFLEl.png", 2x2 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
