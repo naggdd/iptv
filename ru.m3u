@@ -18,6 +18,8 @@ http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_k.png", Россия К
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_k.png", Россия К HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_24.png", Россия 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_24.png", Россия 24 HD
@@ -42,6 +44,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/zvezda.png", Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/zvezda.png", Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир HD
@@ -50,6 +54,8 @@ http://176.96.241.40/Mir/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", МУЗ-ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", МУЗ-ТВ HD
+http://178.124.179.122:8088/MuzTV/index.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/perviy.png", Первый (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
@@ -242,7 +248,7 @@ http://195.9.195.3:8080/hls/157239.m3u8
 http://95.66.188.74:80/O/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 group-title="Популярные", Москва 24
+#EXTINF:-1 group-title="Популярные", Москва 24 (М24)
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 group-title="Популярные", Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
@@ -366,8 +372,12 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", RTД
 http://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="Информационные", 360 Новости
+#EXTINF:-1 group-title="Информационные", 360
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Информационные", 360 Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Информационные", RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:-1 group-title="Информационные", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", РЖД
@@ -862,7 +872,7 @@ https://autopilot.catcast.tv/content/34246/index.m3u8
 http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://31148.rafail1982.uz/Avto_Plus/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Первый Российский Национальный
+#EXTINF:-1 group-title="Познавательные", ПРНК
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png", Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
@@ -888,7 +898,7 @@ http://95.66.188.74/Usadba/index.m3u8
 https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u
 #EXTINF:-1 group-title="Познавательные", Кто есть кто
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:-1 group-title="Познавательные", СТВ
+#EXTINF:-1 group-title="Познавательные", СТВ (CTV.BY)
 https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG
 http://95.66.188.74/RTGHD/index.m3u8
