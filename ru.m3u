@@ -1063,59 +1063,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Радио", Радио Родных Дорог
-https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Дорожное FM
-https://stream-msk-17.ott.tricolor.tv/dtv/id949_MSKSG-PVR-1--dorozhnoye_radio/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Europe Plus
-https://stream-msk-17.ott.tricolor.tv/dtv/id945_MSKSG-PVR-1--europa_plus/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Авто Радио
-https://stream-msk-04.ott.tricolor.tv/dtv/id766_MSKSG-PVR-1--Avtoradio/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Радио Maximum
-https://stream-msk-05.ott.tricolor.tv/dtv/id763_MSKSG-PVR-1--Maximum/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Русское Радио
-https://stream-msk-20.ott.tricolor.tv/dtv/id962_MSKSG-PVR-1--Russkoe_radio/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Юмор FM
-https://stream-msk-20.ott.tricolor.tv/dtv/id956_MSKSG-PVR-1--yumor_fm/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Радио Ваня
-https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8
-#EXTINF:-1 group-title="Радио" tvg-logo="http://i115.fastpic.org/big/2021/0829/eb/4eecf3a0b670307e6947fdf2cd5f01eb.png", Comedy Radio
-https://stream-msk-20.ott.tricolor.tv/dtv/id966_MSKSG-PVR-1--Comedy_Radio/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Dance FM
-https://stream-msk-20.ott.tricolor.tv/dtv/id952_MSKSG-PVR-1--dfm/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Ретро FM
-https://stream-msk-17.ott.tricolor.tv/dtv/id967_MSKSG-PVR-1--Retro_FM/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", ХИТ FM
-https://stream-msk-20.ott.tricolor.tv/dtv/id953_MSKSG-PVR-1--hit_fm/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Радио 7
-https://stream-msk-17.ott.tricolor.tv/dtv/id955_MSKSG-PVR-1--radio_na_7_kholmakh/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Радио Воскресение
-https://stream-msk-06.ott.tricolor.tv/dtv/id780_MSKSG-PVR-1--Voskreseniye/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Радио Звезда
-https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Радио Комсомольская Правда
-https://stream-msk-20.ott.tricolor.tv/dtv/id958_MSKSG-PVR-1--komsomolskaya_pravda/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Радио ENERGY
-https://stream-msk-17.ott.tricolor.tv/dtv/id959_MSKSG-PVR-1--Radio_ENERGY/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Радио Romantika
-https://stream-msk-17.ott.tricolor.tv/dtv/id965_MSKSG-PVR-1--Radio_Romantika/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Детское Радио
-https://stream-msk-05.ott.tricolor.tv/dtv/id771_MSKSG-PVR-1--Detskoye_radio/01/plst.m3u8
-#EXTINF:-1 group-title="Радио" tvg-logo="https://sun1-27.userapi.com/K00RzIbIRMgpmKk5gMyIlZ_XuwhfIeOk_ID50g/WKEk93tgVTQ.jpg", Радио Град Петров
-https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Вести FM
-https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
-#EXTINF:-1 group-title="Радио", Радио МСМ
-http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Радио", Радио Краснодар
-http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
-#EXTINF:-1 group-title="Радио", Радио Центр FM
-https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Радио", Радио Спутник
-https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 group-title="Радио", PDJ Mini
-https://radio.promodj.com/mini-192
-
 #EXTINF:-1 group-title="Региональные", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 1
@@ -1286,7 +1233,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Колыма Плюс (Магаданская область)
 http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Краснодар (Краснодар)
+#EXTINF:-1 group-title="Региональные", Краснодар
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Кубань 24 (Краснодар)
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24-T/variant.m3u8

@@ -1,0 +1,68 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Радио", Дорожное радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1 group-title="Радио", Дорожное радио
+https://stream-msk-17.ott.tricolor.tv/dtv/id949_MSKSG-PVR-1--dorozhnoye_radio/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Европа Плюс
+https://stream-msk-17.ott.tricolor.tv/dtv/id945_MSKSG-PVR-1--europa_plus/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Авторадио
+http://ic7.101.ru:8000/v3_1
+#EXTINF:-1 group-title="Радио", Русское радио
+https://stream-msk-20.ott.tricolor.tv/dtv/id962_MSKSG-PVR-1--Russkoe_radio/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Русское радио
+http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 group-title="Радио", Ретро FM
+https://stream-msk-17.ott.tricolor.tv/dtv/id967_MSKSG-PVR-1--Retro_FM/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+#EXTINF:-1 group-title="Радио", Вести FM
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+#EXTINF:-1 group-title="Радио", Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 group-title="Радио", Юмор FM
+https://pub0301.101.ru:8443/stream/air/mp3/256/102
+#EXTINF:-1 group-title="Радио", Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 group-title="Радио", Радио Родных Дорог
+https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Наше радио
+http://nashe1.hostingradio.ru:80/nashe-256
+#EXTINF:-1 group-title="Радио", Радио Мир
+http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+#EXTINF:-1 group-title="Радио", Радио Maximum
+https://stream-msk-05.ott.tricolor.tv/dtv/id763_MSKSG-PVR-1--Maximum/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Радио Ваня
+https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Радио Ваня
+http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
+#EXTINF:-1 group-title="Радио", Dance FM
+https://stream-msk-20.ott.tricolor.tv/dtv/id952_MSKSG-PVR-1--dfm/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Радио DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1 group-title="Радио", Хит FM
+https://stream-msk-20.ott.tricolor.tv/dtv/id953_MSKSG-PVR-1--hit_fm/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 group-title="Радио", Радио на семи холмах
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:-1 group-title="Радио", Радио 7
+https://stream-msk-17.ott.tricolor.tv/dtv/id955_MSKSG-PVR-1--radio_na_7_kholmakh/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Радио Воскресение
+https://stream-msk-06.ott.tricolor.tv/dtv/id780_MSKSG-PVR-1--Voskreseniye/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Радио Звезда
+https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Радио Комсомольская Правда
+https://stream-msk-20.ott.tricolor.tv/dtv/id958_MSKSG-PVR-1--komsomolskaya_pravda/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Радио Град Петров
+https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Радио МСМ
+http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио", Радио Краснодар
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Радио Центр FM
+https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Радио Спутник
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="Радио", PDJ Mini
+https://radio.promodj.com/mini-192
