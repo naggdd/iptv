@@ -3,9 +3,12 @@ Collection of publicly available Russian IPTV (Internet Protocol television) cha
 
 ## Usage
 Simply copy the link below and paste it into any IPTV player.
-
 ```
 https://naggdd.github.io/iptv/ru.m3u
+```
+Radio channels and stations are compiled in a separate playlist.
+```
+https://naggdd.github.io/iptv/radio.m3u
 ```
 
 ## Sources
