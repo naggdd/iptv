@@ -6,6 +6,8 @@ http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 https://stream-msk-17.ott.tricolor.tv/dtv/id949_MSKSG-PVR-1--dorozhnoye_radio/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", Европа Плюс
 https://stream-msk-17.ott.tricolor.tv/dtv/id945_MSKSG-PVR-1--europa_plus/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Европа Плюс
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 #EXTINF:-1 group-title="Радио", Авторадио
 http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 group-title="Радио", Русское радио
@@ -18,8 +20,12 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id967_MSKSG-PVR-1--Retro_FM/01/plst.m3
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 group-title="Радио", Вести FM
 https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+#EXTINF:-1 group-title="Радио", Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 group-title="Радио", Радио Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 group-title="Радио", Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 group-title="Радио", Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
 #EXTINF:-1 group-title="Радио", Радио Маяк
@@ -27,11 +33,13 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 group-title="Радио", Радио Родных Дорог
 https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", Наше радио
-http://nashe1.hostingradio.ru:80/nashe-256
+http://nashe1.hostingradio.ru/nashespb128.mp3
 #EXTINF:-1 group-title="Радио", Радио Мир
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:-1 group-title="Радио", Радио Maximum
 https://stream-msk-05.ott.tricolor.tv/dtv/id763_MSKSG-PVR-1--Maximum/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Радио Maximum
+http://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 group-title="Радио", Радио Ваня
 https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", Радио Ваня
@@ -66,3 +74,7 @@ https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 group-title="Радио", PDJ Mini
 https://radio.promodj.com/mini-192
+#EXTINF:-1 group-title="Радио", Rock FM
+http://nashe1.hostingradio.ru/rock-64.mp3
+#EXTINF:-1 group-title="Радио", Ultra
+http://nashe1.hostingradio.ru/ultra-64.mp3
