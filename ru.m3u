@@ -527,6 +527,10 @@ http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/5049/index.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", 7 TV
 http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", TV1.KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Толк
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://95.66.188.74/.black/index.m3u8
@@ -750,6 +754,8 @@ http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Plan_B
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Pro100
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 1
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
@@ -890,6 +896,8 @@ http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/14001/index.m3u8
 http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/2067/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
 http://95.66.188.74/ZdorovoeTV/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Первый вегетарианский
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
 #EXTINF:-1 group-title="Познавательные", Драйв
 http://46.8.46.14/Drive/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/prosveschenie.png", Просвещение
@@ -914,9 +922,9 @@ http://95.66.188.74/HD_Life/mono.m3u8
 http://46.8.46.14/zoo/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/univer-tv.png", Univer
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/univer-tv.png", Univer (Универ)
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/univer-tv.png", Univer HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/univer-tv.png", Univer HD (Универ)
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg", DОСТОЕВСКИЙ (Достоевский)
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
@@ -956,7 +964,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
 #EXTINF:-1 group-title="Познавательные", 365 дней
 http://158.101.222.193:88/georgia_play.php?id=365day
-#EXTINF:-1 group-title="Познавательные", Нано
+#EXTINF:-1 group-title="Познавательные", Нано (Nano)
 http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", FoodTime
 http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
@@ -1062,6 +1070,8 @@ http://94.232.127.28:8080/mtvhits/index.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
 
 #EXTINF:-1 group-title="Региональные", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
@@ -1383,8 +1393,6 @@ http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ТНР24 (Нижневартовск)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Толк (Барнаул)
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Юганск (Нефтеюганск)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные",Тагил-ТВ (Нижний Тагил)
