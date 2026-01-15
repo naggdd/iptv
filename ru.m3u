@@ -397,6 +397,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
 
 #EXTINF:-1 group-title="Детские", Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детские", Лева
+http://cdn.voka.tv/live/2424-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Детские", JimJam
+http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум
@@ -409,6 +413,8 @@ http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/143/index.m3u8
 http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/541/index.m3u8
 #EXTINF:-1 group-title="Детские", Nick Jr
 http://46.8.46.14/nickjr/index.m3u8
+#EXTINF:-1 group-title="Детские", Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png", Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Мульт и музыка
@@ -429,6 +435,8 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Nicktoons
 http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/849/index.m3u8
+#EXTINF:-1 group-title="Детские", Da Vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
 #EXTINF:-1 group-title="Детские", Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
@@ -584,6 +592,10 @@ http://ukr2.ukrainske.tv/493/video.m3u8
 http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat History
 http://94.232.127.28:8080/viasathistory/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", FilmUADrama
+http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", FilmUADrama HD
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png", Феникс+ Кино
 http://91.194.191.241:8081/chid70/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png", Феникс+ Кино HD
