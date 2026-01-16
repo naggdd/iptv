@@ -254,6 +254,8 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="Популярные", Discovery
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1 group-title="Популярные", Discovery HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Популярные", Моя планета
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 #EXTINF:-1 group-title="Популярные", Поехали!
@@ -261,7 +263,7 @@ http://31.148.48.15:80/Poehali/index.m3u8
 #EXTINF:-1 group-title="Популярные", Дом Кино
 http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="Популярные", Дом Кино Премиум
-http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+http://84.54.128.52:9090/play/a001/index.m3u8
 #EXTINF:-1 group-title="Популярные", Русский роман
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Популярные", Русский детектив
@@ -285,7 +287,7 @@ https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Популярные", Cinema
-http://catchup.videoline.ru/cinema/index.m3u8
+http://176.96.241.40/Cinema/index.m3u8
 #EXTINF:-1 group-title="Популярные", НСТ
 http://195.9.195.3:8080/hls/217855.m3u8
 #EXTINF:-1 group-title="Популярные", Кинокомедия
@@ -421,7 +423,7 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
-#EXTINF:-1 group-title="Детские", Шаян ТВ
+#EXTINF:-1 group-title="Детские", Шаян
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 #EXTINF:-1 group-title="Детские", Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -512,7 +514,7 @@ https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлекательные", КВН
-http://46.8.46.14/kvn/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Развлекательные", Теледом
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Развлекательные", Тео-ТВ
@@ -768,6 +770,10 @@ http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Pro100
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Хит
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
+#EXTINF:-1 group-title="Кино и сериалы", Хит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 1
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
@@ -892,8 +898,8 @@ https://autopilot.catcast.tv/content/34246/index.m3u8
 http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://31148.rafail1982.uz/Avto_Plus/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Техно 24
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
+#EXTINF:-1 group-title="Познавательные", Техно 24 (Т24)
+http://158.101.222.193:88/georgia_play.php?id=24techno
 #EXTINF:-1 group-title="Познавательные", ПРНК
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png", Красная линия
@@ -968,6 +974,10 @@ http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
+#EXTINF:-1 group-title="Познавательные", Travel+Adventure
+http://cdn.voka.tv/live/964-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
