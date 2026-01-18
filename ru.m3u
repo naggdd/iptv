@@ -5,7 +5,7 @@ http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 HD
-http://95.66.188.74/Rossia1HD/mono.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч! HD
@@ -49,7 +49,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир HD
-http://176.96.241.40/Mir/index.m3u8
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", МУЗ-ТВ
@@ -223,9 +223,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Популярные", RU.TV
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Популярные", Бобер
-http://95.66.188.74/Bober/mono.m3u8
+http://176.118.197.125/Bober/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм. Золотая коллекция
-http://178.134.1.158:8081/mosfilm/index.m3u8
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="Популярные", История
@@ -245,7 +245,9 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 group-title="Популярные", FAN
 http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:-1 group-title="Популярные", О!
-http://95.66.188.74:80/O/mono.m3u8
+http://217.11.177.56/streams/media/o2tv_720x576/index.m3u8
+#EXTINF:-1 group-title="Популярные", О! HD
+http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Популярные", Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Популярные", Москва 24 (М24)
@@ -257,21 +259,21 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Популярные", Discovery HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Популярные", Моя планета
-http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
+http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="Популярные", Поехали!
 http://31.148.48.15:80/Poehali/index.m3u8
 #EXTINF:-1 group-title="Популярные", Дом Кино
-http://176.96.241.40/DomKino/index.m3u8
+https://flussonic.salomtv.uz/domkino/video.m3u8
 #EXTINF:-1 group-title="Популярные", Дом Кино Премиум
 http://84.54.128.52:9090/play/a001/index.m3u8
 #EXTINF:-1 group-title="Популярные", Русский роман
-http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="Популярные", Русский детектив
-http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
 #EXTINF:-1 group-title="Популярные", Кинопремьера
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
+http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Популярные", Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="Популярные", Киносерия
@@ -287,11 +289,11 @@ https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Популярные", Cinema
-http://176.96.241.40/Cinema/index.m3u8
+http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Популярные", НСТ
-http://195.9.195.3:8080/hls/217855.m3u8
+http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="Популярные", Кинокомедия
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="Популярные", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Популярные", Мужское кино HD
