@@ -408,7 +408,7 @@ http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум
-http://46.8.46.14/detskiy/index.m3u8
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 http://46.8.46.14/Gulli/index.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Network
@@ -447,6 +447,8 @@ http://31.148.48.15/Rizhiy/index.m3u8
 http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
 http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
+#EXTINF:-1 group-title="Детские", Союзмультфильмы
+http://194.26.229.213/souzmultfilm/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные", Матч! Страна
 http://178.212.71.253:8000/play/51/index.m3u8
@@ -488,6 +490,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
 #EXTINF:-1 group-title="Спортивные", Старт Триумф
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8
+#EXTINF:-1 group-title="Спортивные", Спорт
+http://live-3.otcnet.ru/sportivny/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
@@ -576,11 +580,11 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 http://188.208.197.173:8888/vijuromantica/video.m3u8?token=loganet
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Новелла HD
 http://188.208.197.173:8888/viju-novella/video.m3u8?token=loganet
-#EXTINF:-1 group-title="Кино и сериалы", Amedia 1
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1)
 http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="Кино и сериалы", Amedia 1 HD
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1) HD
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Amedia 2
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 2 (A2)
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
@@ -953,7 +957,7 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Big Planet
 http://109.75.59.241:8017/BigPlanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал
-http://95.66.188.74/Arsenal_HD/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/1c5442c0461e5186126aaba26edd6857.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения
 http://46.8.46.14/AdventureHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
