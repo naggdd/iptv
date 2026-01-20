@@ -17,4 +17,5 @@ This playlist was compiled using the [m3u.su](https://m3u.su) playlist aggregato
 * [dmi3y-tv6.ru](http://dmi3y-tv6.ru)
 * [loganettv](https://github.com/loganettv/playlists)
 * [smolnp](https://github.com/smolnp/IPTVru)
+* [Dimonovich](https://github.com/Dimonovich/TV)
 * [iptv-org](https://github.com/iptv-org/iptv)
