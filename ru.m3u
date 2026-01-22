@@ -399,8 +399,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
 
 #EXTINF:-1 group-title="Детские", Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Детские", Лева
-http://cdn.voka.tv/live/2424-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл
@@ -463,15 +461,15 @@ http://188.190.222.53/FightBOX/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спортивные", Eurosport 1
-http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+http://cdntv.online/high/47eurvkpm6/37.m3u8
+#EXTINF:-1 group-title="Спортивные", Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Eurosport 2
-http://5.188.159.128:8070/eurosport2/index.m3u8
+http://cdntv.online/high/47eurvkpm6/39.m3u8
 #EXTINF:-1 group-title="Спортивные", Сетанта Спорт 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Сетанта Спорт 2
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спортивные", Окко.Прайм Спорт
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Беларусь 5
