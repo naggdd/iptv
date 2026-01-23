@@ -210,23 +210,23 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", МУЗ-ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/ZOcDGpB.png", Че
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/che.png", Че
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/subbota.png", Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/gBokU5i.png", ТНТ4
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt4.png", ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/YBVZoDd.png", СТС Love
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/sts_love.png", СТС Love
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://i.imgur.com/KDZvt0Q.png", Ю
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/you.png", Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Популярные", RU.TV
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_tv.png", RU.TV
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="Популярные", Бобер
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/bober.png", Бобер
 http://176.118.197.125/Bober/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм. Золотая коллекция HD
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://iptvx.one/picons/mosfilm.png", Мосфильм Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="Популярные", История
 http://31148.rafail1982.uz/Istoriya/index.m3u8
