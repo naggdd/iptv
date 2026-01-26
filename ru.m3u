@@ -996,6 +996,8 @@ http://31148.rafail1982.uz/Kuhnya_TV/index.m3u8
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
 http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Познавательные", TV Pro
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -1013,6 +1015,8 @@ https://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.m3u8
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные", TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 
 #EXTINF:-1 group-title="Музыкальные", Музыка Первого
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
@@ -1477,3 +1481,5 @@ http://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", Алмазный край
 https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 group-title="Региональные", НТРК Ингушетия
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
