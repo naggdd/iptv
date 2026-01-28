@@ -398,6 +398,8 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 group-title="Информационные", СТВ 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
+#EXTINF:-1 group-title="Информационные", НТВ Мир
+https://streaming.thestream.cyou/live/213.m3u8
 
 #EXTINF:-1 group-title="Детские", Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
@@ -690,6 +692,8 @@ http://158.101.222.193:88/georgia_play.php?id=zeetv
 http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Советская киноклассика
 http://50.7.28.226/9461/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Победа
+https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Фильмы
 http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Сериалы
@@ -1191,6 +1195,8 @@ http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/v
 http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Астрахань 24
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Телплюс (Астрахань)
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/bst-bratsk.png", БСТ24 (Братск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/Wzp0hws/d9-WXRks8-200x200.jpg", Барс (Иваново)
@@ -1381,7 +1387,7 @@ http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://www.cableman.ru/sites/default/files/salyam_0.png", Салям (Башкортостан)
 http://s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Самара 24 (Самара)
+#EXTINF:-1 group-title="Региональные", Самара 24
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Самотлор (Нижневартовск)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
@@ -1489,3 +1495,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:-1 group-title="Региональные", НТРК Ингушетия
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", МТРК (Казахстан)
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Таврия (Херсонская область)
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
