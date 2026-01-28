@@ -14,6 +14,8 @@ http://ic7.101.ru:8000/v3_1
 https://stream-msk-20.ott.tricolor.tv/dtv/id962_MSKSG-PVR-1--Russkoe_radio/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", Русское радио
 http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 group-title="Радио", Говорит Москва
+https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 group-title="Радио", Ретро FM
 https://stream-msk-17.ott.tricolor.tv/dtv/id967_MSKSG-PVR-1--Retro_FM/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", Ретро FM
@@ -52,6 +54,10 @@ http://dfm.hostingradio.ru/dfm128.mp3
 https://stream-msk-20.ott.tricolor.tv/dtv/id953_MSKSG-PVR-1--hit_fm/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 group-title="Радио", Хит (Орск)
+http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 group-title="Радио", Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Радио", Радио на семи холмах
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 #EXTINF:-1 group-title="Радио", Радио 7
