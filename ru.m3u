@@ -260,6 +260,10 @@ http://84.54.128.52:9090/play/a001/index.m3u8
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="Популярные", Русский детектив
 https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/ntv-xit.png", НТВ Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Победа
+https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Популярные", Кинопремьера
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Кинохит
@@ -600,8 +604,6 @@ http://88.99.215.227/FilmUADrama/index.m3u8
 http://91.194.191.241:8081/chid70/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png", Феникс+ Кино HD
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/ntv-xit.png", НТВ Хит
-http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/ntv-serial.png", НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV21
@@ -684,8 +686,6 @@ http://158.101.222.193:88/georgia_play.php?id=zeetv
 http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Советская киноклассика
 http://50.7.28.226/9461/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Победа
-https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Фильмы
 http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Сериалы
@@ -1417,7 +1417,7 @@ http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Юганск (Нефтеюганск)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
-#EXTINF:-1 group-title="Региональные",Тагил-ТВ (Нижний Тагил)
+#EXTINF:-1 group-title="Региональные", Тагил-ТВ (Нижний Тагил)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Такт 24 (Курск)
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8
