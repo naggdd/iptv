@@ -256,21 +256,21 @@ http://31.148.48.15:80/Poehali/index.m3u8
 https://flussonic.salomtv.uz/domkino/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_premium.png", Дом Кино Премиум
 http://84.54.128.52:9090/play/a001/index.m3u8
-#EXTINF:-1 group-title="Популярные", Русский роман
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 group-title="Популярные", Русский детектив
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_detectiv.png", Русский детектив
 https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/ntv-xit.png", НТВ Хит
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ntv_hit.png", НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Победа
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/pobeda.png", Победа
 https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 group-title="Популярные", Кинопремьера
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinopremiera.png", Кинопремьера
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Популярные", Кинохит
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinohit.png", Кинохит
 http://195.26.83.96:7005/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Популярные", Киноужас
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinouzhas.png", Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 group-title="Популярные", Киносерия
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png", Киносерия
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="Популярные", Viju TV1000
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
