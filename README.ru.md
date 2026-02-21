@@ -16,7 +16,7 @@
   ```
 
 ## Источники
-* Агрегатор плейлистов [m3u.su](https://m3u.su)
+* [m3u.su](https://m3u.su)
 * [dmi3y-tv6.ru](http://dmi3y-tv6.ru)
 * [loganettv](https://github.com/loganettv/playlists)
 * [smolnp](https://github.com/smolnp/IPTVru)
