@@ -14,6 +14,10 @@
   ```
   https://naggdd.github.io/iptv/radio.m3u
   ```
+* Мультфильмы
+  ```
+  https://naggdd.github.io/iptv/cartoons.m3u
+  ```
 
 ## Источники
 * [m3u.su](https://m3u.su)
