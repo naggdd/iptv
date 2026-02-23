@@ -14,6 +14,10 @@ Copy the link to the playlist and paste it into any IPTV player.
   ```
   https://naggdd.github.io/iptv/radio.m3u
   ```
+* Cartoons
+  ```
+  https://naggdd.github.io/iptv/cartoons.m3u
+  ```
 
 ## Sources
 * [m3u.su](https://m3u.su)
