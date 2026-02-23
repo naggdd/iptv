@@ -60,6 +60,8 @@ http://lova.me/hls/hithd.m3u8
 http://icecast-newradio.cdnvideo.ru/newradio3
 #EXTINF:-1 group-title="Радио", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Русский мир
+https://a5.radioheart.ru:9043/RH4272
 #EXTINF:-1 group-title="Радио", На семи холмах
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 #EXTINF:-1 group-title="Радио", 7
@@ -70,6 +72,8 @@ https://stream-msk-06.ott.tricolor.tv/dtv/id780_MSKSG-PVR-1--Voskreseniye/01/pls
 https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", Комсомольская Правда
 https://stream-msk-20.ott.tricolor.tv/dtv/id958_MSKSG-PVR-1--komsomolskaya_pravda/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Пика
+https://radio.pika-fm.ru:8443/pika.fm
 #EXTINF:-1 group-title="Радио", Град Петров
 https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", МСМ
@@ -92,5 +96,31 @@ http://ic7.101.ru:8000/stream/air/mp3/256/99
 http://jazz.streamr.ru/jazz-64.mp3
 #EXTINF:-1 group-title="Радио", Relax
 http://ic6.101.ru:8000/stream/air/mp3/256/200
+#EXTINF:-1 group-title="Радио", Fresh
+https://fresh.amgradio.ru/Fresh?nc=624857
+#EXTINF:-1 group-title="Радио", Music Box
+https://musicbox.amgradio.ru/musicbox?nc=26572
+#EXTINF:-1 group-title="Радио", Energy
+https://pub0101.101.ru:8000/stream/air/mp3/256/99
+#EXTINF:-1 group-title="Радио", Джем
+https://online.jamfm.ru/jam_aacplus?v=1743007755223
+#EXTINF:-1 group-title="Радио", Пионер
+https://listen10.myradio24.com/pionerfm
+#EXTINF:-1 group-title="Радио", Гоп
+https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+#EXTINF:-1 group-title="Радио", PriMuzFM
+https://listen2.myradio24.com/8118
+#EXTINF:-1 group-title="Радио", Trance Hits
+https://radiorecord.hostingradio.ru/trancehits96.aacp
+#EXTINF:-1 group-title="Радио", Супердискотека 90-х
+https://radiorecord.hostingradio.ru/sd9096.aacp
+#EXTINF:-1 group-title="Радио", Rap Hits
+https://radiorecord.hostingradio.ru/rap96.aacp
+#EXTINF:-1 group-title="Радио", Metallica
+https://metallica.hostingradio.ru/metallica96.aacp
 #EXTINF:-1 group-title="Радио", Классное Радио "Движения Первых"
 https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3
+#EXTINF:-1 group-title="Радио", Радонеж
+https://icecast-radonezh.cdnvideo.ru/rad128
+#EXTINF:-1 group-title="Радио", Сказка
+http://skazka.amgradio.ru/Skazka
