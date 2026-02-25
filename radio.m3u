@@ -74,8 +74,6 @@ http://air.volna.top/HypeFM
 http://air.radioulitka.ru:8000/ulitka_192
 #EXTINF:-1 group-title="Радио", СОК
 http://82.146.46.30:8000/radiosok-msk
-#EXTINF:-1 group-title="Радио", Радонеж
-http://icecast.radonezh.cdnvideo.ru:8000/rad128
 #EXTINF:-1 group-title="Радио", Панорама
 http://listen.teploe.net:8100/6926
 #EXTINF:-1 group-title="Радио", Нестандарт
@@ -251,6 +249,13 @@ http://staroeradio.ru:8000/ices128
 http://195.91.237.50:8000/detskoe128
 #EXTINF:-1 group-title="Радио", Старое - Музыка
 http://195.91.237.50:8000/music128
+
+#EXTINF:-1 group-title="Радио", Русский панк
+http://79.120.77.11:8000/punkru
+#EXTINF:-1 group-title="Радио", Русский рок
+http://79.120.77.11:8000/rockru
+#EXTINF:-1 group-title="Радио", Русские хиты 80-90
+http://79.120.77.11:8000/80ru
 
 #EXTINF:-1 group-title="Радио", Ретро - 70е
 http://hls-01-retro70.emgsound.ru/1/128/playlist.m3u8
