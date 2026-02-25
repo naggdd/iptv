@@ -403,8 +403,8 @@ http://176.118.197.125/Mama/index.m3u8
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="Детские", Cartoon Network
-http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="Детские", Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские", Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Шаян
@@ -421,8 +421,6 @@ https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", Da Vinci
-http://158.101.222.193:88/georgia_play.php?id=davinci
 #EXTINF:-1 group-title="Детские", Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
@@ -472,6 +470,8 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Spoops
 https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные", Viju+ Sport
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
 
 #EXTINF:-1 group-title="Развлекательные", Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
@@ -533,6 +533,10 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", 43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", RuTube
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
+#EXTINF:-1 group-title="Развлекательные", Инсайт
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://95.66.188.74/.black/index.m3u8
@@ -634,6 +638,8 @@ http://158.101.222.193:88/georgia_play.php?id=kinosemya
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киноман
 http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киносезон
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Многосерийное ТВ
 https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
@@ -645,7 +651,7 @@ http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мир сериала
 http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood
-http://193.25.8.59:8000/interaz
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
 http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский Иллюзион
@@ -682,8 +688,8 @@ http://vod.tuva.ru/eurokino/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="Кино и сериалы", Про любовь
 http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Советская киноклассика
-http://50.7.28.226/9461/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Патриот
 http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Фильмы
@@ -928,7 +934,7 @@ https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/14001/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild
-http://188.237.47.212:6005
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое ТВ
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор
@@ -988,9 +994,11 @@ http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке
 http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
 #EXTINF:-1 group-title="Познавательные", Охотник и рыболов
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Охотник и рыболов Int.
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 #EXTINF:-1 group-title="Познавательные", Охота и рыбалка
-http://87.76.32.36:8001/ohotairibalka
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша тема
 http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
@@ -1006,7 +1014,7 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней
@@ -1021,6 +1029,16 @@ http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy
 http://176.118.197.125/Galaxy/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Точка Отрыва
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Da Vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+#EXTINF:-1 group-title="Познавательные", Неизвестная Планета
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Родной канал
+https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
+#EXTINF:-1 group-title="Познавательные", Оружие
+http://158.101.222.193:88/georgia_play.php?id=oruzhie
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -1051,6 +1069,10 @@ http://88.135.128.20:8090/muzikapervogo/index.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Hits
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
+#EXTINF:-1 group-title="Музыкальные", Bridge Rock
+http://31.210.208.171:8080/bridge_rock/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Музыкальные", Bridge Шлягер
+http://31.210.208.171:8080/bridge_shlyager/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.imgur.com/H1Aap4E.png", VEVO Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/4fun.png", 4fun.TV
@@ -1090,7 +1112,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Музыкальные", FON Music (ТНТ)
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Жар Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
 #EXTINF:-1 group-title="Музыкальные", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Майдан
@@ -1260,6 +1282,10 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Восток 24 (Владивосток)
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1 group-title="Региональные", 8 канал (Владивосток)
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Прим 24 (Владивосток)
+http://flussonic2.podryad.net/prim24/index.m3u8
 #EXTINF:-1 group-title="Региональные", Самара - ГИС
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Город (Рязань)
@@ -1280,6 +1306,8 @@ http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://radio.online24.ru/uploads/posts/2017-12/1514576502_don24.png", Дон 24 (Ростов-на-Дону)
 http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Первый Ростовский (Ростов-на-Дону)
+https://rost.mediacdn.ru/cdn/rostov1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные", Евразия (Орск)
 http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Енисей (Красноярск)
@@ -1318,6 +1346,8 @@ http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Липецкое время 24 (Липецкая область)
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Липецк 24 (Липецкая область)
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=PxMZcpt76COiPH4EwWL3hw&e=2070623508&scheme=https
 #EXTINF:-1 group-title="Региональные", МЭТР (Марий Эл)
 http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Мамонт (Якутия)
@@ -1368,7 +1398,7 @@ http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Область 45 (Курган)
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
-#EXTINF:-1 group-title="Региональные", ОмскТВ (Омск)
+#EXTINF:-1 group-title="Региональные", Омск ТВ (Омск)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Осетия-Ирыстон (Владикавказ)
 http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
@@ -1444,6 +1474,8 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ТВ-7 (Абакан)
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Абакан 24 (Абакан)
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=lbRb3zr0EFJczX70hVvgfw&e=2070623508&scheme=https
 #EXTINF:-1 group-title="Региональные", ТВ-ИН (Магнитогорск)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ТВК (Красноярск)
@@ -1456,13 +1488,15 @@ http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Юганск (Нефтеюганск)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Next (Нефтекамск)
+http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Тагил-ТВ (Нижний Тагил)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Такт 24 (Курск)
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Тамыр (Башкортостан)
 http://s45177.cdn.ngenix.net/hls/CH_R03_TAMYRTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Тверской проспект - Регион (Тверь)
+#EXTINF:-1 group-title="Региональные", Тверской проспект (Тверь)
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
 #EXTINF:-1 group-title="Региональные", С86 (Сургут)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKANAL86/variant.m3u8
@@ -1496,7 +1530,7 @@ http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 https://stream1.tv41.ru/hls/live.m3u8
 #EXTINF:-1 group-title="Региональные", Экспресс (Пенза)
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Эфир-24 Релакс (Татарстан)
+#EXTINF:-1 group-title="Региональные", Эфир (Татарстан)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ТНВ (Татарстан)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
@@ -1520,6 +1554,8 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Луч (ЯНАО)
 https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
+#EXTINF:-1 group-title="Региональные", Вестник Надыма (ЯНАО)
+https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Телемикс (Уссурийск)
 http://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Сибирь 24 (Уссурийск)
@@ -1532,6 +1568,8 @@ https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", КТК (Казахстан)
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", ТДК 42 (Казахстан)
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Таврия (Херсонская область)
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 group-title="Региональные", Первый псковский (Псков)
@@ -1540,3 +1578,21 @@ http://live-3.otcnet.ru/pskov/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 group-title="Региональные", Симферополь 24 (Крым)
 https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:-1 group-title="Региональные", GLN 24 (Геленджик)
+http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Вся Уфа
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=eKlI_aa8PX3A-krCbqLsRA&e=2070623504&scheme=https
+#EXTINF:-1 group-title="Региональные", Город 24
+http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_GOROD24/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Грозный
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 group-title="Региональные", Муром
+http://62.76.73.38/hls/stream.m3u8
+#EXTINF:-1 group-title="Региональные", Наш дом (Пенза)
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 group-title="Региональные", ПТВ (Первоуральск)
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=RqQza13Ro4UeKu7IwmQbHA&e=2070623502&scheme=https
+#EXTINF:-1 group-title="Региональные", Среда (Каспийск)
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https
+#EXTINF:-1 group-title="Региональные", Эхо (Новоуральск)
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
