@@ -38,10 +38,16 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний HD
+http://iptv46.mcx-ix.ru:8077/domashniy_hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3 HD
+http://iptv46.mcx-ix.ru:8077/tv3_hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница HD
+http://iptv46.mcx-ix.ru:8077/pyatnica_hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/zvezda.png", Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/zvezda.png", Звезда HD
@@ -52,6 +58,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ HD
+http://iptv46.mcx-ix.ru:8077/tnt_hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", МУЗ-ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", МУЗ-ТВ HD
@@ -243,7 +251,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png", Киносерия
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман
-http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+http://iptv46.mcx-ix.ru:8077/russki_roman_hd/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_detectiv.png", Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery
@@ -256,6 +264,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mult.png", Мульт
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mult.png", Мульт HD
+http://iptv46.mcx-ix.ru:8077/thlum_hd/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ani.png", Ani
 http://176.118.197.125/Ani/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/che.png", Че
@@ -397,6 +407,8 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 #EXTINF:-1 group-title="Информационные", Россия РТР
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
 
+#EXTINF:-1 group-title="Детские", СТС Kids
+http://iptv46.mcx-ix.ru:8077/sts_kids/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама
 http://176.118.197.125/Mama/index.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
@@ -425,6 +437,14 @@ https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
 http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Детские", Детский мир
+http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
+#EXTINF:-1 group-title="Детские", Лёва
+http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:-1 group-title="Детские", СуперГерои
+http://iptv46.mcx-ix.ru:8077/malish/index.m3u8
+#EXTINF:-1 group-title="Детские", Тооку
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 
@@ -480,7 +500,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_slen
 #EXTINF:-1 group-title="Развлекательные", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Театр
-http://46.8.46.14/Teatr/index.m3u8
+http://176.118.197.101/Teatr/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/nostalgia.png", Ностальгия
 http://95.66.188.74/Nostalgia/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ
@@ -537,6 +557,8 @@ http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
 #EXTINF:-1 group-title="Развлекательные", Инсайт
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Gagsnetwork
+http://iptv46.mcx-ix.ru:8077/raz-tv/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
@@ -664,6 +686,8 @@ http://94.232.127.28:8080/sony-turbo/index.m3u8
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/start-air.png", Start Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/start-air.png", Start Air HD
+http://iptv46.mcx-ix.ru:8077/start_air/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Start World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
@@ -1041,6 +1065,10 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 group-title="Познавательные", Оружие
 http://158.101.222.193:88/georgia_play.php?id=oruzhie
+#EXTINF:-1 group-title="Познавательные", Глазами туриста
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1 group-title="Познавательные", RTG
+http://iptv46.mcx-ix.ru:8077/rtg_hd/index.m3u8
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
