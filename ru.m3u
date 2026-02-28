@@ -164,6 +164,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
@@ -449,6 +451,8 @@ http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 http://iptv46.mcx-ix.ru:8077/malish/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 group-title="Детские", Уникум
+http://31.148.48.15/Detskiy/index.m3u8
 #EXTINF:-1 group-title="Детские", Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 
@@ -500,6 +504,8 @@ https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", KHL Prime
 http://iptv46.mcx-ix.ru:8077/khl_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные", MMA
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
@@ -508,7 +514,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_slen
 #EXTINF:-1 group-title="Развлекательные", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Театр
-http://176.118.197.101/Teatr/index.m3u8
+http://31.148.48.15/Sochi_HD/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/nostalgia.png", Ностальгия
 http://95.66.188.74/Nostalgia/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ
@@ -555,7 +561,7 @@ http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/5049/index.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", 7 TV
 http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", TV1.KG
+#EXTINF:-1 group-title="Развлекательные", TV1 KG
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Толк
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
@@ -587,7 +593,7 @@ http://176.96.241.40/Dorama/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", КиноТВ
-http://vod.tuva.ru/kinotv/index.m3u8
+https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://vod.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FX
@@ -611,7 +617,7 @@ http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1) HD
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2 (A2)
-http://158.101.222.193:88/georgia_play.php?id=amedia2
+http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
@@ -636,8 +642,6 @@ http://91.194.191.241:8081/chid70/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/ntv-serial.png", НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", TV21
-http://46.8.46.14/TV21/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", 312 Сериал
@@ -667,7 +671,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
-http://95.66.188.74/Kinopokaz/mono.m3u8
+http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киноман
 http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносезон
@@ -725,7 +729,7 @@ http://iptv46.mcx-ix.ru:8077/pro_lubov_hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Патриот
-http://185.46.48.18:80/asvtv/index.m3u8
+http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Фильмы
 http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Сериалы
@@ -961,7 +965,7 @@ http://158.101.222.193:88/georgia_play.php?id=24techno
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png", Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 group-title="Познавательные", TV BRICS
+#EXTINF:-1 group-title="Познавательные", BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Terra
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
@@ -1127,8 +1131,14 @@ http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
 http://88.135.128.20:8090/muzikapervogo/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge
+http://31.148.48.15/Bridge_TV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Deluxe
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Hits
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Rock
 http://31.210.208.171:8080/bridge_rock/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Музыкальные", Bridge Шлягер
@@ -1175,7 +1185,7 @@ https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
 #EXTINF:-1 group-title="Музыкальные", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные", Майдан
+#EXTINF:-1 group-title="Музыкальные", Майдан (Maidan)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 #EXTINF:-1 group-title="Музыкальные", MTV Hits
 http://94.232.127.28:8080/mtvhits/index.m3u8
@@ -1197,6 +1207,14 @@ http://iptv46.mcx-ix.ru:8077/1hd/index.m3u8
 http://217.11.177.56/streams/media/o2tv_720x576/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", О!2 HD
 http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", TVM3
+https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
+#EXTINF:-1 group-title="Музыкальные", SONGTV
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", VIVA
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png", XITE Celebrates
 https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png", XITE 80s Flashback
@@ -1240,7 +1258,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ТРК 555 (Алушта)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
-#EXTINF:-1 group-title="Региональные", 1 Республиканский (ДНР)
+#EXTINF:-1 group-title="Региональные", Первый Республиканский (ДНР)
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 group-title="Региональные", 24 (Луганск)
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
@@ -1354,7 +1372,7 @@ http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Прим 24 (Владивосток)
 http://flussonic2.podryad.net/prim24/index.m3u8
-#EXTINF:-1 group-title="Региональные", Самара - ГИС
+#EXTINF:-1 group-title="Региональные", Самара ГИС
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Город (Рязань)
 http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R02_GOROD/variant.m3u8
@@ -1468,7 +1486,7 @@ http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Омск ТВ (Омск)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Осетия-Ирыстон (Владикавказ)
+#EXTINF:-1 group-title="Региональные", Осетия Ирыстон (Владикавказ)
 http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Панорама (Тверь)
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
@@ -1517,7 +1535,7 @@ https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://www.cableman.ru/sites/default/files/salyam_0.png", Салям (Башкортостан)
 http://s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Самара 24
-http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", Самотлор (Нижневартовск)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Сампо (Петрозаводск)
@@ -1594,7 +1612,7 @@ http://live-3.otcnet.ru/dimgrad/index.m3u8
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Чаваш ЕН (Чувашия)
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные", TV 41 (Щелково)
+#EXTINF:-1 group-title="Региональные", 41 (Щелково)
 https://stream1.tv41.ru/hls/live.m3u8
 #EXTINF:-1 group-title="Региональные", Экспресс (Пенза)
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
@@ -1604,6 +1622,8 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Татарстан-24 (Казань)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTINF:-1 group-title="Региональные", ТНВ Планета
+https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Матур (Татарстан/Башкортостан)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Региональные", ЮТВ (Чувашия)
@@ -1638,6 +1658,8 @@ https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", ТДК 42 (Казахстан)
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Qazaqstan (Казахстан)
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Таврия (Херсонская область)
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 group-title="Региональные", Первый псковский (Псков)
