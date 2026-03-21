@@ -1477,7 +1477,7 @@ http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/varia
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://r40.ru/images/reklama/r40_logo.jpg", Р40 (Рыбинск)
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 #EXTINF:-1 group-title="Региональные", С1 (Сургут)
-https://sitv.ru/hls/stv1024.m3u8
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://www.cableman.ru/sites/default/files/salyam_0.png", Салям (Башкортостан)
 http://s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Самара 24
@@ -1497,14 +1497,14 @@ http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_SEIM/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Сигма (Новый Уренгой)
 https://lifecam.sigma-ktv.ru/ctv/mono.ts.m3u8
 #EXTINF:-1 group-title="Региональные", Сочи 24 (Краснодар)
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Sochi Live (Сочи)
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Сургут 24 (ХМАО-Югра)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ТВ-21+ (Мурманск)
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные", ТВ-7 (Абакан)
+#EXTINF:-1 group-title="Региональные", ТВ7 (Абакан)
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Абакан 24 (Абакан)
 https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=lbRb3zr0EFJczX70hVvgfw&e=2070623508&scheme=https
@@ -1522,7 +1522,7 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Next (Нефтекамск)
 http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Тагил-ТВ (Нижний Тагил)
+#EXTINF:-1 group-title="Региональные", Тагил (Нижний Тагил)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Такт 24 (Курск)
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8
@@ -1566,9 +1566,9 @@ http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ТНВ (Татарстан)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Татарстан-24 (Казань)
+#EXTINF:-1 group-title="Региональные", Татарстан 24 (Татарстан)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", ТНВ Планета
+#EXTINF:-1 group-title="Региональные", ТНВ Планета (Татарстан)
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Матур (Татарстан/Башкортостан)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
