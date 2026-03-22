@@ -216,6 +216,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", Муз ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/pobeda.png", Победа
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино
@@ -242,6 +244,8 @@ http://158.101.222.193:88/georgia_play.php?id=kinohit
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png", Киносерия
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман
+http://91.226.120.120/chid66/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_detectiv.png", Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery
@@ -397,6 +401,8 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 #EXTINF:-1 group-title="Информационные", Россия РТР
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
 
+#EXTINF:-1 group-title="Детские", СТС Kids
+http://188.225.31.197/bpk-tv/000003892/tve/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама
 http://176.118.197.125/Mama/index.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
@@ -429,6 +435,8 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:-1 group-title="Детские", Лёва
 http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:-1 group-title="Детские", Супергерои
+http://86.57.209.210/Malish/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум
@@ -442,6 +450,8 @@ http://178.212.71.253:8000/play/51/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спортивные", Матч! Арена
 http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спортивные", Футбол
+http://91.226.120.120/chid50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", UFA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 group-title="Спортивные", FightBox
@@ -545,6 +555,8 @@ http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
 #EXTINF:-1 group-title="Развлекательные", Инсайт
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Gagsnetwork
+http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
@@ -590,6 +602,8 @@ http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Premium
+https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino
 http://94.232.127.28:8080/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy HD
