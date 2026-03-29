@@ -227,13 +227,13 @@ http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Русское
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+https://stream8.cinerama.uz/1059/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Action
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Action HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinopremiera.png", Кинопремьера
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinohit.png", Кинохит
@@ -584,8 +584,6 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 http://46.53.208.4:80/live/3111-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Новелла
 http://46.53.208.4:80/live/545-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Русское кино
-http://46.53.208.4:80/live/5109-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1)
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1) HD
@@ -1568,8 +1566,6 @@ https://streaming.televizor-24-tochka.ru/live/24.m3u8
 http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 group-title="Региональные", За! (Запорожская область)
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1 group-title="Региональные", Симферополь 24 (Крым)
-https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 group-title="Региональные", GLN 24 (Геленджик)
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Вся Уфа
