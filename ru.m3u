@@ -234,6 +234,10 @@ http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju Explore
 https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Популярные", Viju History
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Популярные", Viju Nature
+http://46.53.208.4:80/live/542-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinopremiera.png", Кинопремьера
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinohit.png", Кинохит
@@ -891,8 +895,6 @@ https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a54
 #EXTINF:-1 group-title="Кинозалы Смотрим", 100% Факты
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 
-#EXTINF:-1 group-title="Познавательные", ЕГЭ
-http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://31148.rafail1982.uz/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто 24
@@ -982,7 +984,7 @@ http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
-http://vod.tuva.ru/myplanet/index.m3u8
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
 https://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
@@ -1016,21 +1018,19 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 #EXTINF:-1 group-title="Познавательные", Оружие
 http://158.101.222.193:88/georgia_play.php?id=oruzhie
 #EXTINF:-1 group-title="Познавательные", Глазами туриста
-http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Ключ
 http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nano (Нано)
 http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju History
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи!
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG
 https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Viasat History
-http://46.53.208.4:80/live/541-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Познавательные", Viasat Nature
-http://46.53.208.4:80/live/542-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Познавательные", Наука
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Вопросы и ответы
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
