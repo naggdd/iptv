@@ -223,7 +223,7 @@ https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино
 http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="Популярные", Кинокомедия
-http://176.118.197.101/Kinokomediya/index.m3u8
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Русское
@@ -451,6 +451,8 @@ https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Капитан Фантастика
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 
@@ -528,7 +530,7 @@ http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Развлекательные", DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
-http://31.148.48.15/Sarafan/index.m3u8
+https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Теледом
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Развлекательные", Тео-ТВ
@@ -637,7 +639,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 group-title="Кино и сериалы", Комедия
 http://31.210.208.171:8080/komedia/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
-http://93.170.254.17/Kinomiks/index.m3u8
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья
@@ -648,8 +650,10 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Родное кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
-http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ
 http://cdn.kubteltv.workers.dev/?ID=414
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино
@@ -1000,7 +1004,7 @@ http://158.101.222.193:88/georgia_play.php?id=365day
 #EXTINF:-1 group-title="Познавательные", FoodTime
 http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кухня
-http://31148.rafail1982.uz/Kuhnya_TV/index.m3u8
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
 http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 group-title="Познавательные", TV Pro
