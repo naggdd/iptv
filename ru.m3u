@@ -221,7 +221,7 @@ http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/pobeda.png", Победа
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино
-http://176.96.241.40/DomKino/index.m3u8
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Кинокомедия
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000
@@ -432,7 +432,7 @@ http://31.148.48.15/Multimuzika/index.m3u8
 #EXTINF:-1 group-title="Детские", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
-http://31.148.48.15/Rizhiy/index.m3u8
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир
@@ -444,7 +444,7 @@ http://86.57.209.210/Malish/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум
-http://31.148.48.15/Detskiy/index.m3u8
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Tiji
@@ -900,7 +900,7 @@ https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a54
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
-http://31148.rafail1982.uz/Avto_Plus/index.m3u8
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто 24
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24 (Т24)
@@ -1035,6 +1035,10 @@ https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
 https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Домашние Животные
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Доктор
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
