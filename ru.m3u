@@ -981,6 +981,10 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 #EXTINF:-1 group-title="Познавательные", Охота и рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Дикая Рыбалка
+http://46.53.208.4:80/live/2324-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Познавательные", Дикая Охота
+http://46.53.208.4:80/live/2325-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша тема
 http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
