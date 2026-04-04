@@ -181,8 +181,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница International
-http://158.101.222.193:88/georgia_play.php?id=friday
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/zvezda.png", Звезда (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
@@ -225,12 +223,10 @@ https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Кинокомедия
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000
-http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Русское
 https://stream8.cinerama.uz/1059/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Action
-http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1 group-title="Популярные", Viju TV1000 Action HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju Explore
 https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
@@ -241,13 +237,13 @@ http://46.53.208.4:80/live/542-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinopremiera.png", Кинопремьера
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinohit.png", Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinouzhas.png", Киноужас
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png", Киносерия
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман
-http://91.226.120.120/chid66/tracks-v1a1/mono.m3u8
+http://31.148.48.15/Russkiy_Roman/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_detectiv.png", Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery
@@ -287,9 +283,9 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Cinema
 http://176.96.241.40/Cinema/index.m3u8
 #EXTINF:-1 group-title="Популярные", НСТ
-http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
+http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Популярные", Мужское кино
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_MUJSKOE_KINOHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/solovyov.png", Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/m24.png", Москва 24 (М24)
@@ -459,7 +455,7 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist
 #EXTINF:-1 group-title="Спортивные", Матч! Страна
 http://31.210.208.171:8080/match_strana/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спортивные", Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+https://a3569457567-s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Боец
 http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра
@@ -988,7 +984,7 @@ http://46.53.208.4:80/live/2325-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша тема
 http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
