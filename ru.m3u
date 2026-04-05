@@ -462,8 +462,6 @@ http://31.148.48.15/Match_Boec/index.m3u8
 http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Арена
 http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спортивные", Футбол
-http://91.226.120.120/chid50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Бокс
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спортивные", Бокс HD
@@ -593,13 +591,11 @@ http://46.53.208.4:80/live/3111-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Новелла
 http://46.53.208.4:80/live/545-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1)
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1) HD
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2 (A2)
 http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
+https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium
 https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy HD
@@ -1144,7 +1140,7 @@ https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
 #EXTINF:-1 group-title="Музыкальные", SONGTV
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", VIVA
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=MeP9OJ5c-c4A5f73twBJ3g&e=2075372287&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png", XITE Celebrates
 https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png", XITE 80s Flashback
@@ -1288,8 +1284,6 @@ https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 8 канал (Владивосток)
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Прим 24 (Владивосток)
-http://flussonic2.podryad.net/prim24/index.m3u8
 #EXTINF:-1 group-title="Региональные", Самара ГИС
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Город (Рязань)
