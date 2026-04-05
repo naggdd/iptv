@@ -100,8 +100,6 @@ http://icecast-studio21.cdnvideo.ru/KalynaK_1a
 http://91.219.74.220:8000/IvanovoFM.mp3
 #EXTINF:-1 group-title="Радио", Гамаюн
 http://gamaun.online:8020/radio
-#EXTINF:-1 group-title="Радио", Витамин
-http://listen6.myradio24.com:9000/vitaminfm
 #EXTINF:-1 group-title="Радио", Буу!
 http://buu.hostingradio.ru:8005/radio
 #EXTINF:-1 group-title="Радио", Бруклин
@@ -111,7 +109,7 @@ http://yumfm.hostingradio.ru:8020/yumfm128.mp3
 #EXTINF:-1 group-title="Радио", Vanilla
 http://radio.vanilla-fm.ru:8000/music
 #EXTINF:-1 group-title="Радио", Nu Euphoria Trance
-http://194.87.111.252:8000/live
+https://stream05.pcradio.ru/nu_euphoria-med
 #EXTINF:-1 group-title="Радио", Mixadance
 https://stream.mixadance.fm/mixadance
 #EXTINF:-1 group-title="Радио", Makkirus
@@ -283,7 +281,7 @@ http://hermitage.hostingradio.ru/hermitage128.mp3
 #EXTINF:-1 group-title="Радио", Эльдорадио (Санкт-Петербург)
 http://emgspb.hostingradio.ru/eldoradio128.mp3
 #EXTINF:-1 group-title="Радио", Детское (Санкт-Петербург)
-http://ic6.101.ru:8000/stream/air/aac/64/199
+https://stream05.pcradio.ru/deti_fm-med
 #EXTINF:-1 group-title="Радио", Православное (Санкт-Петербург)
 http://radio-spb.rusk.ru:8000/stream
 #EXTINF:-1 group-title="Радио", Хит (Орск)
@@ -328,8 +326,6 @@ http://radio.mediacdn.ru/sputnik_fm.mp3
 http://94.250.249.126:8000/radio
 #EXTINF:-1 group-title="Радио", Дагестан (Махачкала)
 http://radio05.ru:8000/radio_dagestan_128
-#EXTINF:-1 group-title="Радио", Интерра (Первоуральск)
-http://ice.interra.fm:8000/barix
 #EXTINF:-1 group-title="Радио", Кавказ-Хит (Черкесск)
 http://kavkazhit.hostingradio.ru:8017/kavkazhit96.mp3
 #EXTINF:-1 group-title="Радио", Kamchatka (Камчатка)
@@ -345,7 +341,7 @@ http://av.bimradio.ru:8066/kurai_mp3
 #EXTINF:-1 group-title="Радио", Кунел (Татарстан)
 http://live.kunelradio.ru:8000/128.mp3
 #EXTINF:-1 group-title="Радио", Макс (Сочи)
-http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
+https://stream05.pcradio.ru/max_fm_ru-med
 #EXTINF:-1 group-title="Радио", Мелодия (Воронеж)
 http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
 #EXTINF:-1 group-title="Радио", Губерния (Воронеж)
