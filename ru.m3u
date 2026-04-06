@@ -220,6 +220,8 @@ http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Популярные", Дом Кино Преимум
+https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 #EXTINF:-1 group-title="Популярные", Кинокомедия
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000
@@ -1035,6 +1037,16 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Океан
+https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", History
+https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", History 2 (H2)
+https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Дикий
+https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", The explorers
+https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
