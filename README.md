@@ -19,6 +19,11 @@ Copy the link to the playlist and paste it into any IPTV player.
   https://naggdd.github.io/iptv/cartoons.m3u
   ```
 
+## Support
+This playlist is being compiled for display in the [Wave TV](https://apps.apple.com/app/id6745237104) app on iOS. So your best support is to download the app and give a good review.
+
+For those who want to financially support the development and relevance of the playlist - [DonationAlerts](https://dalink.to/nagd).
+
 ## Sources
 * [m3u.su](https://m3u.su)
 * [dmi3y-tv6.ru](http://dmi3y-tv6.ru)
