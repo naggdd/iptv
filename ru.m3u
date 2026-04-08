@@ -51,9 +51,7 @@ http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", Муз ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", Муз ТВ HD
-http://178.124.179.122:8088/MuzTV/index.m3u8
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/perviy.png", Первый (-1)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
@@ -445,8 +443,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:-1 group-title="Детские", Лёва
 http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
-#EXTINF:-1 group-title="Детские", Супергерои
-http://86.57.209.210/Malish/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум
@@ -503,7 +499,7 @@ https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Viju+ Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Беларусь 2
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
@@ -578,8 +574,6 @@ http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама HD
 http://176.96.241.40/Dorama/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кино 1
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", КиноТВ
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
