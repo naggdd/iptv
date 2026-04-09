@@ -218,20 +218,20 @@ http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Популярные", Дом Кино Преимум
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_premium.png", Дом Кино Преимум
 https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
-#EXTINF:-1 group-title="Популярные", Кинокомедия
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinokomedia.png", Кинокомедия
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Популярные", Viju TV1000
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_tv1000.png", Viju TV1000
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Русское
 https://stream8.cinerama.uz/1059/mono.m3u8
 #EXTINF:-1 group-title="Популярные", Viju TV1000 Action
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 group-title="Популярные", Viju Explore
-https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 group-title="Популярные", Viju History
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
 #EXTINF:-1 group-title="Популярные", Viju Nature
 http://46.53.208.4:80/live/542-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinopremiera.png", Кинопремьера
@@ -497,7 +497,7 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Spoops
 https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Viju+ Sport
-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA
 https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 
@@ -590,7 +590,7 @@ https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
 http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Romantica HD
+#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Romantica
 http://46.53.208.4:80/live/3111-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Новелла
 http://46.53.208.4:80/live/545-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -1590,8 +1590,6 @@ https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Таврия (Херсонская область)
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
-#EXTINF:-1 group-title="Региональные", Первый псковский (Псков)
-http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 group-title="Региональные", За! (Запорожская область)
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 group-title="Региональные", GLN 24 (Геленджик)
