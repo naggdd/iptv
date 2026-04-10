@@ -224,15 +224,15 @@ https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_tv1000.png", Viju TV1000
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
-#EXTINF:-1 group-title="Популярные", Viju TV1000 Русское
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское
 https://stream8.cinerama.uz/1059/mono.m3u8
-#EXTINF:-1 group-title="Популярные", Viju TV1000 Action
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1 group-title="Популярные", Viju Explore
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="Популярные", Viju History
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_history.png", Viju History
 https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
-#EXTINF:-1 group-title="Популярные", Viju Nature
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_nature.png", Viju Nature
 http://46.53.208.4:80/live/542-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinopremiera.png", Кинопремьера
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
