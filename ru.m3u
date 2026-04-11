@@ -433,6 +433,8 @@ https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
 http://31.148.48.15/Multimuzika/index.m3u8
+#EXTINF:-1 group-title="Детские", Киномульт
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/20009/index.m3u8
 #EXTINF:-1 group-title="Детские", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
@@ -472,10 +474,16 @@ http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спортивные", Бокс HD
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спортивные", Удар
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/19246/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Футбол
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/19244/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Хоккей
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/10039/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Eurosport 1
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Eurosport 2
-http://cdntv.online/high/47eurvkpm6/39.m3u8
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Setanta Sports 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Setanta Sports 2
@@ -490,6 +498,8 @@ https://tv.a21network.ru/content/37909/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 #EXTINF:-1 group-title="Спортивные", Старт Баскет
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
+#EXTINF:-1 group-title="Спортивные", Мир баскетбола
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/10033/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Старт Триумф
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8
 #EXTINF:-1 group-title="Спортивные", Спорт
@@ -500,6 +510,8 @@ https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA
 https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Extreme Sports
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/144/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Беларусь 2
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
@@ -901,6 +913,8 @@ https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a54
 #EXTINF:-1 group-title="Кинозалы Смотрим", 100% Факты
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 
+#EXTINF:-1 group-title="Познавательные", ЕГЭ
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2020/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто 24
@@ -1055,6 +1069,9 @@ https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", The explorers
 https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Ратник
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2119/index.m3u8
+
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -1095,6 +1112,8 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 http://31.210.208.171:8080/bridge_rock/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Музыкальные", Bridge Шлягер
 http://31.210.208.171:8080/bridge_shlyager/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Музыкальные", Танцуй!
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/14023/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.imgur.com/H1Aap4E.png", VEVO Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/4fun.png", 4fun.TV
