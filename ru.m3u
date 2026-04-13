@@ -662,6 +662,8 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", КиноМеню
+http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
@@ -690,6 +692,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Союзный
+http://46.53.208.4/live/3106-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Сапфир
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
@@ -732,8 +736,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Moretime
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/8d/The_Benny_Hill_Show.jpg", Шоу Бенни Хилла
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мистер Бин
@@ -1294,7 +1296,7 @@ http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Башкортостан 24
 http://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Арис 24 (Башкортостан)
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=92J55630qJZPz9iiIJZpVw&e=2076071194&scheme=https
 #EXTINF:-1 group-title="Региональные", БСТ (Башкортостан)
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Региональные", Белгород 24
