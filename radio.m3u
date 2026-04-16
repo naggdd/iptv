@@ -28,8 +28,10 @@ http://nashe1.hostingradio.ru/nashespb128.mp3
 http://dfm.hostingradio.ru/dfm128.mp3
 #EXTINF:-1 group-title="Радио", Ваня
 https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Юмор
-https://pub0301.101.ru:8443/stream/air/mp3/256/102
+#EXTINF:-1 group-title="Радио", Юмор (Волгоград)
+https://stream05.pcradio.ru/rad_hmrvlggrd-med
+#EXTINF:-1 group-title="Радио", Юмор (Минск)
+https://stream05.pcradio.ru/humorfm_by-med
 #EXTINF:-1 group-title="Радио", Energy
 https://pub0101.101.ru:8000/stream/air/mp3/256/99
 #EXTINF:-1 group-title="Радио", Шоколад
@@ -43,7 +45,7 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 group-title="Радио", Комсомольская Правда
 http://kpradio.hostingradio.ru:8000/128
 #EXTINF:-1 group-title="Радио", Relax
-http://ic6.101.ru:8000/stream/air/mp3/256/200
+https://stream05.pcradio.ru/relax_fm_ru-med
 #EXTINF:-1 group-title="Радио", Звезда
 https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", Comedy
@@ -402,8 +404,6 @@ http://ugra.cdnradio.ru/radiougra
 http://a2.radioheart.ru:8015/admin
 #EXTINF:-1 group-title="Радио", Юнитон (Новосибирск)
 http://online.uniton.ru:8300/RadioUniton192
-#EXTINF:-1 group-title="Радио", Городская волна (Новосибирск)
-http://online.gorvolna.ru:8000/gorvolna
 #EXTINF:-1 group-title="Радио", 54 (Новосибирск)
 http://91.202.68.50:8000/;stream.mp3
 #EXTINF:-1 group-title="Радио", Самарское Губернское (Самара)
