@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Радио", Вести
-http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1 group-title="Радио", Авторадио
+http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 group-title="Радио", Русское
 http://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 group-title="Радио", Ретро
 http://europaplus.hostingradio.ru:8014/retro320.mp3
 #EXTINF:-1 group-title="Радио", Дорожное
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
-#EXTINF:-1 group-title="Радио", Новое
-http://icecast-newradio.cdnvideo.ru/newradio3
 #EXTINF:-1 group-title="Радио", Европа Плюс
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 group-title="Радио", Вести
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1 group-title="Радио", Новое
+http://icecast-newradio.cdnvideo.ru/newradio3
 #EXTINF:-1 group-title="Радио", Monte Carlo (Монте Карло)
 http://montecarlo.hostingradio.ru/montecarlo96.aacp
 #EXTINF:-1 group-title="Радио", 7
 https://stream-msk-17.ott.tricolor.tv/dtv/id955_MSKSG-PVR-1--radio_na_7_kholmakh/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1 group-title="Радио", Авторадио
-http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 group-title="Радио", Пи
 http://cdn.pifm.ru/mp3
 #EXTINF:-1 group-title="Радио", Наше
