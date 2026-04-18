@@ -380,7 +380,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://i115.fastpic.org/big/2021/0927/96/9eeb7e709b0b078974851708d4a43296.png", Крик ТВ
+#EXTINF:-1 group-title="Информационные", Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
@@ -1279,27 +1279,27 @@ http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Кавказ 24 (Ставрополь)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://epg.iptvx.one/picons/aist.png", Аист (Иркутск)
+#EXTINF:-1 group-title="Региональные", Аист (Иркутск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Актис (Ангарск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AKTIS/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://satcom28.ru/images/channel_icon/21.png", АОТВ (Приамурье)
+#EXTINF:-1 group-title="Региональные", АОТВ (Приамурье)
 http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/wWrfMr9/Arig-Us-24-HD-Ulan-Ude-220x220.png", Аригус (Бурятия)
+#EXTINF:-1 group-title="Региональные", Аригус (Бурятия)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.laplandiya.org/assets/cache_image/uploads/images/smi/tv_arktic_logo_horizontal_0x480_e98.png", Арктик (Мурманск)
+#EXTINF:-1 group-title="Региональные", Арктик (Мурманск)
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Архыз 24 (Карачаево-Черкесия)
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/257ab3eac14d96e74ecc927b2f1e5c5e.png", Архыз 24 Light (Карачаево-Черкесия)
+#EXTINF:-1 group-title="Региональные", Архыз 24 Light (Карачаево-Черкесия)
 http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Астрахань 24
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Телплюс (Астрахань)
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/bst-bratsk.png", БСТ 24 (Братск)
+#EXTINF:-1 group-title="Региональные", БСТ 24 (Братск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/Wzp0hws/d9-WXRks8-200x200.jpg", Барс (Иваново)
+#EXTINF:-1 group-title="Региональные" , Барс (Иваново)
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Башкортостан 24
 http://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
@@ -1311,9 +1311,9 @@ http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Брянская Губерния (Брянск)
 http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://newbur.ru/upload/iblock/539/qrrxpvyj38lrgo6uapi6qvmnocxs2v5o.jpg", Буряад (Бурятия)
+#EXTINF:-1 group-title="Региональные", Буряад (Бурятия)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/0s6DKsX/f2ec107b59b42881f3764152249a7fc9.jpg", ВОТ ТВ (Липецк)
+#EXTINF:-1 group-title="Региональные", ВОТ ТВ (Липецк)
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Вектор 24 (Губкинский)
 http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
