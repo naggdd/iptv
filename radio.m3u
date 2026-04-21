@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Радио", Авторадио
-http://ic7.101.ru:8000/v3_1
+http://23.105.238.4/gpm-avtoradio495.aacp
 #EXTINF:-1 group-title="Радио", Русское
 http://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 group-title="Радио", Ретро
@@ -10,10 +10,14 @@ http://europaplus.hostingradio.ru:8014/retro320.mp3
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 #EXTINF:-1 group-title="Радио", Европа Плюс
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 group-title="Радио", Рекорд
+http://icecast-record.cdnvideo.ru/record
 #EXTINF:-1 group-title="Радио", Вести
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 group-title="Радио", Новое
 http://icecast-newradio.cdnvideo.ru/newradio3
+#EXTINF:-1 group-title="Радио", Такси
+http://185.40.31.28:8000/station_54
 #EXTINF:-1 group-title="Радио", Monte Carlo (Монте Карло)
 http://montecarlo.hostingradio.ru/montecarlo96.aacp
 #EXTINF:-1 group-title="Радио", 7
@@ -22,34 +26,48 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id955_MSKSG-PVR-1--radio_na_7_kholmakh
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 group-title="Радио", Пи
 http://cdn.pifm.ru/mp3
-#EXTINF:-1 group-title="Радио", Наше
+#EXTINF:-1 group-title="Радио", Наше радио
 http://nashe1.hostingradio.ru/nashespb128.mp3
 #EXTINF:-1 group-title="Радио", DFM
 http://dfm.hostingradio.ru/dfm128.mp3
 #EXTINF:-1 group-title="Радио", Ваня
 https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8
-#EXTINF:-1 group-title="Радио", Юмор (Волгоград)
-https://stream05.pcradio.ru/rad_hmrvlggrd-med
+#EXTINF:-1 group-title="Радио", Юмор
+http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 group-title="Радио", Юмор (Минск)
 https://stream05.pcradio.ru/humorfm_by-med
 #EXTINF:-1 group-title="Радио", Energy
-https://pub0101.101.ru:8000/stream/air/mp3/256/99
+http://23.105.238.4/gpm-energyfm495.aacp
 #EXTINF:-1 group-title="Радио", Шоколад
 http://choco.hostingradio.ru:10010/fm
 #EXTINF:-1 group-title="Радио", Мир
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:-1 group-title="Радио", Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
+#EXTINF:-1 group-title="Радио", Гордость
+http://134.0.119.161:9090/ostankino
+#EXTINF:-1 group-title="Радио", Максимум
+http://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1 group-title="Радио", Романтика
+http://23.105.238.4/gpm-romantika495.aacp
 #EXTINF:-1 group-title="Радио", Хит
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 group-title="Радио", Комсомольская Правда
 http://kpradio.hostingradio.ru:8000/128
+#EXTINF:-1 group-title="Радио", Орфей
+http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
 #EXTINF:-1 group-title="Радио", Relax
 https://stream05.pcradio.ru/relax_fm_ru-med
+#EXTINF:-1 group-title="Радио", Like
+http://23.105.238.4/gpm-likefm495.aacp
+#EXTINF:-1 group-title="Радио", Studio 21
+http://78.140.197.238:9877/msk_studio21
 #EXTINF:-1 group-title="Радио", Звезда
 https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", РБК
+http://reg.fmplay.ru:8000/rbc-48.aac
 #EXTINF:-1 group-title="Радио", Comedy
-http://ic7.101.ru:8000/stream/air/mp3/256/99
+http://23.105.238.4/gpm-comedyradio495.aacp
 #EXTINF:-1 group-title="Радио", Дача
 http://listen.vdfm.ru:8000/dacha
 #EXTINF:-1 group-title="Радио", Родных дорог
