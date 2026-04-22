@@ -800,6 +800,39 @@ https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a54
 #EXTINF:-1 group-title="Кинозалы Смотрим", 100% Факты
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 
+#EXTINF:-1 group-title="Кинозалы", Доктор Достоевский
+https://live20.bozztv.com/giatvplayout7/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Star Media
+https://live20.bozztv.com/giatvplayout7/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Ералаш
+https://live20.bozztv.com/giatvplayout7/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Приколы 1
+https://live20.bozztv.com/giatvplayout7/ushba11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Приколы 2
+https://live20.bozztv.com/giatvplayout7/ushba20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Шоу Бенни Хилла
+https://live20.bozztv.com/giatvplayout7/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Мистер Бин
+https://live20.bozztv.com/giatvplayout7/ushba45/index.m3u8
+#EXTINF:-1 group-title="Кинозалы", Документалка 1
+https://live20.bozztv.com/giatvplayout7/ushba28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Документалка 2
+https://live20.bozztv.com/giatvplayout7/ushba29/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Документалка 3
+https://live20.bozztv.com/giatvplayout7/ushba38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Спорт
+https://live20.bozztv.com/giatvplayout7/ushba46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Retrovision
+https://live20.bozztv.com/giatvplayout7/ushba-rvision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Retrovision Motor
+https://live20.bozztv.com/giatvplayout7/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Retrovision Кинопанорама
+https://live20.bozztv.com/giatvplayout7/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Retrovision Movies
+https://live20.bozztv.com/giatvplayout7/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы", Retrovision Classic
+https://live20.bozztv.com/giatvplayout7/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Познавательные", ЕГЭ
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2020/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто Плюс
@@ -952,7 +985,6 @@ https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ратник
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2119/index.m3u8
-
 
 #EXTINF:-1 group-title="Религиозные" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
