@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/perviy.png", Первый
-http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 HD
@@ -820,8 +820,6 @@ https://live20.bozztv.com/giatvplayout7/ushba28/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Документалка 3
 https://live20.bozztv.com/giatvplayout7/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Спорт
-https://live20.bozztv.com/giatvplayout7/ushba46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Retrovision
 https://live20.bozztv.com/giatvplayout7/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Retrovision Motor
