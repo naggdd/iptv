@@ -574,6 +574,12 @@ https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 http://176.96.241.40/Dorama/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", КиноТВ
 https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", KinoJam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="Кино и сериалы", KinoPro
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 group-title="Кино и сериалы", Legion
+https://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://vod.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere (1)
