@@ -435,6 +435,8 @@ https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Multimuzika/index.m3u8
 #EXTINF:-1 group-title="Детские", Киномульт
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/20009/index.m3u8
+#EXTINF:-1 group-title="Детские", NikNik
+https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
@@ -580,6 +582,26 @@ http://kinowalk.hopto.org/kinojam_live
 http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1 group-title="Кино и сериалы", Legion
 https://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 group-title="Кино и сериалы", Kinofon
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 group-title="Кино и сериалы", Serial4u
+http://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 group-title="Кино и сериалы", Romeo
+http://kinowalk.hopto.org/romantic_live
+#EXTINF:-1 group-title="Кино и сериалы", Комедии
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="Кино и сериалы", Video Channel
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 group-title="Кино и сериалы", Kinowalk
+http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="Кино и сериалы", Scripach
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Кино и сериалы", KinoMix
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="Кино и сериалы", Play 4 Fun
+http://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 group-title="Кино и сериалы", Kycman
+http://kinowalk.hopto.org/kycman_live
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://vod.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere (1)
