@@ -52,6 +52,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ HD
+http://46.32.64.39:10019
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", Муз ТВ
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 
@@ -1610,3 +1612,5 @@ https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ОшТВ (Кыргызстан)
 http://212.42.117.34:8080/hls/OshTV.m3u8
+#EXTINF:-1 group-title="Региональные", ТСВ (Приднестровье)
+https://tsv.md/stream/hls/tsv-online/index.m3u8
