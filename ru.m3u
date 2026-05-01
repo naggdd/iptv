@@ -244,8 +244,6 @@ http://46.53.208.4:80/live/542-req_offset_28000000-req_window_0-1k_v5.m3u8
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinohit.png", Кинохит
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinouzhas.png", Киноужас
-http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png", Киносерия
 https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман
@@ -580,32 +578,6 @@ https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 http://176.96.241.40/Dorama/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", КиноТВ
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", KinoJam
-http://kinowalk.hopto.org/kinojam_live
-#EXTINF:-1 group-title="Кино и сериалы", KinoPro
-http://kinowalk.hopto.org/kinopro_live
-#EXTINF:-1 group-title="Кино и сериалы", Legion
-https://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 group-title="Кино и сериалы", Kinofon
-http://kinowalk.hopto.org/kinofon_live
-#EXTINF:-1 group-title="Кино и сериалы", Serial4u
-http://kinowalk.hopto.org/serial4u_live
-#EXTINF:-1 group-title="Кино и сериалы", Romeo
-http://kinowalk.hopto.org/romantic_live
-#EXTINF:-1 group-title="Кино и сериалы", Комедии
-http://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:-1 group-title="Кино и сериалы", Video Channel
-http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 group-title="Кино и сериалы", Kinowalk
-http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 group-title="Кино и сериалы", Scripach
-http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 group-title="Кино и сериалы", KinoMix
-http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 group-title="Кино и сериалы", Play 4 Fun
-http://kinowalk.hopto.org/play4fun_live
-#EXTINF:-1 group-title="Кино и сериалы", Kycman
-http://kinowalk.hopto.org/kycman_live
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://vod.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere (1)
@@ -670,8 +642,6 @@ http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киноман
-http://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1 group-title="Кино и сериалы", Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", КиноМеню
@@ -716,22 +686,10 @@ http://158.101.222.193:88/georgia_play.php?id=zeetv
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Фильмы
-http://kinowalk.hopto.org/selecaotv_live
-#EXTINF:-1 group-title="Кино и сериалы", SeleCaoTV Сериалы
-http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg", Movie Toper
-http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 group-title="Кино и сериалы", LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-0 group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка
 http://46.53.208.4:80/live/1123-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg", VHS кино
-http://kinowalk.hopto.org/and7610_live
-#EXTINF:-0 group-title="Кино и сериалы", VHS Forever
-http://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-0 group-title="Кино и сериалы", ReanimatoR_VHS
-http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-0 group-title="Кино и сериалы", Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-0 group-title="Кино и сериалы", Пёс
@@ -742,9 +700,9 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Cinema
+#EXTINF:-1 group-title="Кино и сериалы", Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Alpha Funny
+#EXTINF:-1 group-title="Кино и сериалы", Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", ТВ 21
 https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
@@ -760,6 +718,75 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_slen
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", ATV Kinoman
 https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
+https://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Киноужас
+http://kinowalk.hopto.org/kinouzhas_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", SeleCaoTV Фильмы
+http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", SeleCaoTV Сериалы
+http://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Movie Toper
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", VHS кино
+http://kinowalk.hopto.org/and7610_live
+#EXTINF:-0 group-title="Кинозалы Kinowalk", VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-0 group-title="Кинозалы Kinowalk", ReanimatoR_VHS
+http://kinowalk.hopto.org/reanimator_vhs_live
+#EXTINF:-0 group-title="Кинозалы Kinowalk", lampoTV
+http://kinowalk.hopto.org/lampotv_live
+#EXTINF:-0 group-title="Кинозалы Kinowalk", swat2k
+http://kinowalk.hopto.org/swat2k_live
+#EXTINF:-0 group-title="Кинозалы Kinowalk", Wfliq
+http://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Киноман
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoJam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoPro
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Legion
+https://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Kinofon
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Serial4u
+http://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Romeo
+http://kinowalk.hopto.org/romantic_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Комедии
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Video Channel
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Scripach
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoMix
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Play 4 Fun
+http://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Kycman
+http://kinowalk.hopto.org/kycman_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Назад в СССР
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Video_Prokat
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", ZumiBox
+http://kinowalk.hopto.org/zumibox_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", TimeToMovie
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", kinolampa
+http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", BOSSFILM
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", ZubrilomFilm
+http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", JTX Online
+http://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", SerialTV
+http://kinowalk.hopto.org/serialtv_live
 
 #EXTINF:-1 group-title="Кинозалы IPTVPLAY", МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
