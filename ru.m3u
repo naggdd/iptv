@@ -721,14 +721,26 @@ https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Legion
+https://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Video_Prokat
+https://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", MovieToper
+https://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", TimeToHorror
+https://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", TimeToMovie
+https://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Blockbusters Time
+https://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Kinolampa
+https://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Киноужас
 http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", SeleCaoTV Фильмы
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Movie Toper
-http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", VHS кино
 http://kinowalk.hopto.org/and7610_live
 #EXTINF:-0 group-title="Кинозалы Kinowalk", VHS Forever
@@ -747,8 +759,6 @@ http://kinowalk.hopto.org/kinomania_stream_live
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", KinoPro
 http://kinowalk.hopto.org/kinopro_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Legion
-https://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinofon
 http://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Serial4u
@@ -769,14 +779,8 @@ http://kinowalk.hopto.org/play4fun_live
 http://kinowalk.hopto.org/kycman_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Video_Prokat
-http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", ZumiBox
 http://kinowalk.hopto.org/zumibox_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", TimeToMovie
-http://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", kinolampa
-http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", BOSSFILM
 http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", ZubrilomFilm
