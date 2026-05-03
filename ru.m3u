@@ -735,12 +735,36 @@ https://kinowalk.hopto.org/timetomovie_live
 https://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinolampa
 https://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", VideoArsenal
+https://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Kino Jam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Scripach
+https://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", SeleCaoTV
+https://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", SeleCaoTV1
+https://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Мультфильмы 24/7
+https://kinowalk.hopto.org/mezontrop_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", SerialTV
+https://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Serial4u
+https://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Киноужас
-http://kinowalk.hopto.org/kinouzhas_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", SeleCaoTV Фильмы
-http://kinowalk.hopto.org/selecaotv_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", SeleCaoTV Сериалы
-http://kinowalk.hopto.org/selecaotv1_live
+https://kinowalk.hopto.org/kinouzhas_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoPro
+https://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Коновал
+https://kinowalk.hopto.org/www.konoval_tv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Alex.Films
+https://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", BOSSFILM
+https://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", ZubrilomFilm
+https://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", JTX Online
+https://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", VHS кино
 http://kinowalk.hopto.org/and7610_live
 #EXTINF:-0 group-title="Кинозалы Kinowalk", VHS Forever
@@ -755,22 +779,14 @@ http://kinowalk.hopto.org/swat2k_live
 http://kinowalk.hopto.org/wfliq_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Киноман
 http://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoJam
-http://kinowalk.hopto.org/kinojam_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoPro
-http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinofon
 http://kinowalk.hopto.org/kinofon_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Serial4u
-http://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Romeo
 http://kinowalk.hopto.org/romantic_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Комедии
 http://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Video Channel
 http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Scripach
-http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", KinoMix
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Play 4 Fun
@@ -781,17 +797,6 @@ http://kinowalk.hopto.org/kycman_live
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", ZumiBox
 http://kinowalk.hopto.org/zumibox_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", BOSSFILM
-http://kinowalk.hopto.org/bossfilm_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", ZubrilomFilm
-http://kinowalk.hopto.org/zubrilomfilm_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", JTX Online
-http://kinowalk.hopto.org/jtxonline_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", VideoArsenal
-http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", SerialTV
-http://kinowalk.hopto.org/serialtv_live
-
 #EXTINF:-1 group-title="Кинозалы IPTVPLAY", МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Кинозалы IPTVPLAY", Ведьмак
