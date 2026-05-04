@@ -738,7 +738,7 @@ https://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", VideoArsenal
 https://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kino Jam
-http://kinowalk.hopto.org/kinojam_live
+https://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Scripach
 https://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", SeleCaoTV
@@ -765,38 +765,63 @@ https://kinowalk.hopto.org/bossfilm_live
 https://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", JTX Online
 https://kinowalk.hopto.org/jtxonline_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", VHS кино
-http://kinowalk.hopto.org/and7610_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Первый ряд
+https://kinowalk.hopto.org/perviryad_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Baragozz
+https://kinowalk.hopto.org/baragozz_tv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Кассета
+https://kinowalk.hopto.org/kasseta_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Мы из 90-х
+https://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Aisman
+https://kinowalk.hopto.org/aisman_live
 #EXTINF:-0 group-title="Кинозалы Kinowalk", VHS Forever
-http://kinowalk.hopto.org/vhs-forever_live
+https://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-0 group-title="Кинозалы Kinowalk", LampoTV
+https://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Video Channel
+https://kinowalk.hopto.org/video_channel_live
+#EXTINF:-0 group-title="Кинозалы Kinowalk", swat2k
+https://kinowalk.hopto.org/swat2k_live
+#EXTINF:-0 group-title="Кинозалы Kinowalk", Wfliq
+https://kinowalk.hopto.org/wfliq_live
+#EXTINF:-0 group-title="Кинозалы Kinowalk", Snoochies Boochies
+https://kinowalk.hopto.org/sinema_live
+#EXTINF:-0 group-title="Кинозалы Kinowalk", FoxKids Remastered
+https://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Комедии
+https://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Эквилибриум
+https://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", ChowAmigo
+https://kinowalk.hopto.org/chowamigo_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", TopMoment
+https://kinowalk.hopto.org/topmomentlive_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Назад в СССР
+https://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", VideoVk
+https://kinowalk.hopto.org/videovk_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", InMuNa
+https://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", VHS кино
+https://kinowalk.hopto.org/and7610_live
 #EXTINF:-0 group-title="Кинозалы Kinowalk", ReanimatoR_VHS
 http://kinowalk.hopto.org/reanimator_vhs_live
-#EXTINF:-0 group-title="Кинозалы Kinowalk", lampoTV
-http://kinowalk.hopto.org/lampotv_live
-#EXTINF:-0 group-title="Кинозалы Kinowalk", swat2k
-http://kinowalk.hopto.org/swat2k_live
-#EXTINF:-0 group-title="Кинозалы Kinowalk", Wfliq
-http://kinowalk.hopto.org/wfliq_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Киноман
 http://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinofon
 http://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Romeo
 http://kinowalk.hopto.org/romantic_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Комедии
-http://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Video Channel
-http://kinowalk.hopto.org/video_channel_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", KinoMix
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Play 4 Fun
 http://kinowalk.hopto.org/play4fun_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kycman
 http://kinowalk.hopto.org/kycman_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Назад в СССР
-http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", ZumiBox
 http://kinowalk.hopto.org/zumibox_live
+
 #EXTINF:-1 group-title="Кинозалы IPTVPLAY", МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Кинозалы IPTVPLAY", Ведьмак
