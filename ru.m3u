@@ -628,8 +628,6 @@ https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FilmBox Arthouse
 https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Про100 ТВ
-http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 group-title="Кино и сериалы", Комедия
@@ -805,22 +803,30 @@ https://kinowalk.hopto.org/videovk_live
 https://kinowalk.hopto.org/inmuna_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", VHS кино
 https://kinowalk.hopto.org/and7610_live
-#EXTINF:-0 group-title="Кинозалы Kinowalk", ReanimatoR_VHS
-http://kinowalk.hopto.org/reanimator_vhs_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Киноман
-http://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Kinofon
-http://kinowalk.hopto.org/kinofon_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Romeo
-http://kinowalk.hopto.org/romantic_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoMix
-http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Play 4 Fun
-http://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Cinema Time
+https://kinowalk.hopto.org/cinematime_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", IGROComp
+https://kinowalk.hopto.org/igrocomp_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kycman
-http://kinowalk.hopto.org/kycman_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", ZumiBox
-http://kinowalk.hopto.org/zumibox_live
+https://kinowalk.hopto.org/kycman_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", dj Zour
+https://kinowalk.hopto.org/zsmedia_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", КиноНонСтоп
+https://kinowalk.hopto.org/nonestopmovie_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Poison
+https://kinowalk.hopto.org/harbingerplay_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Priest_kod
+https://kinowalk.hopto.org/priest_kod_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Амбергейт
+https://kinowalk.hopto.org/ambergate_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Кинопроектор
+https://kinowalk.hopto.org/kinokjkh_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Tоny
+https://kinowalk.hopto.org/ordinary_people_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Kinofon
+https://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoMix
+https://kinowalk.hopto.org/yurich_kinomix_live
 
 #EXTINF:-1 group-title="Кинозалы IPTVPLAY", МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -1459,8 +1465,6 @@ http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 4 канал (Свердловская область)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", НТС-Ирбит (Свердловская область)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Вектор (Свердловская область)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Мы и город (Свердловская область)
