@@ -26,7 +26,7 @@
 
 ## Источники
 * [m3u.su](https://m3u.su)
-* [dmi3y-tv6.ru](http://dmi3y-tv6.ru)
+* [dmi3y-tv.online](http://dmi3y-tv.online)
 * [loganettv](https://github.com/loganettv/playlists)
 * [smolnp](https://github.com/smolnp/IPTVru)
 * [Dimonovich](https://github.com/Dimonovich/TV)
