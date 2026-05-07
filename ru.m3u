@@ -554,12 +554,10 @@ https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 group-title="Кино и сериалы", .Red
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_REDHD/video_1920x1080_avc1/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi (1)
-http://46.53.208.4:80/live/207-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi (2)
+#EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi
 https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинеко
-http://46.53.208.4:80/live/1812-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама HD
@@ -568,24 +566,14 @@ http://176.96.241.40/Dorama/index.m3u8
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://vod.tuva.ru/ovaa/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere (1)
-http://46.53.208.4:80/live/6001-req_offset_28000000-req_window_0-3k_v5.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere (2)
+#EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
 https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial
 https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit (1)
-http://46.53.208.4:80/live/6002-req_offset_28000000-req_window_0-3k_v5.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit (2)
+#EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit
 https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy (1)
-http://46.53.208.4:80/live/6003-req_offset_28000000-req_window_0-3k_v5.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy (2)
+#EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy
 https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Romantica
-http://46.53.208.4:80/live/3111-req_offset_28000000-req_window_0-3k_v5.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Новелла
-http://46.53.208.4:80/live/545-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1)
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2 (A2)
@@ -597,8 +585,6 @@ https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png", Феникс+ Кино
-http://46.53.208.4:80/live/332-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png", Феникс+ Кино HD
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/ntv-serial.png", НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
@@ -660,8 +646,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Союзный
-http://46.53.208.4/live/3106-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
 http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
@@ -674,8 +658,6 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-0 group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка
-http://46.53.208.4:80/live/1123-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-0 group-title="Кино и сериалы", Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-0 group-title="Кино и сериалы", Пёс
@@ -1034,8 +1016,6 @@ https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Психология
-http://46.53.208.4:80/live/109-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Познавательные", 555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ Право
@@ -1050,12 +1030,8 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 #EXTINF:-1 group-title="Познавательные", Охота и рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Дикая Рыбалка
-http://46.53.208.4:80/live/2324-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Познавательные", Дикая Охота
-http://46.53.208.4:80/live/2325-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Познавательные", Наша тема
-http://46.53.208.4:80/live/2103-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
