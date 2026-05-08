@@ -455,19 +455,17 @@ https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные", Матч! Страна
-http://31.210.208.171:8080/match_strana/index.m3u8?token=+W2MSER
+http://gr.seetv.cc/play/134/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Планета
 https://a3569457567-s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Боец
 http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра
 http://31.148.48.15/Match_Igra/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Арена
-http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спортивные", Бокс
+#EXTINF:-1 group-title="Спортивные", Бокс (1)
 http://158.101.222.193:88/georgia_play.php?id=boxtv
-#EXTINF:-1 group-title="Спортивные", Бокс HD
-http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спортивные", Бокс (2)
+https://a3569457567-s70378.cdn.ngenix.net/boks_tv/1/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Удар
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Футбол
@@ -596,8 +594,6 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Trash
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FilmBox
 https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", FilmBox Arthouse
@@ -605,7 +601,7 @@ https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 group-title="Кино и сериалы", Комедия
-http://31.210.208.171:8080/komedia/index.m3u8?token=+W2MSER
+http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
