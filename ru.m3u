@@ -997,7 +997,7 @@ http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Московское образование (Мособр)
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал
-https://livetv.mylifeisgood.net.ru/channels/1c5442c0461e5186126aaba26edd6857.m3u8
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
@@ -1115,17 +1115,13 @@ https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные", Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge
-http://31.148.48.15/Bridge_TV/index.m3u8
+http://31148.rafail1982.uz/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Classic
-http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Deluxe
-http://31.148.48.15/Bridge_TV_HD/index.m3u8
+http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Hits
-http://31.148.48.15/Bridge_TV_Dance/index.m3u8
-#EXTINF:-1 group-title="Музыкальные", Bridge Rock
-http://31.210.208.171:8080/bridge_rock/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Музыкальные", Bridge Шлягер
-http://31.210.208.171:8080/bridge_shlyager/index.m3u8?token=+W2MSER
+http://31148.rafail1982.uz/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Танцуй!
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/14023/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.imgur.com/H1Aap4E.png", VEVO Retro Rock
