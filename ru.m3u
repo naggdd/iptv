@@ -797,37 +797,6 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Кинозалы IPTVPLAY", Ужастик
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноНовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноСемья
-https://autopilot.catcast.tv/content/38128/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - Христианский
-https://autopilot.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем", Сити Эдем - Рецепты гурмана
-https://cityeden.catcast.tv/content/47516/index.m3u8
-
 #EXTINF:-1 group-title="Кинозалы Смотрим", 100% Детское
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
 #EXTINF:-1 group-title="Кинозалы Смотрим", 100% Классика
@@ -959,7 +928,7 @@ http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 group-title="Познавательные", BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Terra
-https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild
@@ -1008,16 +977,12 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке
-http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
 #EXTINF:-1 group-title="Познавательные", Охотник и рыболов
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Охотник и рыболов Int.
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 #EXTINF:-1 group-title="Познавательные", Охота и рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Наша тема
-http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
