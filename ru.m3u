@@ -1158,7 +1158,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b516000
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Региональные", Миллет (Крым)
 https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="http://only4.tv/ch/417.png", Москва Доверие
+#EXTINF:-1 group-title="Региональные", Москва Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Мир Белогорья (Белгородская область)
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
@@ -1166,41 +1166,41 @@ http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 group-title="Региональные", 24 (Луганск)
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/nts-sevastopol.png", НТС (Севастополь)
+#EXTINF:-1 group-title="Региональные", НТС (Севастополь)
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/sever.png", Север (Нарьян-Мар)
+#EXTINF:-1 group-title="Региональные", Север (Нарьян-Мар)
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", ТСТ (Черемхово)
 http://5.183.155.8:88/stream.m3u8
 #EXTINF:-1 group-title="Региональные", РТВ (Раменск)
 https://e10-ll.facecast.net/rtv/0.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/HK7XWj3/s7-RM4-D71-200x200.jpg", 10 канал (Новокузнецк)
+#EXTINF:-1 group-title="Региональные", 10 канал (Новокузнецк)
 http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/MN2CXkw/OPawdk-I-200x200.jpg", 12 канал (Омск)
+#EXTINF:-1 group-title="Региональные", 12 канал (Омск)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 12 канал (Череповец)
 http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i115.fastpic.org/big/2021/0801/b1/fedc8a3a26113045a40d22bd2ac5f5b1.png", 31 канал (Челябинск)
+#EXTINF:-1 group-title="Региональные", 31 канал (Челябинск)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/pJSpzRp/thumb-1b6a765369e8bc9e0535852478409267.png", 41 Регион (Камчатка)
+#EXTINF:-1 group-title="Региональные", 41 Регион (Камчатка)
 http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/93/ВТК_41_Аргус_(красный_цвет).png/revision/latest/scale-to-width-down/150?cb=20200520084623&path-prefix=ru", ВТК 41 Аргуст (Воронеж)
+#EXTINF:-1 group-title="Региональные", ВТК 41 Аргуст (Воронеж)
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/4e/16/ca4e167c-5f5c-5597-9978-fa2cf7430b91/source/512x512bb.jpg", НСК 49 (Новосибирск)
+#EXTINF:-1 group-title="Региональные", НСК 49 (Новосибирск)
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://settv.ru/static/images/logo/6tv_logo.png", 6 ТВ (Хабаровск)
+#EXTINF:-1 group-title="Региональные", 6 ТВ (Хабаровск)
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvbesedka.com/Upload/2020/10/29/21/41/51/801d599d-1d99-47ec-8e2f-353622083468.jpg", 7 канал (Красноярск)
+#EXTINF:-1 group-title="Региональные", 7 канал (Красноярск)
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/dLQJHqS/8kk-s.jpg", 8 канал (Красноярск)
+#EXTINF:-1 group-title="Региональные", 8 канал (Красноярск)
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/db4ZYJH/8-kanal-Novosibirsk-200x200.jpg", 8 канал (Новосибирск)
+#EXTINF:-1 group-title="Региональные", 8 канал (Новосибирск)
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/tQWgwTN/TMTV-256x256.png", TMTV (Казань)
+#EXTINF:-1 group-title="Региональные", TMTV (Казань)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", TV Губерния (Воронеж)
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_TVGUBERNIYA/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/2kdbJ1T/efe33f1c1c96bfdb7c6e78a4ef1388bd.png", TVоя (Тюмень)
+#EXTINF:-1 group-title="Региональные", TVоя (Тюмень)
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Югра Тревел (Сургут)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
@@ -1210,7 +1210,7 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", АСТВ (Южно-Сахалинск)
 http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ACTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://atvmedia.ru/uploads/tilda/material-348/tild3766-6536-4332-b061-393931326336__logo_atvmedia_v_07.png", АТВ (Бурятия)
+#EXTINF:-1 group-title="Региональные", АТВ (Бурятия)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные", АТВ (Ставрополь)
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
