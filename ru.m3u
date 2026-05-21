@@ -1085,8 +1085,6 @@ https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Новое Радио
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные", MIXM
-http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 group-title="Музыкальные", NM Television
 https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Deluxe Music
