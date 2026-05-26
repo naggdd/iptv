@@ -1020,7 +1020,9 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи!
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG
-https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
+http://185.78.112.47:8077/rtg/index.m3u8
+#EXTINF:-1 group-title="Познавательные", RTG HD
+http://185.78.112.47:8077/rtg_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука
 https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
@@ -1029,16 +1031,8 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Океан
-https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные", History
-https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные", History 2 (H2)
-https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Дикий
-https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные", The explorers
-https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
+#EXTINF:-1 group-title="Познавательные", The explorers HD
+http://cdn.kubteltv.workers.dev/?ID=443
 #EXTINF:-1 group-title="Познавательные", Ратник
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2119/index.m3u8
 
@@ -1131,8 +1125,6 @@ http://31.148.48.15/Zhara/index.m3u8
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 group-title="Музыкальные", О!2
 http://217.11.177.56/streams/media/o2tv_720x576/index.m3u8
-#EXTINF:-1 group-title="Музыкальные", О!2 HD
-http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVM3
