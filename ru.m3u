@@ -654,18 +654,10 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Alpha Cinema
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", ТВ 21
-https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Fox Life
-https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Pro100
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Беларусь 3
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", ATV Kinoman
-https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
@@ -701,14 +693,10 @@ https://kinowalk.hopto.org/serialtv_live
 https://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Киноужас
 https://kinowalk.hopto.org/kinouzhas_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoPro
-https://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Коновал
 https://kinowalk.hopto.org/www.konoval_tv_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Alex.Films
 https://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", BOSSFILM
-https://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", ZubrilomFilm
 https://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", JTX Online
@@ -763,8 +751,6 @@ https://kinowalk.hopto.org/kycman_live
 https://kinowalk.hopto.org/zsmedia_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", КиноНонСтоп
 https://kinowalk.hopto.org/nonestopmovie_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Poison
-https://kinowalk.hopto.org/harbingerplay_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Priest_kod
 https://kinowalk.hopto.org/priest_kod_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Амбергейт
@@ -922,7 +908,7 @@ http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 group-title="Познавательные", BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Terra
-https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
+http://185.78.112.47:8077/natgeo_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild
@@ -981,10 +967,8 @@ http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
 https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Travel+Adventure
-https://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
-http://77.232.131.211/TravelAdventureHD/index.m3u8
+http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
@@ -1001,8 +985,6 @@ https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 group-title="Познавательные", TV Pro
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1 group-title="Познавательные", Galaxy
-https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка Отрыва
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Da Vinci
