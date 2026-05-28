@@ -571,9 +571,11 @@ http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2 (A2)
 http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
-https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+http://185.78.112.47:8077/amedia_hit_hd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
+http://tv.woobl.ru/amedia_hit_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium
-https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
+http://185.78.112.47:8077/amedia_premium_hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+ Кино
@@ -588,10 +590,6 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", FilmBox
-https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", FilmBox Arthouse
-https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 group-title="Кино и сериалы", Комедия
@@ -614,10 +612,14 @@ https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ
 http://cdn.kubteltv.workers.dev/?ID=414
+#EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ HD
+http://tv.woobl.ru/nash_kinopokaz_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мир сериала
-https://a3569457567-s70378.cdn.ngenix.net/mir_seriala/1/index.m3u8
+http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Мир сериала HD
+http://tv.woobl.ru/mir_seriala_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
@@ -635,7 +637,9 @@ http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
 http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
-http://85.117.37.41/eurokino/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=eurokino
+#EXTINF:-1 group-title="Кино и сериалы", Еврокино HD
+http://tv.woobl.ru/evrokino/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="Кино и сериалы", Советское кино
