@@ -437,8 +437,6 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="Детские", Детский мир
-https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум
@@ -457,7 +455,7 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist
 #EXTINF:-1 group-title="Спортивные", Матч! Страна
 http://gr.seetv.cc/play/134/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Планета
-https://a3569457567-s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спортивные", Матч! Боец
 http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра
@@ -465,7 +463,7 @@ http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Бокс (1)
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спортивные", Бокс (2)
-https://a3569457567-s70378.cdn.ngenix.net/boks_tv/1/index.m3u8
+http://185.78.112.47:8077/boks-tv/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Удар
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Футбол
@@ -497,7 +495,9 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Viju+ Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA
-https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
+http://tv.woobl.ru/mma_tvcom_hd/video.m3u8?token=woobliptvz
+#EXTINF:-1 group-title="Спортивные", MMA (2)
+http://31.148.48.15/M1_Global/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Extreme Sports
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/144/index.m3u8
 
@@ -545,15 +545,15 @@ https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 group-title="Кино и сериалы", .Red
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_REDHD/video_1920x1080_avc1/playlist.m3u8
+http://185.78.112.47:8077/red_hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi
-https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
+http://tv.woobl.ru/sci_fi_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Кинеко
 http://31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Дорама HD
-http://176.96.241.40/Dorama/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дорама (2)
+http://185.78.112.47:8077/Dorama/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", КиноТВ
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
