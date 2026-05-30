@@ -413,8 +413,6 @@ https://a3569457567-s70378.cdn.ngenix.net/malish/1/index.m3u8
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Детские", Fox Kids
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детские", Шаян
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 #EXTINF:-1 group-title="Детские", Чип и Дейл
@@ -727,8 +725,6 @@ https://kinowalk.hopto.org/swat2k_live
 https://kinowalk.hopto.org/wfliq_live
 #EXTINF:-0 group-title="Кинозалы Kinowalk", Snoochies Boochies
 https://kinowalk.hopto.org/sinema_live
-#EXTINF:-0 group-title="Кинозалы Kinowalk", FoxKids Remastered
-https://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Комедии
 https://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Эквилибриум
