@@ -413,6 +413,8 @@ https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Детские", Fan
 http://31.148.48.15/Fan/index.m3u8
+#EXTINF:-1 group-title="Детские", Fan (2)
+http://185.78.112.47:8077/fan/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
@@ -636,6 +638,8 @@ http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
 http://tv.woobl.ru/mir_seriala_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Hollywood (2)
+http://tv.woobl.ru/hollywood_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:-1 group-title="Кино и сериалы", Русский Иллюзион
@@ -678,6 +682,18 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", DetectiveJam
 http://cdn.kubteltv.workers.dev/?ID=299
+#EXTINF:-1 group-title="Кино и сериалы", KinoJam 1
+http://185.78.112.47:8077/kinojam1/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", KinoJam 1 (2)
+http://cdn.kubteltv.workers.dev/?ID=297
+#EXTINF:-1 group-title="Кино и сериалы", Plan_B
+http://185.78.112.47:8077/planb/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Start Air
+http://tv.woobl.ru/start_air_hd/video.m3u8?token=woobliptvz
+#EXTINF:-1 group-title="Кино и сериалы", Start World
+http://cdn.kubteltv.workers.dev/?ID=371
+#EXTINF:-1 group-title="Кино и сериалы", Start World (2)
+http://tv.woobl.ru/start_world_hd/video.m3u8?token=woobliptvz
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
