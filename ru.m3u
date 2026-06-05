@@ -218,6 +218,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция
 http://cdn.kubteltv.workers.dev/?ID=353
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция (2)
+http://185.78.112.47:8077/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/pobeda.png", Победа
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино
@@ -226,6 +228,10 @@ http://185.78.112.47:8077/dom_kino/index.m3u8
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinokomedia.png", Кинокомедия
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinokomedia.png", Кинокомедия (2)
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinokomedia.png", Кинокомедия (3)
+http://tv.woobl.ru/kinokomediya_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_tv1000.png", Viju TV1000
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_tv1000.png", Viju TV1000 (2)
@@ -256,6 +262,10 @@ https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png", Киносерия
 https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png", Киносерия (2)
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png", Киносерия (3)
+http://176.118.197.101/Kinoseria/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман
 http://31.148.48.15/Russkiy_Roman/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_detectiv.png", Русский детектив
@@ -416,13 +426,15 @@ https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские", СТС Kids
-http://195.26.83.96:7006/play/a00z/index.m3u8
+http://185.78.112.47:8077/sts_kids/index.m3u8
 #EXTINF:-1 group-title="Детские", Fan
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 group-title="Детские", Fan (2)
 http://185.78.112.47:8077/fan/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Ducktv
+http://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
@@ -455,6 +467,10 @@ http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/20009/index.m3u8
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", О!
+http://cdn.kubteltv.workers.dev/?ID=270
+#EXTINF:-1 group-title="Детские", О! (2)
+http://185.78.112.47:8077/o_/index.m3u8
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
@@ -471,6 +487,8 @@ https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+#EXTINF:-1 group-title="Детские", Sumiko
+http://tv.woobl.ru/sumiko_hd/video.m3u8?token=woobliptvz
 
 #EXTINF:-1 group-title="Спортивные", Матч! Страна
 http://gr.seetv.cc/play/134/D70CC021CA87DF2/video.m3u8
@@ -572,22 +590,28 @@ http://tv.woobl.ru/sci_fi_hd/video.m3u8?token=woobliptvz
 http://158.101.222.193:88/georgia_play.php?id=scifi
 #EXTINF:-1 group-title="Кино и сериалы", Кинеко
 http://31.148.48.15/Kineko_HD/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинеко (2)
+http://tv.woobl.ru/kineko/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама (2)
 http://185.78.112.47:8077/Dorama/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", КиноТВ
-https://vod.tuva.ru/kinotv/index.m3u8
+http://185.78.112.47:8077/kino-tv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://vod.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
 http://tv.woobl.ru/viju_plus_premiere_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial
 http://tv.woobl.ru/viju_plus_serial_hd/video.m3u8?token=woobliptvz
+#EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial (2)
+http://46.32.176.50/ViasatSportHD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit
 http://tv.woobl.ru/viju_plus_megahit_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy
 http://tv.woobl.ru/viju_plus_comedy_hd/video.m3u8?token=woobliptvz
+#EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy (2)
+http://46.32.176.50/VIPComedyHD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1)
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2 (A2)
@@ -618,8 +642,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киномикс (2)
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="Кино и сериалы", Киномикс (3)
+http://tv.woobl.ru/kinomiks_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 group-title="Кино и сериалы", Киносвидание (2)
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киносвидание (3)
+http://tv.woobl.ru/kinosvidanie_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
@@ -634,10 +666,14 @@ https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ
 http://cdn.kubteltv.workers.dev/?ID=414
-#EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ HD
+#EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ (2)
+http://185.78.112.47:8077/nash_kinopokaz_hd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ (3)
 http://tv.woobl.ru/nash_kinopokaz_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Любимое кино (2)
+http://tv.woobl.ru/nashe_ljubimoe_kino/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Мир сериала
 http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Мир сериала HD
@@ -648,6 +684,10 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 http://tv.woobl.ru/hollywood_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF:-1 group-title="Кино и сериалы", Иллюзион+ (2)
+http://46.32.176.50/illuzion/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Иллюзион+ (3)
+http://185.78.112.47:8077/illusion_plus_hd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский Иллюзион
 http://158.101.222.193:88/georgia_play.php?id=rusilluzion
 #EXTINF:-1 group-title="Кино и сериалы", Kino 24 (Кино 24)
@@ -660,6 +700,8 @@ https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
 http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
+#EXTINF:-1 group-title="Кино и сериалы", Индийское кино (2)
+http://tv.woobl.ru/indiyskoe_kino/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://158.101.222.193:88/georgia_play.php?id=eurokino
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино HD
@@ -1027,6 +1069,8 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Da Vinci
 http://158.101.222.193:88/georgia_play.php?id=davinci
+#EXTINF:-1 group-title="Познавательные", Da Vinci (2)
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Планета
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Родной канал
