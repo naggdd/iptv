@@ -40,8 +40,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС (2)
+http://cdn.kubteltv.workers.dev/?ID=377
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (2)
+http://185.78.112.47:8077/domashniy/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (3)
+http://185.78.112.47:8077/domashniy_hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница
@@ -272,8 +278,10 @@ http://31.148.48.15/Russkiy_Roman/index.m3u8
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery HD
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery (2)
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery (3)
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/2x2.png", 2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/solnce.png", Солнце
@@ -1047,8 +1055,10 @@ http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
 https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
+#EXTINF:-1 group-title="Познавательные", Travel+Adventure
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Travel+Adventure (2)
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
