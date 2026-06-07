@@ -396,14 +396,20 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 #EXTINF:-1 group-title="Информационные", RT News
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="Информационные", RTД (RTD)
+#EXTINF:-1 group-title="Информационные", RTД
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 group-title="Информационные", RTД (2)
+http://185.78.112.47:8077/rtdoc_hd/index.m3u8
 #EXTINF:-1 group-title="Информационные", 360
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1 group-title="Информационные", 360 HD
+#EXTINF:-1 group-title="Информационные", 360 (2)
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 #EXTINF:-1 group-title="Информационные", 360 Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 group-title="Информационные", 360 Новости (2)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Информационные", 360 Новости (3)
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
 #EXTINF:-1 group-title="Информационные", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", РЖД
@@ -998,11 +1004,15 @@ http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 group-title="Познавательные", BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Terra
+http://185.78.112.47:8077/natgeo/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Terra (2)
 http://185.78.112.47:8077/natgeo_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", National Geographic Wild (2)
+http://185.78.112.47:8077/natgeo_wild_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Драйв
@@ -1059,6 +1069,10 @@ https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure (2)
 http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Animal Planet
+http://185.78.112.47:8077/AnimalPlanetRussiaHD/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Big Planet
+http://185.78.112.47:8077/big_planet_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
