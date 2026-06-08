@@ -252,16 +252,26 @@ http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 http://tv.woobl.ru/viju_tv1000_russkoe_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action HD
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (2)
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (3)
+http://185.78.112.47:8077/viju_tv1000_action_hd/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore (3)
+http://cdn.kubteltv.workers.dev/?ID=263
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_history.png", Viju History
 http://46.32.176.50/HistoryHD/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_history.png", Viju History HD
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_history.png", Viju History (2)
 http://185.78.112.47:8077/History-HD/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_history.png", Viju History (3)
+http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_nature.png", Viju Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_nature.png", Viju Nature (2)
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinopremiera.png", Кинопремьера
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinohit.png", Кинохит
@@ -438,6 +448,8 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
 #EXTINF:-1 group-title="Информационные", Euronews
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Информационные", Аква
+http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 
 #EXTINF:-1 group-title="Детские", СТС Kids
 http://185.78.112.47:8077/sts_kids/index.m3u8
@@ -1123,6 +1135,10 @@ https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 http://cdn.kubteltv.workers.dev/?ID=443
 #EXTINF:-1 group-title="Познавательные", Ратник
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2119/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Арт
+http://185.78.112.47:8077/art/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Живи активно
+https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Религиозные", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
