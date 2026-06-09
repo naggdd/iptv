@@ -207,6 +207,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир 24 (2)
+https://uiptv.do.am/1ufc/112234126/playlist.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
@@ -1139,6 +1141,8 @@ http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2119/index.m3u8
 http://185.78.112.47:8077/art/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи активно
 https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Полет
+http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 
 #EXTINF:-1 group-title="Религиозные", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
