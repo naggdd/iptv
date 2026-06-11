@@ -518,6 +518,8 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist
 #EXTINF:-1 group-title="Детские", Sumiko
 http://tv.woobl.ru/sumiko_hd/video.m3u8?token=woobliptvz
 
+#EXTINF:-1 group-title="Спортивные", Матч! Арена
+http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спортивные", Матч! Страна
 http://gr.seetv.cc/play/134/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Планета
@@ -1063,6 +1065,8 @@ https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
 http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая природа
+https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", 555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ Право
@@ -1243,6 +1247,10 @@ https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", VIVA
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=MeP9OJ5c-c4A5f73twBJ3g&e=2075372287&scheme=https
+#EXTINF:-1 group-title="Музыкальные", Mezzo
+http://158.101.222.193:88/georgia_play.php?id=mezzo
+#EXTINF:-1 group-title="Музыкальные", Mezzo (2)
+http://live-3.otcnet.ru/Mezzo/index.m3u8
 
 #EXTINF:-1 group-title="Региональные", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
