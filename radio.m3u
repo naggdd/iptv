@@ -6,6 +6,8 @@ http://23.105.238.4/gpm-avtoradio495.aacp
 http://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 group-title="Радио", Ретро
 http://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1 group-title="Радио", Ретро (2)
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 group-title="Радио", Дорожное
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 #EXTINF:-1 group-title="Радио", Европа Плюс
@@ -82,6 +84,8 @@ http://bfm.hostingradio.ru:8004/fm
 http://radio-remix.ru:8000/radio
 #EXTINF:-1 group-title="Радио", Милицейская Волна
 http://radiomv.hostingradio.ru/radiomv256.mp3
+#EXTINF:-1 group-title="Радио", Милицейская Волна (2)
+http://radio2.sevstar.net:8000/milicia
 #EXTINF:-1 group-title="Радио", Книга
 http://bookradio.hostingradio.ru:8069/fm
 #EXTINF:-1 group-title="Радио", Юность
@@ -116,6 +120,8 @@ http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
 http://listen6.myradio24.com:9000/5390
 #EXTINF:-1 group-title="Радио", Калина Красная
 http://icecast-studio21.cdnvideo.ru/KalynaK_1a
+#EXTINF:-1 group-title="Радио", Калина Красная (2)
+http://78.140.197.238:9877/msk_KalynaK_1a
 #EXTINF:-1 group-title="Радио", Иваново
 http://91.219.74.220:8000/IvanovoFM.mp3
 #EXTINF:-1 group-title="Радио", Гамаюн
@@ -446,3 +452,5 @@ http://212.26.132.129:8000/ArmyFM
 http://radio.radioshansonplus.com:8000/radio
 #EXTINF:-1 group-title="Радио", Первое (Украина)
 http://195.138.81.134:8000/radio1-256
+#EXTINF:-1 group-title="Радио", Маруся
+http://msk1.radio-holding.ru:9000/stream_site_marus_hls
