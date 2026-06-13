@@ -18,6 +18,8 @@ http://icecast-record.cdnvideo.ru/record
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 group-title="Радио", Новое
 http://icecast-newradio.cdnvideo.ru/newradio3
+#EXTINF:-1 group-title="Радио", Новое (2)
+http://stream.newradio.ru/moscow.novoe.aacp
 #EXTINF:-1 group-title="Радио", Такси
 http://185.40.31.28:8000/station_54
 #EXTINF:-1 group-title="Радио", Monte Carlo (Монте Карло)
@@ -46,6 +48,8 @@ http://choco.hostingradio.ru:10010/fm
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:-1 group-title="Радио", Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
+#EXTINF:-1 group-title="Радио", Радио России (2)
+http://radio.sevstar.net:8000/radio-rossii
 #EXTINF:-1 group-title="Радио", Гордость
 http://134.0.119.161:9090/ostankino
 #EXTINF:-1 group-title="Радио", Максимум
@@ -56,10 +60,12 @@ http://23.105.238.4/gpm-romantika495.aacp
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 group-title="Радио", Комсомольская Правда
 http://kpradio.hostingradio.ru:8000/128
+#EXTINF:-1 group-title="Радио", Комсомольская Правда (2)
+http://kraskp.ru:8000/mskregion
 #EXTINF:-1 group-title="Радио", Орфей
 http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
 #EXTINF:-1 group-title="Радио", Relax
-https://stream05.pcradio.ru/relax_fm_ru-med
+http://23.105.238.4/gpm-relaxfm495.aacp
 #EXTINF:-1 group-title="Радио", Like
 http://23.105.238.4/gpm-likefm495.aacp
 #EXTINF:-1 group-title="Радио", Studio 21
@@ -158,6 +164,8 @@ http://nashe3.hostingradio.ru/best-128.mp3
 http://radiovera.hostingradio.ru:8007/radiovera_128
 #EXTINF:-1 group-title="Радио", Говорит Москва
 https://video.govoritmoskva.ru/rufm/index.m3u8
+#EXTINF:-1 group-title="Радио", Говорит Москва (2)
+http://media.govoritmoskva.ru:8000/gm.mp3
 #EXTINF:-1 group-title="Радио", Maximum
 http://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 group-title="Радио", Русский мир
@@ -192,6 +200,17 @@ https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3
 https://icecast-radonezh.cdnvideo.ru/rad128
 #EXTINF:-1 group-title="Радио", Сказка
 http://skazka.amgradio.ru/Skazka
+#EXTINF:-1 group-title="Радио", Маруся
+http://msk1.radio-holding.ru:9000/stream_site_marus_hls
+#EXTINF:-1 group-title="Радио", Детское
+http://23.105.238.4/gpm-detifm495.aacp
+
+#EXTINF:-1 group-title="Радио", Рекорд Chill-Out
+https://hls-01-radiorecord.hostingradio.ru/record-chil/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Рекорд Deep
+https://hls-01-radiorecord.hostingradio.ru/record-deep/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Рекорд Gold
+https://hls-01-radiorecord.hostingradio.ru/record-gold/playlist.m3u8
 
 #EXTINF:-1 group-title="Радио", Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
@@ -306,8 +325,6 @@ http://revolutionradio.ru:8000/live.mp3
 http://hermitage.hostingradio.ru/hermitage128.mp3
 #EXTINF:-1 group-title="Радио", Эльдорадио (Санкт-Петербург)
 http://emgspb.hostingradio.ru/eldoradio128.mp3
-#EXTINF:-1 group-title="Радио", Детское (Санкт-Петербург)
-https://stream05.pcradio.ru/deti_fm-med
 #EXTINF:-1 group-title="Радио", Православное (Санкт-Петербург)
 http://radio-spb.rusk.ru:8000/stream
 #EXTINF:-1 group-title="Радио", Хит (Орск)
@@ -452,5 +469,3 @@ http://212.26.132.129:8000/ArmyFM
 http://radio.radioshansonplus.com:8000/radio
 #EXTINF:-1 group-title="Радио", Первое (Украина)
 http://195.138.81.134:8000/radio1-256
-#EXTINF:-1 group-title="Радио", Маруся
-http://msk1.radio-holding.ru:9000/stream_site_marus_hls
