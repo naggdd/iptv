@@ -38,8 +38,6 @@ http://dfm.hostingradio.ru/dfm128.mp3
 https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", Юмор
 http://live.humorfm.by:8000/veseloe.m3u
-#EXTINF:-1 group-title="Радио", Юмор (Минск)
-https://stream05.pcradio.ru/humorfm_by-med
 #EXTINF:-1 group-title="Радио", Energy
 http://23.105.238.4/gpm-energyfm495.aacp
 #EXTINF:-1 group-title="Радио", Шоколад
@@ -140,8 +138,6 @@ http://stream.bfmradio.us:8070/radio
 http://yumfm.hostingradio.ru:8020/yumfm128.mp3
 #EXTINF:-1 group-title="Радио", Vanilla
 http://radio.vanilla-fm.ru:8000/music
-#EXTINF:-1 group-title="Радио", Nu Euphoria Trance
-https://stream05.pcradio.ru/nu_euphoria-med
 #EXTINF:-1 group-title="Радио", Mixadance
 https://stream.mixadance.fm/mixadance
 #EXTINF:-1 group-title="Радио", Makkirus
@@ -293,13 +289,6 @@ http://195.91.237.50:8000/detskoe128
 #EXTINF:-1 group-title="Радио", Старое - Музыка
 http://195.91.237.50:8000/music128
 
-#EXTINF:-1 group-title="Радио", Русский панк
-http://79.120.77.11:8000/punkru
-#EXTINF:-1 group-title="Радио", Русский рок
-http://79.120.77.11:8000/rockru
-#EXTINF:-1 group-title="Радио", Русские хиты 80-90
-http://79.120.77.11:8000/80ru
-
 #EXTINF:-1 group-title="Радио", Ретро - 70е
 http://hls-01-retro70.emgsound.ru/1/128/playlist.m3u8
 #EXTINF:-1 group-title="Радио", Ретро - 80е
@@ -331,8 +320,6 @@ http://radio-spb.rusk.ru:8000/stream
 http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 group-title="Радио", Балтик Плюс (Калининград)
 http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
-#EXTINF:-1 group-title="Радио", Весна (Смоленск)
-http://91.203.176.214:8000/vesnafm
 #EXTINF:-1 group-title="Радио", Спутник (Волгоград)
 http://online.volgogradfm.ru:8000/sputnik_mp3
 #EXTINF:-1 group-title="Радио", 1 (Приднестровье)
@@ -351,8 +338,6 @@ http://95.104.192.220:8001/radio2x2.ogg
 http://81.23.194.18:8010/radio3.mp3
 #EXTINF:-1 group-title="Радио", 99.1 FM (Красноярск)
 http://online.99-1.ru:8000/99i1_mp3
-#EXTINF:-1 group-title="Радио", VFM (Волхов)
-http://player.vfmradio.ru/stream.ogg
 #EXTINF:-1 group-title="Радио", Алания (Владикавказ)
 http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3
 #EXTINF:-1 group-title="Радио", Альфа (Пермь)
@@ -383,8 +368,6 @@ http://radio.rikt.ru:8000/trk-kvant
 http://av.bimradio.ru:8066/kurai_mp3
 #EXTINF:-1 group-title="Радио", Кунел (Татарстан)
 http://live.kunelradio.ru:8000/128.mp3
-#EXTINF:-1 group-title="Радио", Макс (Сочи)
-https://stream05.pcradio.ru/max_fm_ru-med
 #EXTINF:-1 group-title="Радио", Мелодия (Воронеж)
 http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
 #EXTINF:-1 group-title="Радио", Губерния (Воронеж)
@@ -461,8 +444,6 @@ http://live.legendy.by:8000/legendyfm
 http://listen6.myradio24.com:9000/50904
 #EXTINF:-1 group-title="Радио", НВ (Украина)
 http://91.218.212.84:8000/radionv.mp3
-#EXTINF:-1 group-title="Радио", Домивка (Украина)
-http://stream.radiodomivka.com:8000/auto
 #EXTINF:-1 group-title="Радио", Армия (Украина)
 http://212.26.132.129:8000/ArmyFM
 #EXTINF:-1 group-title="Радио", Sfera Music (Украина)
