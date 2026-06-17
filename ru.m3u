@@ -8,8 +8,6 @@ http://dmi3y-tv.online/hls/DVB-T2/CH_1TV.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 HD (2)
-http://185.78.112.47:8077/rossia_hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ
@@ -30,8 +28,10 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/otr.png", ОТР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/otr.png", ОТР HD
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/otr-hd/video.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/otr.png", ОТР (2)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/otr.png", ОТР (3)
+http://stream-tv.ew21.ru/009/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv_tsentr.png", ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/ren_tv.png", РЕН ТВ
@@ -40,8 +40,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС (2)
-http://iptv46.mcx-ix.ru:8077/sts_hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3
@@ -60,8 +58,6 @@ http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ (2)
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=https
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ (3)
-http://iptv46.mcx-ix.ru:8077/tnt/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", Муз ТВ
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 
