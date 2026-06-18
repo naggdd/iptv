@@ -218,14 +218,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", Муз ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция
-http://iptv46.mcx-ix.ru:8077/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/pobeda.png", Победа
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино (2)
-http://iptv46.mcx-ix.ru:8077/dom_kino/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино (3)
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinokomedia.png", Кинокомедия
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinokomedia.png", Кинокомедия (2)
@@ -246,25 +246,17 @@ https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское (2)
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское (3)
-http://tv.woobl.ru/viju_tv1000_russkoe_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (2)
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (3)
-http://185.78.112.47:8077/viju_tv1000_action_hd/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore (3)
-http://cdn.kubteltv.workers.dev/?ID=263
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_history.png", Viju History
-http://46.32.176.50/HistoryHD/index.m3u8
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_history.png", Viju History (2)
-http://185.78.112.47:8077/History-HD/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_history.png", Viju History (3)
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_nature.png", Viju Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
@@ -319,17 +311,15 @@ http://31.148.48.15/Vremya/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ntv_hit.png", НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/cinema.png", Cinema
-http://185.78.112.47:8077/cinema_hd/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/cinema.png", Cinema (2)
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/cinema.png", Cinema (3)
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/cinema.png", Cinema (2)
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png", НСТ
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/muzhskoe.png", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/muzhskoe.png", Мужское кино (2)
-http://185.78.112.47:8077/muzhskoe-kino_hd/index.m3u8
+https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/solovyov.png", Соловьев.Live
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/m24.png", Москва 24 (М24)
@@ -770,6 +760,8 @@ http://tv.woobl.ru/start_air_hd/video.m3u8?token=woobliptvz
 http://cdn.kubteltv.workers.dev/?ID=371
 #EXTINF:-1 group-title="Кино и сериалы", Start World (2)
 http://tv.woobl.ru/start_world_hd/video.m3u8?token=woobliptvz
+#EXTINF:-1 group-title="Кино и сериалы", NSC
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
