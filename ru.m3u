@@ -396,8 +396,6 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", RTД
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 group-title="Информационные", RTД (2)
-http://185.78.112.47:8077/rtdoc_hd/index.m3u8
 #EXTINF:-1 group-title="Информационные", 360
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1 group-title="Информационные", 360 (2)
@@ -418,8 +416,6 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 group-title="Информационные", Легендарный 24
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 group-title="Информационные", CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="Информационные", DW
@@ -440,11 +436,13 @@ https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 
 #EXTINF:-1 group-title="Детские", СТС Kids
-http://185.78.112.47:8077/sts_kids/index.m3u8
+http://37.186.70.39:40/play/97/index.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids (2)
+http://195.26.83.96:7006/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids (3)
+http://87.246.54.249:8085/CTC_Kids/index.m3u8
 #EXTINF:-1 group-title="Детские", Fan
 http://31.148.48.15/Fan/index.m3u8
-#EXTINF:-1 group-title="Детские", Fan (2)
-http://185.78.112.47:8077/fan/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ducktv
@@ -452,11 +450,11 @@ http://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
-http://185.78.112.47:8077/nickelodeon/index.m3u8
-#EXTINF:-1 group-title="Детские", Nickelodeon (2)
 http://dmi3y-tv.online/hls/CH_NICKELODEON.m3u8
+#EXTINF:-1 group-title="Детские", Nickelodeon (USA)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Детские", Супергерои
-http://185.78.112.47:8077/malish/index.m3u8
+http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
