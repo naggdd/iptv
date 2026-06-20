@@ -437,10 +437,6 @@ http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 
 #EXTINF:-1 group-title="Детские", СТС Kids
 http://37.186.70.39:40/play/97/index.m3u8
-#EXTINF:-1 group-title="Детские", СТС Kids (2)
-http://195.26.83.96:7006/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Детские", СТС Kids (3)
-http://87.246.54.249:8085/CTC_Kids/index.m3u8
 #EXTINF:-1 group-title="Детские", Fan
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама
@@ -453,8 +449,6 @@ http://158.160.149.81:8080/269/index.m3u8
 http://dmi3y-tv.online/hls/CH_NICKELODEON.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon (USA)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Детские", Супергерои
-http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские", Смайл
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
@@ -480,9 +474,7 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", О!
-http://cdn.kubteltv.workers.dev/?ID=270
-#EXTINF:-1 group-title="Детские", О! (2)
-http://185.78.112.47:8077/o_/index.m3u8
+http://37.186.70.39:40/play/100/index.m3u8
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
@@ -499,8 +491,6 @@ https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-#EXTINF:-1 group-title="Детские", Sumiko
-http://tv.woobl.ru/sumiko_hd/video.m3u8?token=woobliptvz
 
 #EXTINF:-1 group-title="Спортивные", Матч! Арена
 http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
@@ -512,10 +502,12 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра
 http://31.148.48.15/Match_Igra/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Бокс (1)
+#EXTINF:-1 group-title="Спортивные", Бокс
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спортивные", Бокс (2)
-http://185.78.112.47:8077/boks-tv/index.m3u8
+http://tinyurl.com/TvZaTak65?id=boxtv
+#EXTINF:-1 group-title="Спортивные", Бокс (3)
+http://37.186.70.39:40/play/85/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Удар
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Футбол
@@ -1225,6 +1217,8 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 http://31.148.48.15/Zhara/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", О!2
 http://217.11.177.56/streams/media/o2tv_720x576/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", О!2 (2)
+http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVM3
