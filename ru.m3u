@@ -515,7 +515,7 @@ http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/19244/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Хоккей
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/10039/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Волейбол
-http://cdn.kubteltv.workers.dev/?ID=444
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=5eCXZGvblic9uGykEPvBYw&e=2082370462&scheme=https
 #EXTINF:-1 group-title="Спортивные", Eurosport 1
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Setanta Sports 1
@@ -539,9 +539,11 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Viju+ Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA
-http://tv.woobl.ru/mma_tvcom_hd/video.m3u8?token=woobliptvz
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA (2)
 http://31.148.48.15/M1_Global/index.m3u8
+#EXTINF:-1 group-title="Спортивные", MMA (3)
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Extreme Sports
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/144/index.m3u8
 #EXTINF:-1 group-title="Спортивные", KHL Prime
@@ -590,22 +592,26 @@ https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 group-title="Кино и сериалы", .black (2)
+http://dmi3y-tv.online/hls/CH_TOCHKA_BLACK.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .Red
-http://185.78.112.47:8077/red_hd/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=red
+#EXTINF:-1 group-title="Кино и сериалы", .Red (2)
+http://dmi3y-tv.online/hls/CH_TOCHKA_RED.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi
-http://tv.woobl.ru/sci_fi_hd/video.m3u8?token=woobliptvz
-#EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi (2)
 http://158.101.222.193:88/georgia_play.php?id=scifi
+#EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi (2)
+http://dmi3y-tv.online/hls/CH_TOCHKA_SCI-FI.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинеко
 http://31.148.48.15/Kineko_HD/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кинеко (2)
-http://tv.woobl.ru/kineko/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама (2)
-http://185.78.112.47:8077/Dorama/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", КиноТВ
-http://185.78.112.47:8077/kino-tv/index.m3u8
+http://dmi3y-tv.online/hls/CH_DORAMA.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ (2)
+http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://vod.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
