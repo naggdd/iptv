@@ -615,28 +615,32 @@ http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://vod.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
-http://tv.woobl.ru/viju_plus_premiere_hd/video.m3u8?token=woobliptvz
+http://dmi3y-tv.online/hls/CH_VIP_PREMIERE.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial
-http://tv.woobl.ru/viju_plus_serial_hd/video.m3u8?token=woobliptvz
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial (2)
-http://46.32.176.50/ViasatSportHD/index.m3u8
+http://dmi3y-tv.online/hls/CH_VIP_SERIAL.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit
-http://tv.woobl.ru/viju_plus_megahit_hd/video.m3u8?token=woobliptvz
+http://dmi3y-tv.online/hls/CH_VIP_MEGAHIT.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy
-http://tv.woobl.ru/viju_plus_comedy_hd/video.m3u8?token=woobliptvz
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy (2)
-http://46.32.176.50/VIPComedyHD/index.m3u8
+http://dmi3y-tv.online/hls/CH_VIP_COMEDY.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1)
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2 (A2)
 http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
-http://185.78.112.47:8077/amedia_hit_hd/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
-http://tv.woobl.ru/amedia_hit_hd/video.m3u8?token=woobliptvz
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit (2)
+http://tinyurl.com/TvZaTak65?id=amediahit
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit (3)
+http://37.186.70.39:40/play/54/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium
-http://185.78.112.47:8077/amedia_premium_hd/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy HD
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Premium (2)
+http://tinyurl.com/TvZaTak65?id=amediapremium
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Premium (3)
+http://37.186.70.39:40/play/60/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy (2)
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+ Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
