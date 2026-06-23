@@ -609,8 +609,6 @@ https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама (2)
 http://dmi3y-tv.online/hls/CH_DORAMA.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
-https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ (2)
 http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://vod.tuva.ru/ovaa/index.m3u8
@@ -639,8 +637,6 @@ http://tinyurl.com/TvZaTak65?id=amediapremium
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium (3)
 http://37.186.70.39:40/play/60/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy (2)
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+ Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
@@ -661,19 +657,19 @@ http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс (2)
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
+http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс (3)
-http://tv.woobl.ru/kinomiks_hd/video.m3u8?token=woobliptvz
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киномикс (4)
+http://37.186.70.39:40/play/64/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
-#EXTINF:-1 group-title="Кино и сериалы", Киносвидание (2)
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киносвидание (2)
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание (3)
-http://tv.woobl.ru/kinosvidanie_hd/video.m3u8?token=woobliptvz
+http://37.186.70.39:40/play/67/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
-#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
-http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", КиноМеню
@@ -682,12 +678,14 @@ http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ
-http://cdn.kubteltv.workers.dev/?ID=414
-#EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ (2)
-http://185.78.112.47:8077/nash_kinopokaz_hd/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ (3)
-http://tv.woobl.ru/nash_kinopokaz_hd/video.m3u8?token=woobliptvz
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ (2)
+http://31148.rafail1982.uz/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ (3)
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ (4)
+http://dmi3y-tv.online/hls/CH_KINOPOKAZ.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино (2)
