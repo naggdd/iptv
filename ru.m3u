@@ -688,24 +688,20 @@ https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.online/hls/CH_KINOPOKAZ.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Любимое кино (2)
-http://tv.woobl.ru/nashe_ljubimoe_kino/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", Мир сериала
-http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Мир сериала HD
-http://tv.woobl.ru/mir_seriala_hd/video.m3u8?token=woobliptvz
+http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood (2)
-http://tv.woobl.ru/hollywood_hd/video.m3u8?token=woobliptvz
+http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+http://dmi3y-tv.online/hls/CH_ILLUZION_PLUS.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+ (2)
-http://46.32.176.50/illuzion/index.m3u8
+http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+ (3)
-http://185.78.112.47:8077/illusion_plus_hd/index.m3u8
+http://31148.rafail1982.uz/Illusion_plus/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский Иллюзион
-http://158.101.222.193:88/georgia_play.php?id=rusilluzion
+http://31.148.48.15/Russkiy_illusion/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kino 24 (Кино 24)
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
