@@ -713,19 +713,27 @@ http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
 http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино (2)
-http://tv.woobl.ru/indiyskoe_kino/video.m3u8?token=woobliptvz
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Индийское кино (3)
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Индийское кино (4)
+http://37.186.70.39:40/play/74/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://158.101.222.193:88/georgia_play.php?id=eurokino
-#EXTINF:-1 group-title="Кино и сериалы", Еврокино HD
-http://tv.woobl.ru/evrokino/video.m3u8?token=woobliptvz
+#EXTINF:-1 group-title="Кино и сериалы", Еврокино (2)
+http://31.148.48.15/Evrokino/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Еврокино (3)
+http://31148.rafail1982.uz/Evrokino/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Еврокино (4)
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Еврокино (5)
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Еврокино (6)
+http://tinyurl.com/TvZaTak65?id=eurokino
 #EXTINF:-1 group-title="Кино и сериалы", Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="Кино и сериалы", Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Патриот
-http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", LAV-KINO
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-0 group-title="Кино и сериалы", Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-0 group-title="Кино и сериалы", Пёс
