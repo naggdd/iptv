@@ -657,10 +657,8 @@ http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс (2)
-http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киномикс (3)
 http://176.118.197.101/Kinomix/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киномикс (4)
+#EXTINF:-1 group-title="Кино и сериалы", Киномикс (3)
 http://37.186.70.39:40/play/64/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
@@ -688,8 +686,6 @@ https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.online/hls/CH_KINOPOKAZ.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Мир сериала
-http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood (2)
@@ -698,10 +694,6 @@ http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
 http://dmi3y-tv.online/hls/CH_ILLUZION_PLUS.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+ (2)
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Иллюзион+ (3)
-http://31148.rafail1982.uz/Illusion_plus/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский Иллюзион
-http://31.148.48.15/Russkiy_illusion/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Kino 24 (Кино 24)
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
@@ -715,20 +707,12 @@ http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино (2)
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино (3)
-http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Индийское кино (4)
 http://37.186.70.39:40/play/74/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://158.101.222.193:88/georgia_play.php?id=eurokino
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино (2)
-http://31.148.48.15/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Еврокино (3)
-http://31148.rafail1982.uz/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Еврокино (4)
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Еврокино (5)
-http://vod.tuva.ru/eurokino/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Еврокино (6)
+#EXTINF:-1 group-title="Кино и сериалы", Еврокино (3)
 http://tinyurl.com/TvZaTak65?id=eurokino
 #EXTINF:-1 group-title="Кино и сериалы", Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
