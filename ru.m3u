@@ -30,8 +30,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/otr.png", ОТР (2)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/otr.png", ОТР (3)
-http://stream-tv.ew21.ru/009/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv_tsentr.png", ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/ren_tv.png", РЕН ТВ
@@ -420,8 +418,6 @@ https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="Информационные", DW
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
-#EXTINF:-1 group-title="Информационные", СТВ 24
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
 #EXTINF:-1 group-title="Информационные", НТВ Мир
 https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 group-title="Информационные", НТВ Мир (2)
@@ -443,8 +439,6 @@ http://31.148.48.15/Fan/index.m3u8
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Ducktv
 http://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", JimJam
-http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon
 http://dmi3y-tv.online/hls/CH_NICKELODEON.m3u8
 #EXTINF:-1 group-title="Детские", Nickelodeon (USA)
@@ -457,14 +451,16 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 #EXTINF:-1 group-title="Детские", Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="Детские", Пингвин
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", Мамонтёнок
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", Мультимания
-https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
 http://31.148.48.15/Multilandiya/index.m3u8
+#EXTINF:-1 group-title="Детские", Мультиландия (2)
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Мультиландия (3)
+http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
+#EXTINF:-1 group-title="Детские", Мультиландия (4)
+http://s8.rafail1982.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Мультиландия (5)
+https://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка
 http://31.148.48.15/Multimuzika/index.m3u8
 #EXTINF:-1 group-title="Детские", Киномульт
