@@ -461,6 +461,8 @@ http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
 http://s8.rafail1982.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия (5)
 https://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", МультСказки
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Детские", Мультимузыка
 http://31.148.48.15/Multimuzika/index.m3u8
 #EXTINF:-1 group-title="Детские", Киномульт
@@ -558,7 +560,7 @@ http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 group-title="Развлекательные", Калейдоскоп
-http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлекательные", КВН
@@ -638,10 +640,6 @@ http://ukr2.ukrainske.tv/493/video.m3u8
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Кино и сериалы", НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", 312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", 312 Сериал
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Ретро
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Китай ТВ
@@ -690,8 +688,6 @@ http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
 http://dmi3y-tv.online/hls/CH_ILLUZION_PLUS.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+ (2)
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Kino 24 (Кино 24)
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Новый Русский
@@ -724,24 +720,8 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Pro100
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Беларусь 3
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", DetectiveJam
-http://cdn.kubteltv.workers.dev/?ID=299
-#EXTINF:-1 group-title="Кино и сериалы", KinoJam 1
-http://185.78.112.47:8077/kinojam1/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", KinoJam 1 (2)
-http://cdn.kubteltv.workers.dev/?ID=297
-#EXTINF:-1 group-title="Кино и сериалы", Plan_B
-http://185.78.112.47:8077/planb/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Start Air
-http://tv.woobl.ru/start_air_hd/video.m3u8?token=woobliptvz
-#EXTINF:-1 group-title="Кино и сериалы", Start World
-http://cdn.kubteltv.workers.dev/?ID=371
-#EXTINF:-1 group-title="Кино и сериалы", Start World (2)
-http://tv.woobl.ru/start_world_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Кино и сериалы", NSC
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
@@ -771,8 +751,6 @@ https://kinowalk.hopto.org/scripachtv_live
 https://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", SeleCaoTV1
 https://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Мультфильмы 24/7
-https://kinowalk.hopto.org/mezontrop_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", SerialTV
 https://kinowalk.hopto.org/serialtv_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Serial4u
@@ -783,8 +761,6 @@ https://kinowalk.hopto.org/kinouzhas_live
 https://kinowalk.hopto.org/www.konoval_tv_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Alex.Films
 https://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", ZubrilomFilm
-https://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", JTX Online
 https://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Первый ряд
@@ -847,19 +823,6 @@ https://kinowalk.hopto.org/ordinary_people_live
 https://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", KinoMix
 https://kinowalk.hopto.org/yurich_kinomix_live
-
-#EXTINF:-1 group-title="Кинозалы IPTVPLAY", МультСказки
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Кинозалы IPTVPLAY", Ведьмак
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Кинозалы IPTVPLAY", Десятое королевство
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Кинозалы IPTVPLAY", Интерны
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Кинозалы IPTVPLAY", Фантастика
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Кинозалы IPTVPLAY", Ужастик
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTINF:-1 group-title="Кинозалы Смотрим", 100% Детское
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
