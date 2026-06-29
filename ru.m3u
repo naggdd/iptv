@@ -431,6 +431,10 @@ https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные", Аква
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 
+#EXTINF:-1 group-title="Детские", Маша и Медведь
+https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Мультфильмы
+https://lbgo.bozztv.com/07/ushba80/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
 http://37.186.70.39:40/play/97/index.m3u8
 #EXTINF:-1 group-title="Детские", Fan
@@ -837,108 +841,48 @@ https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a54
 #EXTINF:-1 group-title="Кинозалы Смотрим", 100% Факты
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 
-#EXTINF:-1 group-title="Кинозалы", Доктор Достоевский
-https://live20.bozztv.com/giatvplayout7/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Star Media
-https://live20.bozztv.com/giatvplayout7/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Ералаш
-https://live20.bozztv.com/giatvplayout7/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Приколы 1
-https://live20.bozztv.com/giatvplayout7/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Приколы 2
-https://live20.bozztv.com/giatvplayout7/ushba20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Шоу Бенни Хилла
-https://live20.bozztv.com/giatvplayout7/ushba62/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Мистер Бин
-https://live20.bozztv.com/giatvplayout7/ushba45/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Документалка 1
-https://live20.bozztv.com/giatvplayout7/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Документалка 2
-https://live20.bozztv.com/giatvplayout7/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Документалка 3
-https://live20.bozztv.com/giatvplayout7/ushba38/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba45/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Retrovision
-https://live20.bozztv.com/giatvplayout7/ushba-rvision/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Retrovision Motor
-https://live20.bozztv.com/giatvplayout7/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Retrovision Кинопанорама
-https://live20.bozztv.com/giatvplayout7/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Retrovision Movies
-https://live20.bozztv.com/giatvplayout7/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Retrovision Classic
-https://live20.bozztv.com/giatvplayout7/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 1
-https://live20.bozztv.com/giatvplayout7/ushba13/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 2
-https://live20.bozztv.com/giatvplayout7/ushba14/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 3
-https://live20.bozztv.com/giatvplayout7/ushba24/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 4
-https://live20.bozztv.com/giatvplayout7/ushba26/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-b/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 5
-https://live20.bozztv.com/giatvplayout7/ushba-films-b/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 6
-https://live20.bozztv.com/giatvplayout7/ushba-films-c/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 7
-https://live20.bozztv.com/giatvplayout7/ushba-films-d/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 8
-https://live20.bozztv.com/giatvplayout7/ushba-films-e/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 9
-https://live20.bozztv.com/giatvplayout7/ushba-films-f/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 10
-https://live20.bozztv.com/giatvplayout7/ushba-films-g/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 11
-https://live20.bozztv.com/giatvplayout7/ushba-films-h/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 12
-https://live20.bozztv.com/giatvplayout7/ushba-films-i/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 13
-https://live20.bozztv.com/giatvplayout7/ushba-films-j/index.m3u8
+https://lbgo.bozztv.com/07/ushba64/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кинозалы 14
-https://live20.bozztv.com/giatvplayout7/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 15
-https://live20.bozztv.com/giatvplayout7/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 16
-https://live20.bozztv.com/giatvplayout7/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 17
-https://live20.bozztv.com/giatvplayout7/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 18
-https://live20.bozztv.com/giatvplayout7/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 19
-https://live20.bozztv.com/giatvplayout7/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 20
-https://live20.bozztv.com/giatvplayout7/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 21
-https://live20.bozztv.com/giatvplayout7/ushba-films-o/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 22
-https://live20.bozztv.com/giatvplayout7/ushba-films-s/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 23
-https://live20.bozztv.com/giatvplayout7/ushba-films-w/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 24
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 25
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 26
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 27
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 28
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 29
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 30
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 31
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 33
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 34
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 35
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 36
-https://live20.bozztv.com/giatvplayout7/ushba64/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 37
-https://live20.bozztv.com/giatvplayout7/ushba65/index.m3u8
+https://lbgo.bozztv.com/07/ushba65/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", ЕГЭ
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2020/index.m3u8
