@@ -10,6 +10,10 @@
   ```
   https://naggdd.github.io/iptv/ru.m3u
   ```
+* Музыкальный
+  ```
+  https://naggdd.github.io/iptv/music.m3u
+  ```
 * Радиостанции
   ```
   https://naggdd.github.io/iptv/radio.m3u
