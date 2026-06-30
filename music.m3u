@@ -1,0 +1,106 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Музыкальные", Музыка Первого
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge
+http://31148.rafail1982.uz/Bridge_TV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Classic
+http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Deluxe
+http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Hits
+http://31148.rafail1982.uz/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Танцуй!
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/14023/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", VEVO Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 group-title="Музыкальные", 4fun.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Новое Радио
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", NM Television
+https://tv.a21network.ru/stream/40650/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музыкальные", Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Музыкальные", Kiss
+http://livestream.siliconweb.com/live/kissfm/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Carac
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", CHD Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", CHD RU Rock
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Hot Rock
+https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", V2BEAT
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Музыкальные", radio m2o
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
+#EXTINF:-1 group-title="Музыкальные", 88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", DeeJay
+https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Музыкальные", FON Music (ТНТ)
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Жар Птица
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
+#EXTINF:-1 group-title="Музыкальные", Курай
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Майдан (Казань)
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+#EXTINF:-1 group-title="Музыкальные", Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Жара
+http://31.148.48.15/Zhara/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", О!2
+http://217.11.177.56/streams/media/o2tv_720x576/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", О!2 (2)
+http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", TVM3
+https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
+#EXTINF:-1 group-title="Музыкальные", SONGTV
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", VIVA
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=MeP9OJ5c-c4A5f73twBJ3g&e=2075372287&scheme=https
+#EXTINF:-1 group-title="Музыкальные", Mezzo
+http://158.101.222.193:88/georgia_play.php?id=mezzo
+#EXTINF:-1 group-title="Музыкальные", Mezzo (2)
+http://live-3.otcnet.ru/Mezzo/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 1
+https://lbgo.bozztv.com/07/ushba-t1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 2
+https://lbgo.bozztv.com/07/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 3
+https://lbgo.bozztv.com/07/ushba-t3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 4
+https://lbgo.bozztv.com/07/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 6
+https://lbgo.bozztv.com/07/ushba-monj/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 7
+https://lbgo.bozztv.com/07/ushba-m3/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 8
+https://lbgo.bozztv.com/07/ushba66/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 9
+https://lbgo.bozztv.com/07/ushba-RogerWaters/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 10
+https://lbgo.bozztv.com/07/ushba-t5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 11
+https://lbgo.bozztv.com/07/ushba-m2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Blues Music
+https://lbgo.bozztv.com/07/ushba0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Midnight Lust Music
+https://lbgo.bozztv.com/07/ushba-midnightlustmusic/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Mafia
+https://lbgo.bozztv.com/07/ushba-mafia/tracks-v1a1/mono.m3u8
