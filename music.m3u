@@ -14,6 +14,8 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge
 http://31148.rafail1982.uz/Bridge_TV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge (2)
+https://tv.streams.baikal-telecom.net/RT_DOC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Classic
 http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Deluxe
