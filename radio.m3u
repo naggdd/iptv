@@ -450,3 +450,7 @@ http://212.26.132.129:8000/ArmyFM
 http://radio.radioshansonplus.com:8000/radio
 #EXTINF:-1 group-title="Радио", Первое (Украина)
 http://195.138.81.134:8000/radio1-256
+#EXTINF:-1 group-title="Радио", Харьков Z
+http://node1.craftradio.ru:8000/215_55AE795B
+#EXTINF:-1 group-title="Радио", Мир Белогорья Z
+http://node1.craftradio.ru:8003/201_EFA53E54
