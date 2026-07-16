@@ -1,4 +1,4 @@
-[English](README.md) | [Русский](README.ru.md)
+**English** | [Русский](README.ru.md)
 
 # Russian IPTV playlist
 A collection of publicly available Russian IPTV channels compiled from various sources into one playlist.
@@ -24,9 +24,11 @@ Copy the link to the playlist and paste it into any IPTV player.
   ```
 
 ## Support
-This playlist is being compiled for display in the [Wave TV](https://apps.apple.com/app/id6745237104) app on iOS. So your best support is to download the app and give a good review.
+[![Wave TV](https://img.shields.io/itunes/v/6745237104?logo=apple&label=Wave%20TV)](https://apps.apple.com/app/id6745237104)
 
-For those who want to financially support the development and relevance of the playlist - [DonationAlerts](https://dalink.to/nagd).
+This playlist is mainly updated for display in my App Store application for viewing IPTV playlists. So your best support is to download the app and give a good review.
+
+For financial support, use the sponsor link.
 
 ## Sources
 * [m3u.su](https://m3u.su)
