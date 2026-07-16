@@ -26,9 +26,9 @@ Copy the link to the playlist and paste it into any IPTV player.
 ## Support
 [![Wave TV](https://img.shields.io/itunes/v/6745237104?logo=apple&label=Wave%20TV)](https://apps.apple.com/app/id6745237104)
 
-This playlist is mainly updated for display in my App Store application for viewing IPTV playlists. So your best support is to download the app and give a good review.
+If you have an iPhone or iPad, the best way to support is by downloading the "Wave TV" app and leaving a positive review. It's an IPTV player where you can watch channels from this playlist directly on your device.
 
-For financial support, use the sponsor link.
+For financial support, use the Sponsor link – it's a great incentive to keep the playlist up to date.
 
 ## Sources
 * [m3u.su](https://m3u.su)
