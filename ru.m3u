@@ -1005,9 +1005,7 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи!
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG
-http://185.78.112.47:8077/rtg/index.m3u8
-#EXTINF:-1 group-title="Познавательные", RTG HD
-http://185.78.112.47:8077/rtg_hd/index.m3u8
+http://31.148.48.15/RTG/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука
 https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
