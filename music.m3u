@@ -1,7 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Музыкальные", Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Первый музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные", Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge
@@ -53,7 +61,9 @@ https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r
 #EXTINF:-1 group-title="Музыкальные", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Майдан (Казань)
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+#EXTINF:-1 group-title="Музыкальные", Матур (Татарстан/Башкортостан)
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Шансон ТВ
@@ -104,3 +114,29 @@ https://lbgo.bozztv.com/07/ushba0/tracks-v1a1/mono.m3u8
 https://lbgo.bozztv.com/07/ushba-midnightlustmusic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Mafia
 https://lbgo.bozztv.com/07/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", 51 Radio
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", You & Me
+http://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Hype
+http://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", That's 90s 00s
+http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", OFTV
+http://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Spirit
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Trace Urban
+http://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Trace Urban (2)
+http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Музыкальные", TVS Music
+http://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Ля-минор
+http://s8.rafail1982.uz/1238/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Company
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
+#EXTINF:-1 group-title="Музыкальные", Super Six
+https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
