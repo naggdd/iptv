@@ -1014,12 +1014,10 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", The explorers HD
-http://cdn.kubteltv.workers.dev/?ID=443
+#EXTINF:-1 group-title="Познавательные", The explorers
+http://stream.mcquack.net/450/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ратник
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2119/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Арт
-http://185.78.112.47:8077/art/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи активно
 https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Полет
