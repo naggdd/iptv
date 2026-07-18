@@ -75,8 +75,6 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Жара
 http://31.148.48.15/Zhara/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", О!2
-http://217.11.177.56/streams/media/o2tv_720x576/index.m3u8
-#EXTINF:-1 group-title="Музыкальные", О!2 (2)
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
