@@ -10,13 +10,9 @@ Copy the link to the playlist and paste it into any IPTV player.
   ```
   https://naggdd.github.io/iptv/ru.m3u
   ```
-* Music
+* Music and Radio
   ```
   https://naggdd.github.io/iptv/music.m3u
-  ```
-* Radio stations
-  ```
-  https://naggdd.github.io/iptv/radio.m3u
   ```
 * Cartoons
   ```
