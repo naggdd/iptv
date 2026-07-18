@@ -316,8 +316,6 @@ http://hermitage.hostingradio.ru/hermitage128.mp3
 http://emgspb.hostingradio.ru/eldoradio128.mp3
 #EXTINF:-1 group-title="Радио", Православное (Санкт-Петербург)
 http://radio-spb.rusk.ru:8000/stream
-#EXTINF:-1 group-title="Радио", Хит (Орск)
-http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 group-title="Радио", Балтик Плюс (Калининград)
 http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
 #EXTINF:-1 group-title="Радио", Спутник (Волгоград)
@@ -338,8 +336,6 @@ http://95.104.192.220:8001/radio2x2.ogg
 http://81.23.194.18:8010/radio3.mp3
 #EXTINF:-1 group-title="Радио", 99.1 FM (Красноярск)
 http://online.99-1.ru:8000/99i1_mp3
-#EXTINF:-1 group-title="Радио", Алания (Владикавказ)
-http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3
 #EXTINF:-1 group-title="Радио", Альфа (Пермь)
 http://online.alfafm.ru:8000/alfa_mp3
 #EXTINF:-1 group-title="Радио", Ашкадар (Уфа)
@@ -358,8 +354,6 @@ http://radio05.ru:8000/radio_dagestan_128
 http://kavkazhit.hostingradio.ru:8017/kavkazhit96.mp3
 #EXTINF:-1 group-title="Радио", Kamchatka (Камчатка)
 http://radio.kamchatkalive.ru:8100/rock
-#EXTINF:-1 group-title="Радио", Комета (Чехов)
-http://online.kometa.fm:8000/live
 #EXTINF:-1 group-title="Радио", Кузбасс (Кемерово)
 http://212.75.194.94:8000/KuzbassFM
 #EXTINF:-1 group-title="Радио", Квант (Кемерово)
@@ -370,16 +364,12 @@ http://av.bimradio.ru:8066/kurai_mp3
 http://live.kunelradio.ru:8000/128.mp3
 #EXTINF:-1 group-title="Радио", Мелодия (Воронеж)
 http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
-#EXTINF:-1 group-title="Радио", Губерния (Воронеж)
-http://www.gubernia-media.ru:8000/gubernia
 #EXTINF:-1 group-title="Радио", Благовестие (Воронеж)
 http://live.borneo.ru:8888/bv128
 #EXTINF:-1 group-title="Радио", Борнео (Воронеж)
 http://live.borneo.ru:8888/128
 #EXTINF:-1 group-title="Радио", Моя Удмуртия (Ижевск)
-http://radio.myudm.ru:10010/efir
-#EXTINF:-1 group-title="Радио", Ника (Калуга)
-http://radio.nikatv.ru/;.mp4
+http://radio.myudm.ru:10010/efirs
 #EXTINF:-1 group-title="Радио", Образ (Нижний Новгород)
 http://213.177.106.78:8000/;
 #EXTINF:-1 group-title="Радио", Олимп (Челябинск)
@@ -452,5 +442,3 @@ http://radio.radioshansonplus.com:8000/radio
 http://195.138.81.134:8000/radio1-256
 #EXTINF:-1 group-title="Радио", Харьков Z
 http://node1.craftradio.ru:8000/215_55AE795B
-#EXTINF:-1 group-title="Радио", Мир Белогорья Z
-http://node1.craftradio.ru:8003/201_EFA53E54
