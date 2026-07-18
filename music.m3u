@@ -142,3 +142,470 @@ http://s8.rafail1982.uz/1238/tracks-v1a1a1/mono.m3u8
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
 #EXTINF:-1 group-title="Музыкальные", Super Six
 https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Afrobeats
+https://stream.ecable.tv/afrobeats/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Kids FM
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Радио", Авторадио
+http://23.105.238.4/gpm-avtoradio495.aacp
+#EXTINF:-1 group-title="Радио", Русское
+http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 group-title="Радио", Ретро
+http://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1 group-title="Радио", Ретро (2)
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+#EXTINF:-1 group-title="Радио", Дорожное
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1 group-title="Радио", Европа Плюс
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 group-title="Радио", Рекорд
+http://icecast-record.cdnvideo.ru/record
+#EXTINF:-1 group-title="Радио", Вести
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1 group-title="Радио", Новое
+http://icecast-newradio.cdnvideo.ru/newradio3
+#EXTINF:-1 group-title="Радио", Новое (2)
+http://stream.newradio.ru/moscow.novoe.aacp
+#EXTINF:-1 group-title="Радио", Новое (3)
+http://hls-video01.cdnvideo.ru/video01/video01_480.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Такси
+http://185.40.31.28:8000/station_54
+#EXTINF:-1 group-title="Радио", Monte Carlo (Монте Карло)
+http://montecarlo.hostingradio.ru/montecarlo96.aacp
+#EXTINF:-1 group-title="Радио", 7
+https://stream-msk-17.ott.tricolor.tv/dtv/id955_MSKSG-PVR-1--radio_na_7_kholmakh/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 group-title="Радио", Пи
+http://cdn.pifm.ru/mp3
+#EXTINF:-1 group-title="Радио", Наше радио
+http://nashe1.hostingradio.ru/nashespb128.mp3
+#EXTINF:-1 group-title="Радио", DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1 group-title="Радио", Ваня
+https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Юмор
+http://live.humorfm.by:8000/veseloe.m3u
+#EXTINF:-1 group-title="Радио", Energy
+http://23.105.238.4/gpm-energyfm495.aacp
+#EXTINF:-1 group-title="Радио", Шоколад
+http://choco.hostingradio.ru:10010/fm
+#EXTINF:-1 group-title="Радио", Мир
+http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+#EXTINF:-1 group-title="Радио", Мир (Беларусь)
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Радио России
+http://icecast.vgtrk.cdnvideo.ru/rrzonam
+#EXTINF:-1 group-title="Радио", Радио России (2)
+http://radio.sevstar.net:8000/radio-rossii
+#EXTINF:-1 group-title="Радио", Гордость
+http://134.0.119.161:9090/ostankino
+#EXTINF:-1 group-title="Радио", Максимум
+http://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1 group-title="Радио", Романтика
+http://23.105.238.4/gpm-romantika495.aacp
+#EXTINF:-1 group-title="Радио", Хит
+http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 group-title="Радио", Комсомольская Правда
+http://kpradio.hostingradio.ru:8000/128
+#EXTINF:-1 group-title="Радио", Комсомольская Правда (2)
+http://kraskp.ru:8000/mskregion
+#EXTINF:-1 group-title="Радио", Орфей
+http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+#EXTINF:-1 group-title="Радио", Relax
+http://23.105.238.4/gpm-relaxfm495.aacp
+#EXTINF:-1 group-title="Радио", Like
+http://23.105.238.4/gpm-likefm495.aacp
+#EXTINF:-1 group-title="Радио", Studio 21
+http://78.140.197.238:9877/msk_studio21
+#EXTINF:-1 group-title="Радио", Звезда
+https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", РБК
+http://reg.fmplay.ru:8000/rbc-48.aac
+#EXTINF:-1 group-title="Радио", Comedy
+http://23.105.238.4/gpm-comedyradio495.aacp
+#EXTINF:-1 group-title="Радио", Дача
+http://listen.vdfm.ru:8000/dacha
+#EXTINF:-1 group-title="Радио", Родных дорог
+http://stream1.radiord.ru:8000/live96.mp3
+#EXTINF:-1 group-title="Радио", Спутник
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Искатель
+http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+#EXTINF:-1 group-title="Радио", Бизнес
+http://bfm.hostingradio.ru:8004/fm
+#EXTINF:-1 group-title="Радио", Remix
+http://radio-remix.ru:8000/radio
+#EXTINF:-1 group-title="Радио", Милицейская Волна
+http://radiomv.hostingradio.ru/radiomv256.mp3
+#EXTINF:-1 group-title="Радио", Милицейская Волна (2)
+http://radio2.sevstar.net:8000/milicia
+#EXTINF:-1 group-title="Радио", Книга
+http://bookradio.hostingradio.ru:8069/fm
+#EXTINF:-1 group-title="Радио", Юность
+http://icecast.vgtrk.cdnvideo.ru/unost
+#EXTINF:-1 group-title="Радио", Чипльдук
+http://radio.4duk.ru/4duk256.mp3
+#EXTINF:-1 group-title="Радио", Хайп
+http://air.volna.top/HypeFM
+#EXTINF:-1 group-title="Радио", Улитка
+http://air.radioulitka.ru:8000/ulitka_192
+#EXTINF:-1 group-title="Радио", СОК
+http://82.146.46.30:8000/radiosok-spb.m3u
+#EXTINF:-1 group-title="Радио", Панорама
+http://listen.teploe.net:8100/6926
+#EXTINF:-1 group-title="Радио", Нестандарт
+http://listen.radionestandart.ru:8200/128.mp3
+#EXTINF:-1 group-title="Радио", Радио Москвы
+http://icecast.vgtrk.cdnvideo.ru/moscowtalk128
+#EXTINF:-1 group-title="Радио", Модель для сборки
+http://mds-station.com:8000/mds
+#EXTINF:-1 group-title="Радио", Леопард
+http://radio-server.imfurry.ru:8000/iceleo192
+#EXTINF:-1 group-title="Радио", Культура
+http://icecast.vgtrk.cdnvideo.ru/kulturafm
+#EXTINF:-1 group-title="Радио", Крылья
+http://listen7.myradio24.com:9000/rkradio_320.mp3
+#EXTINF:-1 group-title="Радио", Компот
+http://s4.radioheart.ru:8023/nonstop
+#EXTINF:-1 group-title="Радио", Коммерсант
+http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
+#EXTINF:-1 group-title="Радио", Кекс
+http://listen6.myradio24.com:9000/5390
+#EXTINF:-1 group-title="Радио", Калина Красная
+http://icecast-studio21.cdnvideo.ru/KalynaK_1a
+#EXTINF:-1 group-title="Радио", Калина Красная (2)
+http://78.140.197.238:9877/msk_KalynaK_1a
+#EXTINF:-1 group-title="Радио", Иваново
+http://91.219.74.220:8000/IvanovoFM.mp3
+#EXTINF:-1 group-title="Радио", Гамаюн
+http://gamaun.online:8020/radio
+#EXTINF:-1 group-title="Радио", Буу!
+http://buu.hostingradio.ru:8005/radio
+#EXTINF:-1 group-title="Радио", Бруклин
+http://stream.bfmradio.us:8070/radio
+#EXTINF:-1 group-title="Радио", Yum
+http://yumfm.hostingradio.ru:8020/yumfm128.mp3
+#EXTINF:-1 group-title="Радио", Vanilla
+http://radio.vanilla-fm.ru:8000/music
+#EXTINF:-1 group-title="Радио", Mixadance
+https://stream.mixadance.fm/mixadance
+#EXTINF:-1 group-title="Радио", Makkirus
+http://air.volna.top/makkirus128
+#EXTINF:-1 group-title="Радио", Capital
+http://icecast.vgtrk.cdnvideo.ru/moscowfmen128
+#EXTINF:-1 group-title="Радио", Сибирь
+http://stream.radiosibir.ru:8090/HQ
+#EXTINF:-1 group-title="Радио", Русские песни
+http://listen.rusongs.ru/ru-mp3-128
+#EXTINF:-1 group-title="Радио", Пассаж
+http://listen.radiopassazh.ru/mp3-128
+#EXTINF:-1 group-title="Радио", Гараж
+http://213.189.208.146:8005/Garagefm192
+#EXTINF:-1 group-title="Радио", Москва FM
+http://icecast.vgtrk.cdnvideo.ru/moscowfm128
+#EXTINF:-1 group-title="Радио", Best
+http://nashe3.hostingradio.ru/best-128.mp3
+#EXTINF:-1 group-title="Радио", Вера
+http://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1 group-title="Радио", Говорит Москва
+https://video.govoritmoskva.ru/rufm/index.m3u8
+#EXTINF:-1 group-title="Радио", Говорит Москва (2)
+http://media.govoritmoskva.ru:8000/gm.mp3
+#EXTINF:-1 group-title="Радио", Maximum
+http://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1 group-title="Радио", Русский мир
+https://a5.radioheart.ru:9043/RH4272
+#EXTINF:-1 group-title="Радио", На семи холмах
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:-1 group-title="Радио", Воскресение
+https://stream-msk-06.ott.tricolor.tv/dtv/id780_MSKSG-PVR-1--Voskreseniye/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", Пика
+https://radio.pika-fm.ru:8443/pika.fm
+#EXTINF:-1 group-title="Радио", Град Петров
+https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8
+#EXTINF:-1 group-title="Радио", МСМ
+https://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Радио", Центр
+https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Fresh
+https://fresh.amgradio.ru/Fresh?nc=624857
+#EXTINF:-1 group-title="Радио", Music Box
+https://musicbox.amgradio.ru/musicbox?nc=26572
+#EXTINF:-1 group-title="Радио", Джем
+https://online.jamfm.ru/jam_aacplus?v=1743007755223
+#EXTINF:-1 group-title="Радио", Пионер
+https://listen10.myradio24.com/pionerfm
+#EXTINF:-1 group-title="Радио", Гоп
+https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+#EXTINF:-1 group-title="Радио", PriMuzFM
+https://listen2.myradio24.com/8118
+#EXTINF:-1 group-title="Радио", Движения Первых
+https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3
+#EXTINF:-1 group-title="Радио", Радонеж
+https://icecast-radonezh.cdnvideo.ru/rad128
+#EXTINF:-1 group-title="Радио", Сказка
+http://skazka.amgradio.ru/Skazka
+#EXTINF:-1 group-title="Радио", Маруся
+http://msk1.radio-holding.ru:9000/stream_site_marus_hls
+#EXTINF:-1 group-title="Радио", Детское
+http://23.105.238.4/gpm-detifm495.aacp
+
+#EXTINF:-1 group-title="Радио", Рекорд Chill-Out
+https://hls-01-radiorecord.hostingradio.ru/record-chil/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Рекорд Deep
+https://hls-01-radiorecord.hostingradio.ru/record-deep/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Рекорд Gold
+https://hls-01-radiorecord.hostingradio.ru/record-gold/playlist.m3u8
+
+#EXTINF:-1 group-title="Радио", Шансон
+https://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 group-title="Радио", Шансон (2)
+https://chanson-video.hostingradio.ru/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="Радио", Шансон - Без Цензуры
+http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
+#EXTINF:-1 group-title="Радио", Шансон - Романтика
+http://chanson.hostingradio.ru:8041/chanson-romantic256.mp3
+
+#EXTINF:-1 group-title="Радио", Rock
+http://nashe1.hostingradio.ru/rock-128.mp3
+#EXTINF:-1 group-title="Радио", Ultra
+http://nashe1.hostingradio.ru/ultra-64.mp3
+#EXTINF:-1 group-title="Радио", DNB
+http://go.dnbfm.ru:8000/play
+#EXTINF:-1 group-title="Радио", Best of 90s
+http://listen1.myradio24.com:9000/5967
+#EXTINF:-1 group-title="Радио", Trance Hits
+https://radiorecord.hostingradio.ru/trancehits96.aacp
+#EXTINF:-1 group-title="Радио", Супердискотека 90-х
+https://radiorecord.hostingradio.ru/sd9096.aacp
+#EXTINF:-1 group-title="Радио", Rap Hits
+https://radiorecord.hostingradio.ru/rap96.aacp
+#EXTINF:-1 group-title="Радио", Metallica
+https://metallica.hostingradio.ru/metallica96.aacp
+
+#EXTINF:-1 group-title="Радио", PromoDJ - 186mph
+http://radio.promodj.com:8000/186mph-192
+#EXTINF:-1 group-title="Радио", PromoDJ - 300kmh
+http://radio.promodj.com:8000/300kmh-192
+#EXTINF:-1 group-title="Радио", PromoDJ - Deep
+http://radio.promodj.com:8000/deep-192
+#EXTINF:-1 group-title="Радио", PromoDJ - Full Moon
+http://radio.promodj.com:8000/fullmoon-192
+#EXTINF:-1 group-title="Радио", PromoDJ - Mini
+http://radio.promodj.com:8000/mini-192
+#EXTINF:-1 group-title="Радио", PromoDJ - Pop
+http://radio.promodj.com:8000/pop-192
+#EXTINF:-1 group-title="Радио", PromoDJ - Too Nu
+http://radio.promodj.com:8000/toonu-192
+#EXTINF:-1 group-title="Радио", PromoDJ - Top 100
+http://radio.promodj.com:8000/top100-192
+#EXTINF:-1 group-title="Радио", PromoDJ - Vata
+http://radio.promodj.com:8000/vata-192
+
+#EXTINF:-1 group-title="Радио", Соль - Deep
+http://solfm.ru:8000/deep128
+#EXTINF:-1 group-title="Радио", Соль - Рэп
+http://solfm.ru:8000/rap128
+
+#EXTINF:-1 group-title="Радио", Jazz
+http://jazz.streamr.ru/jazz-64.mp3
+#EXTINF:-1 group-title="Радио", Jazz - Classic
+http://jfm1.hostingradio.ru:14536/ijstream.mp3
+#EXTINF:-1 group-title="Радио", Jazz - Vocals
+http://jfm1.hostingradio.ru:14536/jvstream.mp3
+
+#EXTINF:-1 group-title="Радио", Мята
+http://radio.dline-media.com/myata
+#EXTINF:-1 group-title="Радио", Мята - Gold
+http://radio.dline-media.com/gold
+#EXTINF:-1 group-title="Радио", Мята - Hits
+http://radio.dline-media.com/myata_hits
+
+#EXTINF:-1 group-title="Радио", Пилот - Dance
+http://online.pilotfm.ru:8000/pilot_dance_mp3
+#EXTINF:-1 group-title="Радио", Пилот - Lounge
+http://online.pilotfm.ru:8000/pilot_lounge_mp3
+
+#EXTINF:-1 group-title="Радио", Сектор - 90s
+http://89.223.45.5:8000/next-160
+#EXTINF:-1 group-title="Радио", Сектор - Progressive
+http://89.223.45.5:8000/progressive-160
+#EXTINF:-1 group-title="Радио", Сектор - Space
+http://89.223.45.5:8000/space-160
+
+#EXTINF:-1 group-title="Радио", Старое
+http://staroeradio.ru:8000/ices128
+#EXTINF:-1 group-title="Радио", Старое - Детское
+http://195.91.237.50:8000/detskoe128
+#EXTINF:-1 group-title="Радио", Старое - Музыка
+http://195.91.237.50:8000/music128
+
+#EXTINF:-1 group-title="Радио", Ретро - 70е
+http://hls-01-retro70.emgsound.ru/1/128/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Ретро - 80е
+http://hls-01-retro80.emgsound.ru/2/128/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Ретро - Вечеринка
+http://hls-01-retro-vecherinka.emgsound.ru/20/128/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Ретро - Сан-Ремо
+http://hls-01-sanremo.emgsound.ru/5/128/playlist.m3u8
+
+#EXTINF:-1 group-title="Радио", ЯсенБит (Санкт-Петербург)
+http://radio.yasenbit.net:8000/yasenbit192k
+#EXTINF:-1 group-title="Радио", Шок (Санкт-Петербург)
+http://spb.radioshock.ru:80/radioshock
+#EXTINF:-1 group-title="Радио", Рокс (Санкт-Петербург)
+http://icecast.radiorocks.cdnvideo.ru/roks.stream
+#EXTINF:-1 group-title="Радио", Популярная Классика (Санкт-Петербург)
+http://icecast-radioclassica.cdnvideo.ru/radioclassica
+#EXTINF:-1 group-title="Радио", Мелодия (Санкт-Петербург)
+http://stream128.melodiafm.spb.ru:8000/melodia128
+#EXTINF:-1 group-title="Радио", Revolution (Санкт-Петербург)
+http://revolutionradio.ru:8000/live.mp3
+#EXTINF:-1 group-title="Радио", Эрмитаж (Санкт-Петербург)
+http://hermitage.hostingradio.ru/hermitage128.mp3
+#EXTINF:-1 group-title="Радио", Эльдорадио (Санкт-Петербург)
+http://emgspb.hostingradio.ru/eldoradio128.mp3
+#EXTINF:-1 group-title="Радио", Православное (Санкт-Петербург)
+http://radio-spb.rusk.ru:8000/stream
+#EXTINF:-1 group-title="Радио", Балтик Плюс (Калининград)
+http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
+#EXTINF:-1 group-title="Радио", Спутник (Волгоград)
+http://online.volgogradfm.ru:8000/sputnik_mp3
+#EXTINF:-1 group-title="Радио", 1 (Приднестровье)
+http://pgtrk.ru:8000/stream
+#EXTINF:-1 group-title="Радио", 1 Плюс (Приднестровье)
+http://pgtrk.ru:8000/radio2_192
+#EXTINF:-1 group-title="Радио", 10 (Петрозаводск)
+http://ic.radio10.live/stream.mp3
+#EXTINF:-1 group-title="Радио", 107 (Краснодар)
+http://62.183.34.109:8000/radio107_320.mp3
+#EXTINF:-1 group-title="Радио", Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
+#EXTINF:-1 group-title="Радио", 2x2 (Ульяновск)
+http://95.104.192.220:8001/radio2x2.ogg
+#EXTINF:-1 group-title="Радио", 3 (Омск)
+http://81.23.194.18:8010/radio3.mp3
+#EXTINF:-1 group-title="Радио", 99.1 FM (Красноярск)
+http://online.99-1.ru:8000/99i1_mp3
+#EXTINF:-1 group-title="Радио", Альфа (Пермь)
+http://online.alfafm.ru:8000/alfa_mp3
+#EXTINF:-1 group-title="Радио", Ашкадар (Уфа)
+http://radio.mediacdn.ru/ashkadar.mp3
+#EXTINF:-1 group-title="Радио", Роксана (Уфа)
+http://listen1.myradio24.com/2761
+#EXTINF:-1 group-title="Радио", Юлдаш (Уфа)
+http://radio.mediacdn.ru/uldash.mp3
+#EXTINF:-1 group-title="Радио", Спутник (Уфа)
+http://radio.mediacdn.ru/sputnik_fm.mp3
+#EXTINF:-1 group-title="Радио", Визави (Невинномысск)
+http://94.250.249.126:8000/radio
+#EXTINF:-1 group-title="Радио", Дагестан (Махачкала)
+http://radio05.ru:8000/radio_dagestan_128
+#EXTINF:-1 group-title="Радио", Кавказ-Хит (Черкесск)
+http://kavkazhit.hostingradio.ru:8017/kavkazhit96.mp3
+#EXTINF:-1 group-title="Радио", Kamchatka (Камчатка)
+http://radio.kamchatkalive.ru:8100/rock
+#EXTINF:-1 group-title="Радио", Кузбасс (Кемерово)
+http://212.75.194.94:8000/KuzbassFM
+#EXTINF:-1 group-title="Радио", Квант (Кемерово)
+http://radio.rikt.ru:8000/trk-kvant
+#EXTINF:-1 group-title="Радио", Курай (Татарстан)
+http://av.bimradio.ru:8066/kurai_mp3
+#EXTINF:-1 group-title="Радио", Кунел (Татарстан)
+http://live.kunelradio.ru:8000/128.mp3
+#EXTINF:-1 group-title="Радио", Мелодия (Воронеж)
+http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
+#EXTINF:-1 group-title="Радио", Благовестие (Воронеж)
+http://live.borneo.ru:8888/bv128
+#EXTINF:-1 group-title="Радио", Борнео (Воронеж)
+http://live.borneo.ru:8888/128
+#EXTINF:-1 group-title="Радио", Моя Удмуртия (Ижевск)
+http://radio.myudm.ru:10010/efir
+#EXTINF:-1 group-title="Радио", Образ (Нижний Новгород)
+http://213.177.106.78:8000/;
+#EXTINF:-1 group-title="Радио", Олимп (Челябинск)
+http://online.olimpfm.ru:8000/olimp_mp3
+#EXTINF:-1 group-title="Радио", Интерволна (Челябинск)
+http://online.intervolna.ru:8001/radio192
+#EXTINF:-1 group-title="Радио", Омега (Тольятти)
+http://online.106i9fm.ru:8000/106i9_mp3
+#EXTINF:-1 group-title="Радио", Первое Сетевое (Липецк)
+http://streamer.radiovseti.ru:8000/320
+#EXTINF:-1 group-title="Радио", Приморская волна (Артем)
+http://inhold.org:8000/primvolna-artem
+#EXTINF:-1 group-title="Радио", Ребячья республика (Тюмень)
+http://live.radio7.su:9000/deti256
+#EXTINF:-1 group-title="Радио", Диполь (Тюмень)
+http://icecast.sibinformburo.cdnvideo.ru:8000/dipolfm
+#EXTINF:-1 group-title="Радио", Седьмое небо (Псков)
+http://91.201.117.219:8000/stream
+#EXTINF:-1 group-title="Радио", СИ (Екатеринбург)
+http://online.radioc.ru:8000/radioc
+#EXTINF:-1 group-title="Радио", Рок Арсенал (Екатеринбург)
+http://online.rockarsenal.ru:8000/rockarsenal
+#EXTINF:-1 group-title="Радио", Город (Екатеринбург)
+http://radio.gorodfm.ru:8000/gorodfm
+#EXTINF:-1 group-title="Радио", Серебряный дождь (Екатеринбург) 
+http://silverrain.hostingradio.ru/silver128.mp3
+#EXTINF:-1 group-title="Радио", Вышка (Екатеринбург)
+http://stream.vyshka24.ru/256
+#EXTINF:-1 group-title="Радио", Томский Благовест (Томск)
+http://176.65.38.3:8000/;
+#EXTINF:-1 group-title="Радио", Сибирь (Томск)
+http://185.108.196.182:8090/HQ
+#EXTINF:-1 group-title="Радио", ФМ-на Дону (Ростов-на-Дону)
+http://radio.mediacdn.ru/fm_na_donu.mp3
+#EXTINF:-1 group-title="Радио", Хорошего Настроения (Хабаровск)
+http://188.93.129.110:8000/fm1018
+#EXTINF:-1 group-title="Радио", Mix (Хабаровск)
+http://radio.gubernia.com:8000/radio4
+#EXTINF:-1 group-title="Радио", 2 (Хабаровск)
+http://212.19.18.133:8000/stream
+#EXTINF:-1 group-title="Радио", Шория (Таштагол)
+http://193.254.227.55:8000/Radio-LineIn
+#EXTINF:-1 group-title="Радио", Югра (Ханты-Мансийск)
+http://ugra.cdnradio.ru/radiougra
+#EXTINF:-1 group-title="Радио", Лянтор (Ханты-Мансийск)
+http://a2.radioheart.ru:8015/admin
+#EXTINF:-1 group-title="Радио", Юнитон (Новосибирск)
+http://online.uniton.ru:8300/RadioUniton192
+#EXTINF:-1 group-title="Радио", 54 (Новосибирск)
+http://91.202.68.50:8000/;stream.mp3
+#EXTINF:-1 group-title="Радио", Самарское Губернское (Самара)
+http://46.20.71.66:8000/fm
+#EXTINF:-1 group-title="Радио", HIPHOPBY (Беларусь)
+http://online.hiphop.by:9000/8000
+#EXTINF:-1 group-title="Радио", Скиф (Беларусь)
+http://178.172.150.248:2530/;
+#EXTINF:-1 group-title="Радио", Рация (Беларусь)
+http://air.racyja.com:8000/racja320
+#EXTINF:-1 group-title="Радио", Легенды (Беларусь)
+http://live.legendy.by:8000/legendyfm
+#EXTINF:-1 group-title="Радио", Украинская Песня (Украина)
+http://listen6.myradio24.com:9000/50904
+#EXTINF:-1 group-title="Радио", НВ (Украина)
+http://91.218.212.84:8000/radionv.mp3
+#EXTINF:-1 group-title="Радио", Армия (Украина)
+http://212.26.132.129:8000/ArmyFM
+#EXTINF:-1 group-title="Радио", Sfera Music (Украина)
+http://radio.radioshansonplus.com:8000/radio
+#EXTINF:-1 group-title="Радио", Первое (Украина)
+http://195.138.81.134:8000/radio1-256
+#EXTINF:-1 group-title="Радио", Харьков Z
+http://node1.craftradio.ru:8000/215_55AE795B
+#EXTINF:-1 group-title="Радио", Крым
+https://cdn.1tvcrimea.ru/radio.m3u8
+#EXTINF:-1 group-title="Радио", Первое (Израиль)
+https://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Dance FM
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 group-title="Радио", Dance TV House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 group-title="Радио", Dance TV Techno
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="Радио", Dance TV Algorhythm
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
