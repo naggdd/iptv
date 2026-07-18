@@ -497,8 +497,6 @@ https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские", Радио Kids FM
-https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные", Матч! Арена
 http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
