@@ -6,6 +6,16 @@ https://kino-1.catcast.tv/content/37745/index.m3u8
 https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", VIVA TV Russia
+https://s.catcast.tv/content/39575/index.m3u8?token=f71a681c1f07a34aa8dc4d869e6bfcd5
+#EXTINF:-1 group-title="Музыкальные", TMF RUS
+https://s.catcast.tv/content/43273/index.m3u8?token=a84920fd5d3a3f2ae42f87b0bc794bf7
+#EXTINF:-1 group-title="Музыкальные", Classic Music
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Meditation Music
+https://cityeden.catcast.tv/content/47410/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Христианский
+https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные", Первый музыкальный
