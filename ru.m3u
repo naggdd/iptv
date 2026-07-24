@@ -1159,22 +1159,22 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/vari
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Региональные", 12 канал (Череповец)
 http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные", 31 канал (Челябинск)
+#EXTINF:-1 group-title="Региональные", 31 канал | Челябинск
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные", ОТВ | Челябинск
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные", УРАЛ1 | Челябинск
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 41 Регион (Камчатка)
 https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ВТК 41 Аргуст (Воронеж)
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные", НСК 49 (Новосибирск)
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 6 ТВ (Хабаровск)
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 7 канал (Красноярск)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 8 канал (Красноярск)
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные", 8 канал (Новосибирск)
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные", TMTV (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", TV Губерния | Воронеж
@@ -1187,8 +1187,6 @@ https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Югра Тревел (Сургут)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные", УРАЛ1 (Челябинск)
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Урал 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", АСТВ (Южно-Сахалинск)
@@ -1272,6 +1270,8 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Волга 24 (Нижний новгород)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Нижний новгород 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Нижний новгород 24 (2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", Волгоград 1
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
@@ -1307,11 +1307,17 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Дон 24 (2) | Ростов-на-Дону
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Дон 24 (3) | Ростов-на-Дону
+https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 group-title="Региональные", Первый Ростовский (Ростов-на-Дону)
 https://rost.mediacdn.ru/cdn/rostov1/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Региональные", Евразия (Орск)
+#EXTINF:-1 group-title="Региональные", Евразия | Орск
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 group-title="Региональные", Евразия (2) | Орск
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Енисей (Красноярск)
+#EXTINF:-1 group-title="Региональные", Енисей | Красноярск
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Енисей (2) | Красноярск
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Ивановское общественное телевидение (Иваново)
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
@@ -1335,17 +1341,25 @@ https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", Катунь 24 (Алтайский край)
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Колыма Плюс (Магаданская область)
+#EXTINF:-1 group-title="Региональные", Колыма Плюс | Магаданская область
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Колыма Плюс (2) | Магаданская область
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные", Краснодар (2)
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Кубань 24 (Краснодар)
-http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24-T/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Кубань 24 | Краснодар
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Кубань 24 (2) | Краснодар
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24-T/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Кузбасс Первый (Кемеровская область)
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Лен ТВ 24 (Ленинградская область)
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Липецкое время 24 (Липецкая область)
+#EXTINF:-1 group-title="Региональные", Липецкое время 24 | Липецкая область
+https://serv25.vintera.tv/liptime/liptime/chunks.m3u8
+#EXTINF:-1 group-title="Региональные", Липецкое время 24 (2) | Липецкая область
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 #EXTINF:-1 group-title="Региональные", МЭТР (Марий Эл)
 http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
@@ -1377,30 +1391,44 @@ https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
 http://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Новое время (Радужный)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Новый век (Тамбов)
+#EXTINF:-1 group-title="Региональные", Новый век | Тамбов
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Новый век (2) | Тамбов
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", ОРТ Планета (Оренбург)
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
-#EXTINF:-1 group-title="Региональные", ОТВ (Свердловская область)
+#EXTINF:-1 group-title="Региональные", ОТВ | Екатеринбург
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1 group-title="Региональные", ОТВ (2) | Екатеринбург
+https://vd.obltv.ru/watch/air_hd.m3u8
 #EXTINF:-1 group-title="Региональные", 4 канал (Свердловская область)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Вектор (Свердловская область)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Мы и город (Свердловская область)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
-#EXTINF:-1 group-title="Региональные", ОТВ Приморье (Приморский край)
+#EXTINF:-1 group-title="Региональные", ОТВ Приморье | Приморский край
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные", ОТВ Приморье (2) | Приморский край
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", ОТВ (Сахалин)
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
-#EXTINF:-1 group-title="Региональные", ОТС (Новосибирск)
+#EXTINF:-1 group-title="Региональные", ОТС | Новосибирск
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1 group-title="Региональные", ОТС (2) | Новосибирск
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", НСК 49 | Новосибирск
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные", 8 канал | Новосибирск
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Область 45 (Курган)
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Омск ТВ (Омск)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Осетия Ирыстон (Владикавказ)
+#EXTINF:-1 group-title="Региональные", Осетия Ирыстон | Владикавказ
 https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Осетия Ирыстон (2) | Владикавказ
+https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные", Панорама (Тверь)
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Первый Тульский | Тульская область
