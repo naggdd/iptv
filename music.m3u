@@ -90,6 +90,8 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 http://31.148.48.15/Zhara/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", О!2
 http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", О!2 (2)
+http://31.148.48.15/O2_HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVM3
@@ -162,6 +164,12 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Karolina
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 group-title="Музыкальные", Magic
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 group-title="Музыкальные", Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 group-title="Музыкальные", Music DJ
+http://217.79.184.52/Nostalgia/index.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
@@ -342,7 +350,7 @@ https://radio.pika-fm.ru:8443/pika.fm
 #EXTINF:-1 group-title="Радио", Град Петров
 https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8
 #EXTINF:-1 group-title="Радио", МСМ
-https://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
+https://tv.streams.baikal-telecom.net/MCM/index.m3u8
 #EXTINF:-1 group-title="Радио", Центр
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Радио", Fresh
