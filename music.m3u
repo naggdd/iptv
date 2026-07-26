@@ -80,6 +80,10 @@ http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 #EXTINF:-1 group-title="Музыкальные", Матур (Татарстан/Башкортостан)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", Сигма | ЯНАО
+https://lifecam.sigma-ktv.ru/ctv/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Сигма КТВ| ЯНАО
+https://lifecam.sigma-ktv.ru/eshche/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Шансон ТВ
