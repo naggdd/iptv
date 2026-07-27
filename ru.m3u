@@ -36,6 +36,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/spas.png", Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/spas.png", Спас (2)
+https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний
@@ -518,6 +520,8 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра
 http://31.148.48.15/Match_Igra/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Окко Спорт
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Бокс
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спортивные", Бокс (2)
@@ -593,6 +597,8 @@ http://cdn2.ntv.ru/th_style/playlist.m3u8
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", World Fashion
 http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Luxury
+https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gametoon
 http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/5049/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", 7 TV
@@ -1060,7 +1066,7 @@ https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Кухня (2)
 http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
-http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
+http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Pro
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка Отрыва
@@ -1139,8 +1145,10 @@ https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 group-title="Региональные", Москва Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Мир Белогорья (Белгородская область)
+#EXTINF:-1 group-title="Региональные", Мир Белогорья | Белгородская область
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Мир Белогорья (2) | Белгородская область
+https://tvbelgorod.ru:90/mirbelogorya/index.m3u8
 #EXTINF:-1 group-title="Региональные", Первый Республиканский (ДНР)
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 group-title="Региональные", 24 (Луганск)
@@ -1400,7 +1408,7 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3
 #EXTINF:-1 group-title="Региональные", ОТВ (2) | Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
 #EXTINF:-1 group-title="Региональные", 4 канал (Свердловская область)
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Вектор (Свердловская область)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Мы и город (Свердловская область)
