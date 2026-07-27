@@ -32,6 +32,8 @@ http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
 http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Hits
 http://31148.rafail1982.uz/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Hits (2)
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Танцуй!
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/14023/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", VEVO Retro Rock
@@ -48,6 +50,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="Музыкальные", Kiss
 http://livestream.siliconweb.com/live/kissfm/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 group-title="Музыкальные", Carac
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", CHD Rock
@@ -156,6 +160,8 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1a1/mono.m3u8
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Karolina
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
