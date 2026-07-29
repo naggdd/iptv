@@ -597,8 +597,10 @@ http://cdn2.ntv.ru/th_style/playlist.m3u8
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", World Fashion
 http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", World Fashion (2)
+http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 #EXTINF:-1 group-title="Развлекательные", Luxury
-https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
+https://s1.tv-nano.com/Luxury_rec/video.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gametoon
 http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/5049/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", 7 TV
@@ -633,7 +635,7 @@ http://dmi3y-tv.online/hls/CH_DORAMA.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 http://31.148.48.15/Kino_TV/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
-http://vod.tuva.ru/ovaa/index.m3u8
+http://tv.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
 http://dmi3y-tv.online/hls/CH_VIP_PREMIERE.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial
@@ -1130,13 +1132,17 @@ http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Life TV
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1 group-title="Религиозные", Благая Весть
+http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 1
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 4
 http://46.56.85.151:8080/0.m3u8
+#EXTINF:-1 group-title="Региональные", Витебск
+https://ngtrk.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Первый информационный (Беларусь)
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Региональные", Первый Крымский
@@ -1201,6 +1207,8 @@ https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", АТВ (2) | Ставрополь
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
+#EXTINF:-1 group-title="Региональные", АТВ (3) | Ставрополь
+http://hls.atvmedia.ru/atv.m3u8
 #EXTINF:-1 group-title="Региональные", Свое | Ставрополь
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Свое (2) | Ставрополь
@@ -1277,14 +1285,16 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Нижний новгород 24 (2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные", Волгоград 1
+#EXTINF:-1 group-title="Региональные", Волгоград 1 | Волгоградская область
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Волгоград 24
+#EXTINF:-1 group-title="Региональные", Волгоград 24 | Волгоградская область
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3a2163/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные", Волгоград 24 (2)
+#EXTINF:-1 group-title="Региональные", Волгоград 24 (2) | Волгоградская область
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Первый Волгоградский (Волгоград)
+#EXTINF:-1 group-title="Региональные", Первый Волгоградский | Волгоградская область
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Волжский+ | Волгоградская область
+http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
 #EXTINF:-1 group-title="Региональные", Восток 24 (Владивосток)
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 8 канал (Владивосток)
