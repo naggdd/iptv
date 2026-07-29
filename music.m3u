@@ -170,6 +170,16 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 group-title="Музыкальные", Music DJ
 http://217.79.184.52/Nostalgia/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Oxygen
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 group-title="Музыкальные", PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", Popworld
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 group-title="Музыкальные", Power
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 group-title="Музыкальные", VoiceOver Radio
+https://tvservices.fullhd-streaming.com:3941/multi_web/play_720.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
