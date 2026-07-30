@@ -283,11 +283,13 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png", Киносерия (3)
 http://176.118.197.101/Kinoseria/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман
-http://31.148.48.15/Russkiy_Roman/index.m3u8
+http://31148.rafail1982.uz/Russkiy_Roman/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман (2)
-http://vod.tuva.ru/rusroman/index.m3u8
+http://31148.rafail1982.uz/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман (3)
+https://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_detectiv.png", Русский детектив
-http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+http://31148.rafail1982.uz/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery (2)
@@ -315,7 +317,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/you.png", Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/you.png", Ю (2)
-https://cdn-01.bonus-tv.ru/u/playlist.m3u8
+https://cdn-01.bonus-tv.ru/u/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_tv.png", RU.TV
 http://31.148.48.15/RU_TV/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/istoriya.png", История
@@ -332,6 +334,8 @@ http://176.118.197.101/Cinema/index.m3u8
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png", НСТ
 http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png", НСТ (2)
+https://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/muzhskoe.png", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/muzhskoe.png", Мужское кино (2)
@@ -477,6 +481,8 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские", Шаян
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Детские", Шаян (2)
+https://shayan.bonus-tv.ru/cdn/shayan/index.m3u8
 #EXTINF:-1 group-title="Детские", Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
@@ -506,7 +512,9 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум
-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1033/index.m3u8
+#EXTINF:-1 group-title="Детские", Уникум (2)
+http://31148.rafail1982.uz/Detskiy/index.m3u8
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Tiji
@@ -586,9 +594,13 @@ http://31.148.48.15/Sochi_HD/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ностальгия
 http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ
-http://tvoetv.space:8080/tvoetv/index.m3u8
+https://tvoetv.space/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Твоё ТВ (2)
+http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 group-title="Развлекательные", Твоё ТВ Юмор (2)
+http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлекательные", КВН
@@ -635,6 +647,8 @@ http://158.101.222.193:88/georgia_play.php?id=scifi
 #EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi (2)
 http://dmi3y-tv.online/hls/CH_TOCHKA_SCI-FI.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинеко
+http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинеко (2)
 http://31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
@@ -652,10 +666,12 @@ http://dmi3y-tv.online/hls/CH_VIP_SERIAL.m3u8
 http://dmi3y-tv.online/hls/CH_VIP_MEGAHIT.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy
 http://dmi3y-tv.online/hls/CH_VIP_COMEDY.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (A1)
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="Кино и сериалы", Amedia 2 (A2)
-http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 1 (2)
+http://31148.rafail1982.uz/A1/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 2
+http://31148.rafail1982.uz/A2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit (2)
@@ -670,6 +686,8 @@ http://tinyurl.com/TvZaTak65?id=amediapremium
 http://37.186.70.39:40/play/60/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
 http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viasat Epic Drama
+http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Феникс+ Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Кино и сериалы", НТВ Сериал
@@ -697,7 +715,7 @@ http://37.186.70.39:40/play/67/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="Кино и сериалы", Киносезон
-http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", КиноМеню
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино
@@ -729,7 +747,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Новый Русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
-http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
+http://31148.rafail1982.uz/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино
 http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
 #EXTINF:-1 group-title="Кино и сериалы", Индийское кино (2)
@@ -1127,7 +1145,7 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Три Ангела
-http://hls.tv.3angels.ru/stream/HQ.m3u8
+https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 group-title="Религиозные", Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Надежда
@@ -1135,7 +1153,7 @@ http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Бог Благ
 https://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Религиозные", Хузур
-http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", TBN Baltia
@@ -1647,12 +1665,14 @@ https://s34351.cdn.ngenix.net/hls/CH_R14_ALMAZNYJKRAJHD/variant.m3u8
 https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:-1 group-title="Региональные", НТРК Ингушетия
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", МТРК (Казахстан)
-https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", КТК (Казахстан)
+#EXTINF:-1 group-title="Региональные", МТРК | Казахстан
+https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
+#EXTINF:-1 group-title="Региональные", КТК | Казахстан
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", Qazaqstan (Казахстан)
+#EXTINF:-1 group-title="Региональные", Qazaqstan | Казахстан
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", JTV | Казахстан
+https://stream8.cinerama.uz/1488/index.m3u8
 #EXTINF:-1 group-title="Региональные", Таврия (Херсонская область)
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 group-title="Региональные", За! (Запорожская область)
@@ -1674,7 +1694,7 @@ https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=Rq
 #EXTINF:-1 group-title="Региональные", Среда (Каспийск)
 https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https
 #EXTINF:-1 group-title="Региональные", Эхо (Новоуральск)
-http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1 group-title="Региональные", Инфо 24 (Шадринск)
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 #EXTINF:-1 group-title="Региональные", НТС Ирбит (Екатеринбург)
