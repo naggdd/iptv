@@ -71,7 +71,9 @@ https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 #EXTINF:-1 group-title="Музыкальные", Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Музыкальные", FON Music (ТНТ)
-https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+https://tntm.mediacdn.ru/cdn/tntmusic/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", 15+ Music
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 group-title="Музыкальные", Жар Птица
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
 #EXTINF:-1 group-title="Музыкальные", Курай
@@ -184,6 +186,8 @@ https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 group-title="Музыкальные", VoiceOver Radio
 https://tvservices.fullhd-streaming.com:3941/multi_web/play_720.m3u8
+#EXTINF:-1 group-title="Музыкальные", 3ABN Praise Him
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
