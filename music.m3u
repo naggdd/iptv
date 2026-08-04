@@ -17,7 +17,7 @@ https://cityeden.catcast.tv/content/47410/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Бирма Play
 https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка Первого
-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1201/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Первый музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные", Retro Music
@@ -25,7 +25,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge
 http://31148.rafail1982.uz/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge (2)
-https://tv.streams.baikal-telecom.net/RT_DOC/tracks-v1a1/mono.m3u8
+https://tv.streams.baikal-telecom.net/RT_DOC/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Classic
 http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Deluxe
@@ -101,7 +101,7 @@ http://31.148.48.15/O2_HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVM3
-https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
+https://edge15.vedge.infomaniak.com/livecast/tvm3/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", SONGTV
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", VIVA
@@ -111,15 +111,15 @@ http://158.101.222.193:88/georgia_play.php?id=mezzo
 #EXTINF:-1 group-title="Музыкальные", Mezzo (2)
 http://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 1
-https://lbgo.bozztv.com/07/ushba-t1/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-t1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 2
-https://lbgo.bozztv.com/07/ushba-t2/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-t2/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 3
-https://lbgo.bozztv.com/07/ushba-t3/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-t3/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 4
-https://lbgo.bozztv.com/07/ushba-t4/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-t4/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 6
-https://lbgo.bozztv.com/07/ushba-monj/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-monj/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 7
 https://lbgo.bozztv.com/07/ushba-m3/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 8
@@ -127,15 +127,15 @@ https://lbgo.bozztv.com/07/ushba66/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 9
 https://lbgo.bozztv.com/07/ushba-RogerWaters/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 10
-https://lbgo.bozztv.com/07/ushba-t5/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-t5/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка 11
-https://lbgo.bozztv.com/07/ushba-m2/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-m2/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Blues Music
-https://lbgo.bozztv.com/07/ushba0/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba0/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Midnight Lust Music
 https://lbgo.bozztv.com/07/ushba-midnightlustmusic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Mafia
-https://lbgo.bozztv.com/07/ushba-mafia/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-mafia/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", 51 Radio
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", You & Me
@@ -149,7 +149,7 @@ http://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamsche
 #EXTINF:-1 group-title="Музыкальные", Power Love
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Spirit
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Trace Urban
 http://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Trace Urban (2)
@@ -157,13 +157,13 @@ http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVS Music
 http://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Ля-минор
-http://s8.rafail1982.uz/1238/tracks-v1a1a1/mono.m3u8
+http://s8.rafail1982.uz/1238/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Company
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
 #EXTINF:-1 group-title="Музыкальные", Super Six
 https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Afrobeats
-https://stream.ecable.tv/afrobeats/tracks-v1a1a1/mono.m3u8
+https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Kids FM
