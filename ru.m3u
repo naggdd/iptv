@@ -311,7 +311,7 @@ https://stream8.cinerama.uz/1246/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mult.png", Мульт (2)
 http://31.148.48.15/Mult/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ani.png", Ani
-http://31.148.48.15/Ani/index.m3u8
+http://31148.rafail1982.uz/Ani/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/che.png", Че
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/subbota.png", Суббота
@@ -632,7 +632,7 @@ https://s1.tv-nano.com/Luxury_rec/video.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gametoon
 http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/5049/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", 7 TV
-http://v4.proofix.ru:80/7tv-live/index.m3u8
+https://v4.proofix.ru/7tv-live/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Толк
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные", Толк (2)
@@ -1183,6 +1183,8 @@ http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
 #EXTINF:-1 group-title="Религиозные", Благая Весть
 http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 
+#EXTINF:-1 group-title="Региональные", Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/index.m3u8
 #EXTINF:-1 group-title="Региональные", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 1
@@ -1287,13 +1289,15 @@ https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Архыз 24 Light (Карачаево-Черкесия)
 http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Астрахань 24
-https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Региональные", Астрахань 24 (2)
+#EXTINF:-1 group-title="Региональные", Astrakhan.RU | Астрахань
+https://streaming.astrakhan.ru/astrakhanrulivehd/index.m3u8
+#EXTINF:-1 group-title="Региональные", Астрахань 24 | Астрахань
+https://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="Региональные", Астрахань 24 (2) | Астрахань
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Телплюс (Астрахань)
+#EXTINF:-1 group-title="Региональные", Телплюс | Астрахань
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", Культ Мудиа (Астрахань)
+#EXTINF:-1 group-title="Региональные", Культ Мудиа | Астрахань
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 group-title="Региональные", БСТ 24 (Братск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
