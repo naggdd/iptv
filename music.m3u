@@ -188,6 +188,16 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 https://tvservices.fullhd-streaming.com:3941/multi_web/play_720.m3u8
 #EXTINF:-1 group-title="Музыкальные", 3ABN Praise Him
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bblack! Africa
+http://edge11.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bblack! Caribbean
+http://edge11.vedge.infomaniak.com/livecast/ik:bblackcaribbean/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bblack! Classic
+http://edge11.vedge.infomaniak.com/livecast/ik:bblackclassik/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные", BIZ Music
+https://stream8.cinerama.uz/1212/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", BIZ Music (2)
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
