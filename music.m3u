@@ -42,6 +42,8 @@ https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Новое Радио
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Europa Plus
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", NM Television
 https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Deluxe Music
@@ -198,6 +200,10 @@ http://edge11.vedge.infomaniak.com/livecast/ik:bblackclassik/chunklist.m3u8
 https://stream8.cinerama.uz/1212/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", BIZ Music (2)
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Energy TV DJ
+https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Energy TV Music
+https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/index.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
