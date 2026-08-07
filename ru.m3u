@@ -532,7 +532,7 @@ https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Tiji
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1445/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
@@ -670,6 +670,8 @@ https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.online/hls/CH_DORAMA.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 http://31.148.48.15/Kino_TV/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ (2)
+https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://tv.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
@@ -756,6 +758,8 @@ http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
 http://dmi3y-tv.online/hls/CH_ILLUZION_PLUS.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Иллюзион+ (2)
 http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Иллюзион+ (3)
+http://31148.rafail1982.uz/Illusion_plus/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Новый Русский
@@ -1123,6 +1127,8 @@ https://stream8.cinerama.uz/1236/index.m3u8
 http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательные", Кухня (3)
 http://31.148.48.15/Kuhnya_TV/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Kulinar
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
 http://31148.rafail1982.uz/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Pro
