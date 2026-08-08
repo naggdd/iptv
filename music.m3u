@@ -208,6 +208,12 @@ https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/index.m3u8
 https://edge15.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 group-title="Музыкальные", Impact
 https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 group-title="Музыкальные", Littoral
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Mix
+https://strm.mixlive.eu/mixfm/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
