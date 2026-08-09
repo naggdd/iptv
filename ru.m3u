@@ -328,6 +328,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 https://cdn-01.bonus-tv.ru/u/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_tv.png", RU.TV
 http://31.148.48.15/RU_TV/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_tv.png", RU.TV (2)
+https://stream8.cinerama.uz/1202/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/istoriya.png", История
 https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/vremya.png", Время
@@ -405,9 +407,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 #EXTINF:-1 group-title="Информационные", РБК
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 group-title="Информационные", РБК (2)
-http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+http://online.video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 group-title="Информационные", Планета РТР (Planeta RTR)
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 group-title="Информационные", ОСН
@@ -428,6 +428,8 @@ http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", RTД (2)
 https://cdn-01.bonus-tv.ru/rtdoc/index.m3u8
+#EXTINF:-1 group-title="Информационные", RTД (3)
+https://streaming.thestream.cyou/live/554.m3u8
 #EXTINF:-1 group-title="Информационные", 360
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1 group-title="Информационные", 360 (2)
