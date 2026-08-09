@@ -100,8 +100,6 @@ http://31.148.48.15/Zhara/index.m3u8
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", О!2 (2)
 http://31.148.48.15/O2_HD/index.m3u8
-#EXTINF:-1 group-title="Музыкальные", Power Dance
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVM3
 https://edge15.vedge.infomaniak.com/livecast/tvm3/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", SONGTV
@@ -148,8 +146,6 @@ http://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", OFTV
 http://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные", Power Love
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Spirit
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Trace Urban
@@ -186,6 +182,10 @@ https://pmcrohls.wns.live/hls/stream.m3u8
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 group-title="Музыкальные", Power
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 group-title="Музыкальные", Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", VoiceOver Radio
 https://tvservices.fullhd-streaming.com:3941/multi_web/play_720.m3u8
 #EXTINF:-1 group-title="Музыкальные", 3ABN Praise Him
