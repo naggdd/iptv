@@ -1173,6 +1173,8 @@ https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Про бизнес
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Познавательные", NHK World
+https://stream8.cinerama.uz/1449/index.m3u8
 
 #EXTINF:-1 group-title="Религиозные", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
