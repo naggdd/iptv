@@ -9,7 +9,7 @@ https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", VIVA TV Russia
 https://s.catcast.tv/content/39575/index.m3u8?token=f71a681c1f07a34aa8dc4d869e6bfcd5
 #EXTINF:-1 group-title="Музыкальные", TMF RUS
-https://s.catcast.tv/content/43273/index.m3u8?token=a84920fd5d3a3f2ae42f87b0bc794bf7
+https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Classic Music
 https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Meditation Music
@@ -149,9 +149,7 @@ http://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamsche
 #EXTINF:-1 group-title="Музыкальные", Spirit
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Trace Urban
-http://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные", Trace Urban (2)
-http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVS Music
 http://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Ля-минор
@@ -214,6 +212,24 @@ https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 https://strm.mixlive.eu/mixfm/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 group-title="Музыкальные", TopEstrada
+http://live.topestrada.com/live/topestrada/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные", Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные", Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные", Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные", Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные", Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные", Stingray Karaoke
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4591
+#EXTINF:-1 group-title="Музыкальные", Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
