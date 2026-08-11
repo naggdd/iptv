@@ -258,6 +258,8 @@ https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское (2)
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское (3)
+https://stream8.cinerama.uz/1059/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (2)
@@ -532,7 +534,7 @@ http://31148.rafail1982.uz/Detskiy/index.m3u8
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Tiji
-https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1441/index.m3u8
 #EXTINF:-1 group-title="Детские", Gulli Girl
 https://stream8.cinerama.uz/1445/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика
@@ -598,6 +600,8 @@ http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/144/index.m3u8
 https://fs.uplink.kz/khl_prime/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спортивные", Мото Драйв
 https://stitch.teletarget.ru/vintera/motodrive/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Trace Sport Stars
+https://stream8.cinerama.uz/1274/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Беларусь 2
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
@@ -1026,9 +1030,11 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Красная линия (2)
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 group-title="Познавательные", BRICS
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", BRICS (2)
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+https://brics.bonus-tv.ru/cdn/brics/russian/index.m3u8
+#EXTINF:-1 group-title="Познавательные", BRICS (3)
+https://origin5.mediacdn.ru/live/brics/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Terra
 http://31.148.48.15/Terra/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Terra Incognita
@@ -1753,8 +1759,10 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 #EXTINF:-1 group-title="Региональные", НТС Ирбит (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
-#EXTINF:-1 group-title="Региональные", ОшТВ (Кыргызстан)
+#EXTINF:-1 group-title="Региональные", ОшТВ | Кыргызстан
 http://212.42.117.34:8080/hls/OshTV.m3u8
+#EXTINF:-1 group-title="Региональные", TV1 KG| Кыргызстан
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", ТСВ (Приднестровье)
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="Региональные", Солнечный | Узбекистан
