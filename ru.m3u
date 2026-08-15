@@ -663,6 +663,8 @@ https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
 #EXTINF:-1 group-title="Развлекательные", Инсайт
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", TVM Channel
+https://cdn-01.bonus-tv.ru/tvm_edge/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
 http://158.101.222.193:88/georgia_play.php?id=black
@@ -1090,7 +1092,7 @@ https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
-http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+https://cdn.ntv.ru/unknown_russia/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
 http://31148.rafail1982.uz/Zhivaya_Planeta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета (2)
@@ -1381,10 +1383,12 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Нижний новгород 24 (2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 group-title="Региональные", Россия 1 | Волгоградская область
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", Волгоград 1 | Волгоградская область
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Волгоград 24 | Волгоградская область
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3a2163/chunklist.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", Волгоград 24 (2) | Волгоградская область
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Первый Волгоградский | Волгоградская область
