@@ -422,8 +422,6 @@ http://online.video.rbc.ru/online/rbctv.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 group-title="Информационные", ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 group-title="Информационные", Беларусь 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Дума
@@ -582,8 +580,6 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Setanta Sports 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спортивные", Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", A21 Network
@@ -613,8 +609,6 @@ https://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Trace Sport Stars
 https://stream8.cinerama.uz/1274/index.m3u8
 
-#EXTINF:-1 group-title="Развлекательные", Беларусь 2
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Развлекательные", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Продвижение (2)
@@ -812,8 +806,6 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Беларусь 3
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", NSC
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", TV12
@@ -1069,8 +1061,6 @@ http://185.57.68.33/40/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 group-title="Познавательные", Кто есть кто (2)
 http://31.148.48.15/Kto_est_kto/index.m3u8
-#EXTINF:-1 group-title="Познавательные", СТВ (CTV.BY)
-https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка.РФ
 http://158.101.222.193:88/georgia_play.php?id=hdlife
 #EXTINF:-1 group-title="Познавательные", Точка.РФ HD
@@ -1088,7 +1078,7 @@ http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Univer HD (Универ)
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Арсенал
-https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1414/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
@@ -1223,18 +1213,24 @@ http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
 #EXTINF:-1 group-title="Религиозные", Благая Весть
 http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 
-#EXTINF:-1 group-title="Региональные", Amga
-https://streamer1.connectto.com/AMGA_WEB_1202/index.m3u8
-#EXTINF:-1 group-title="Региональные", БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Региональные", Беларусь 1
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", Беларусь 4
+#EXTINF:-1 group-title="Региональные", Беларусь 1 | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/index.m3u8
+#EXTINF:-1 group-title="Региональные", Беларусь 2 | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2/index.m3u8
+#EXTINF:-1 group-title="Региональные", Беларусь 3 | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3/index.m3u8
+#EXTINF:-1 group-title="Региональные", Беларусь 4 | Беларусь
 http://46.56.85.151:8080/0.m3u8
-#EXTINF:-1 group-title="Региональные", Витебск
-https://ngtrk.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", Первый информационный (Беларусь)
-https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Региональные", Беларусь 5 | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/index.m3u8
+#EXTINF:-1 group-title="Региональные", Беларусь 24 | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24/index.m3u8
+#EXTINF:-1 group-title="Региональные", Витебск | Беларусь
+https://ngtrk.dc.beltelecom.by/vtv/vitebsk.stream/index.m3u8
+#EXTINF:-1 group-title="Региональные", Первый информационный | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy/index.m3u8
+#EXTINF:-1 group-title="Региональные", СТВ | Беларусь
+https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/index.m3u8
 #EXTINF:-1 group-title="Региональные", Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Региональные", Миллет (Крым)
@@ -1293,8 +1289,10 @@ https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/vari
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные", Урал 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные", АСТВ (Южно-Сахалинск)
-http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ACTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные", АСТВ | Южно-Сахалинск
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ACTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные", АСТВ (2) | Южно-Сахалинск
+https://dpoiyvp3kma.a.trbcdn.net/astv24/astv24.m3u8
 #EXTINF:-1 group-title="Региональные", АТВ (Бурятия)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные", АТВ | Ставрополь
@@ -1311,8 +1309,12 @@ https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/var
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", Кавказ 24 (2) | Ставрополь
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Аист (Иркутск)
+#EXTINF:-1 group-title="Региональные", Аист | Иркутск
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Аист (2) | Иркутск
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", НТС | Иркутск
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Актис (Ангарск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AKTIS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", АОТВ (Приамурье)
@@ -1497,8 +1499,6 @@ http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Мордовия 24 (Саранск)
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", НТС (Иркутск)
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Ника (Калужская область)
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Новгородское областное телевидение (Новгородская область)
@@ -1799,3 +1799,5 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="Региональные", Солнечный | Узбекистан
 https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/index.m3u8
+#EXTINF:-1 group-title="Региональные", Аист | Орехово-Зуево
+http://141.101.205.134:8080/hls/tvaist.m3u8
