@@ -36,8 +36,10 @@ http://31148.rafail1982.uz/Bridge_TV_Dance/index.m3u8
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Танцуй!
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/14023/index.m3u8
-#EXTINF:-1 group-title="Музыкальные", VEVO Retro Rock
+#EXTINF:-1 group-title="Музыкальные", Vevo Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 group-title="Музыкальные", Vevo Reggaeton & TrapHD
+https://amagicloud-medialive-common016.s3.amazonaws.com/vevo_reggaeton-localnow/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", 4fun.TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Новое Радио
@@ -102,6 +104,8 @@ http://31.148.48.15/Zhara/index.m3u8
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", О!2 (2)
 http://31.148.48.15/O2_HD/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Туган Тел
+https://stream8.cinerama.uz/1261/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVM3
 https://edge15.vedge.infomaniak.com/livecast/tvm3/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", SONGTV
@@ -186,6 +190,8 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Power Love
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", XPTV1
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 group-title="Музыкальные", VoiceOver Radio
 https://tvservices.fullhd-streaming.com:3941/multi_web/play_720.m3u8
 #EXTINF:-1 group-title="Музыкальные", 3ABN Praise Him
@@ -206,6 +212,8 @@ https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/index.m3u8
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Fun Radio
 https://edge15.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 group-title="Музыкальные", Wording Radio
+http://tv02.zas.media:1935/wordingtv/wordingtv/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Impact
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 group-title="Музыкальные", Littoral
@@ -232,8 +240,16 @@ https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4591
 #EXTINF:-1 group-title="Музыкальные", Stingray Naturescape
 https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
-#EXTINF:-1 group-title="Музыкальные", Туган Тел
-https://stream8.cinerama.uz/1261/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Vantage Dance
+https://hls.vantagetv.ee/vdance_stream/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Vantage Rock
+https://hls.vantagetv.ee/vrock_stream/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Vantage Music UK
+https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", XITE Just Chill
+https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8
+#EXTINF:-1 group-title="Музыкальные", XITE Rock x Metal
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
