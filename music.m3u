@@ -83,7 +83,7 @@ https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 group-title="Музыкальные", Жар Птица
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
 #EXTINF:-1 group-title="Музыкальные", Курай
-http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+https://bsttv.bonus-tv.ru/cdn/kurai/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Майдан (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 #EXTINF:-1 group-title="Музыкальные", Матур (Татарстан/Башкортостан)
@@ -159,7 +159,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVS Music
 http://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Ля-минор
-http://s8.rafail1982.uz/1238/index.m3u8
+https://stream8.cinerama.uz/1238/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Company
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
 #EXTINF:-1 group-title="Музыкальные", Super Six
