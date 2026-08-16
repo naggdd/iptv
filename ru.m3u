@@ -1088,9 +1088,9 @@ https://cdn.ntv.ru/unknown_russia/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
 http://31148.rafail1982.uz/Zhivaya_Planeta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета (2)
-https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1250/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
-https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1411/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ Право
@@ -1421,8 +1421,12 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
 https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", РГВК Дагестан (2) | Махачкала
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", Девятка (Киров)
+#EXTINF:-1 group-title="Региональные", Девятка | Киров
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Девятка (2) | Киров
+https://devyatka.iptv2022.com/index.m3u8
+#EXTINF:-1 group-title="Региональные", Первый городской | Киров
+http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Дзержинск
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Дон 24 | Ростов-на-Дону
@@ -1569,8 +1573,6 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Городской телеканал (2) | Ярославская область
 https://gtk.tv/hls/gtyar.m3u8
-#EXTINF:-1 group-title="Региональные", Первый городской (Киров)
-http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Первый городской (Омск)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Первый областной (Орловская область)
