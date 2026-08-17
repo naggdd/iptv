@@ -16,8 +16,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ HD
-http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ (2)
+https://cdn.ntv.ru/ntv-msk_hd/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ (3)
+https://cdn.ntv.ru/ntv0/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/pyatiy.png", Пятый
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_k.png", Россия К
@@ -65,7 +67,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир (2)
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир (3)
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир (4)
+https://stream8.cinerama.uz/1218/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ (2)
@@ -113,14 +117,20 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ (+1)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ +1
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ (+2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ +1 (2)
+https://cdn.ntv.ru/ntv4/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ (+4)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ +2 (2)
+https://cdn.ntv.ru/ntv2/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ (+7)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ +7 (2)
+https://cdn.ntv.ru/ntv7/index.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/pyatiy.png", Пятый (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
@@ -217,6 +227,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир 24 (2)
 https://uiptv.do.am/1ufc/112234126/playlist.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир 24 (3)
+https://stream8.cinerama.uz/1219/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/mir.png", Мир International
+https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
@@ -1126,7 +1140,7 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
 http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета (2)
-https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1247/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure (2)
@@ -1521,12 +1535,16 @@ https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", К16 Саров (Нижегородская область)
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", НТМ (Мордовия)
-http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Мордовия 24 (Саранск)
+#EXTINF:-1 group-title="Региональные", НТМ | Мордовия
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:-1 group-title="Региональные", НТМ (2) | Мордовия
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Мордовия 24 | Мордовия
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", Ника (Калужская область)
+#EXTINF:-1 group-title="Региональные", Ника | Калужская область
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Ника (2) | Калужская область
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Новгородское областное телевидение (Новгородская область)
 http://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Новое время (Радужный)
@@ -1797,6 +1815,8 @@ https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 https://stream8.cinerama.uz/1488/index.m3u8
 #EXTINF:-1 group-title="Региональные", Хабар 24 | Казахстан
 https://stream8.cinerama.uz/1408/index.m3u8
+#EXTINF:-1 group-title="Региональные", Новое | Казахстан
+https://serv25.vintera.tv/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Таврия (Херсонская область)
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 group-title="Региональные", За! (Запорожская область)
