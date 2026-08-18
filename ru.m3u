@@ -8,8 +8,10 @@ http://dmi3y-tv.online/hls/DVB-T2/CH_1TV.m3u8
 https://serv30.vintera.tv/restream/1_old/playlist.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 HD
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (2)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (3)
+https://stream8.cinerama.uz/1020/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч! (2)
@@ -96,26 +98,36 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/perviy.png", Первый (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (-1)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 -1
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (+1)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +1 (2)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (+2)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +2
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +2 (2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (+3)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +3
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +3 (2)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (+4)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +4 (2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (+5)
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +5
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +5 (2)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (+6)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (+7)
-http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (+8)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (+9)
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +6
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +7
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 +9
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ +1
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
@@ -169,7 +181,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ren_tv.png", РЕН ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ren_tv.png", РЕН ТВ International
-http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+http://178.134.1.158:8081/RENTV/index.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/spas.png", Спас (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
@@ -435,7 +447,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 #EXTINF:-1 group-title="Информационные", РБК
-http://online.video.rbc.ru/online/rbctv.m3u8
+https://online.video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1 group-title="Информационные", РБК (2)
+http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="Информационные", Планета РТР (Planeta RTR)
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 group-title="Информационные", ОСН
@@ -471,6 +485,8 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m
 #EXTINF:-1 group-title="Информационные", Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", РЖД
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Информационные", РЖД (2)
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
@@ -748,6 +764,8 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 https://cdn.ntv.ru/th_serial/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Ретро
 http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Ретро (2)
+https://stream8.cinerama.uz/1047/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Star Cinema
@@ -778,6 +796,8 @@ https://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Родное кино (2)
 http://31.148.48.15/Rodnoe_kino/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Родное кино (3)
+http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Наше новое кино
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
@@ -1317,10 +1337,22 @@ https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 6 ТВ (Хабаровск)
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:-1 group-title="Региональные", 7 канал (Красноярск)
+#EXTINF:-1 group-title="Региональные", 7 канал | Красноярск
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные", 8 канал (Красноярск)
+#EXTINF:-1 group-title="Региональные", 8 канал | Красноярск
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Енисей | Красноярск
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Енисей (2) | Красноярск
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+#EXTINF:-1 group-title="Региональные", ТВК | Красноярск
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
+#EXTINF:-1 group-title="Региональные", ТВК (2) | Красноярск
+http://air.tvk6.ru/tvk/index.m3u8
+#EXTINF:-1 group-title="Региональные", Прима | Красноярск
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Прима (2) | Красноярск
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 group-title="Региональные", TMTV (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", TV Губерния | Воронеж
@@ -1481,10 +1513,6 @@ https://rost.mediacdn.ru/cdn/rostov1/tracks-v2a1/mono.m3u8
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 group-title="Региональные", Евразия (2) | Орск
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Енисей | Красноярск
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", Енисей (2) | Красноярск
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Ивановское общественное телевидение (Иваново)
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Известия Воронеж
@@ -1617,8 +1645,6 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3
 https://gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 group-title="Региональные", Первый областной (Орловская область)
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Прима (Красноярск)
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Про жизнь | Кемеровская область
 https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Про жизнь (2) | Кемеровская область
@@ -1677,10 +1703,6 @@ http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=lbRb3zr0EFJczX70hVvgfw&e=2070623508&scheme=https
 #EXTINF:-1 group-title="Региональные", ТВ-ИН (Магнитогорск)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1 group-title="Региональные", ТВК | Красноярск
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", ТВК (2) | Красноярск
-http://air.tvk6.ru/tvk/index.m3u8
 #EXTINF:-1 group-title="Региональные", Вариант | Владимир
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Вариант (2) | Владимир
@@ -1821,6 +1843,8 @@ https://stream8.cinerama.uz/1488/index.m3u8
 https://stream8.cinerama.uz/1408/index.m3u8
 #EXTINF:-1 group-title="Региональные", Новое | Казахстан
 https://serv25.vintera.tv/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Рика | Казахстан
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Таврия (Херсонская область)
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 group-title="Региональные", За! (Запорожская область)
