@@ -529,6 +529,8 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Детские", Маша и Медведь
 https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://freaktv.ru/logo.png" arc-time="12" catchup="dvr" catchup-days="1",Фрик TV
+https://live.freaktv.ru/720p?dvr=1
 #EXTINF:-1 group-title="Детские", Мультфильмы
 https://lbgo.bozztv.com/07/ushba80/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
