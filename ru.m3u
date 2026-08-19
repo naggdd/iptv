@@ -572,7 +572,7 @@ http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/20009/index.m3u8
 #EXTINF:-1 group-title="Детские", NikNik
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1407/index.m3u8
 #EXTINF:-1 group-title="Детские", О!
 http://37.186.70.39:40/play/100/index.m3u8
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
@@ -680,7 +680,7 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлекательные", КВН
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Развлекательные", Сарафан
-https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1249/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Теледом
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Развлекательные", Тео-ТВ
@@ -1291,6 +1291,8 @@ https://ngtrk.dc.beltelecom.by/vtv/vitebsk.stream/index.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy/index.m3u8
 #EXTINF:-1 group-title="Региональные", СТВ | Беларусь
 https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/index.m3u8
+#EXTINF:-1 group-title="Региональные", СТВ (2) | Беларусь
+http://86.57.147.236/HLS/ctvby/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Региональные", Миллет (Крым)
@@ -1695,8 +1697,12 @@ http://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Санкт-Петербург (2)
 https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Санкт-Петербург (3)
+https://edge-ekat1.teletarget.ru/stream/msk/tvspb/index.m3u8
 #EXTINF:-1 group-title="Региональные", Саратов 24
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Саратов 24 (2)
+http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Свое (Березники)
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Сейм (Курск)
@@ -1735,6 +1741,8 @@ http://s45177.cdn.ngenix.net/hls/CH_R03_TAMYRTV/variant.m3u8
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
 #EXTINF:-1 group-title="Региональные", С1 | Сургут
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="Региональные", С1 (2) | Сургут
+https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 group-title="Региональные", Сургут 24 | Сургут
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", С86 | Сургут
