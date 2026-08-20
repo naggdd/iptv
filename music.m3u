@@ -93,7 +93,7 @@ https://lifecam.sigma-ktv.ru/ctv/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Сигма КТВ| ЯНАО
 https://lifecam.sigma-ktv.ru/eshche/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", DanceHits80
