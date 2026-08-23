@@ -1166,7 +1166,7 @@ http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс (2)
 https://stitch.teletarget.ru/api/v1/hls/504/135/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Первый космический
-https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1415/index.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 https://stream8.cinerama.uz/1404/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней
@@ -1186,7 +1186,7 @@ http://31148.rafail1982.uz/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Pro
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка Отрыва
-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1031/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Da Vinci
 http://158.101.222.193:88/georgia_play.php?id=davinci
 #EXTINF:-1 group-title="Познавательные", Da Vinci (2)
@@ -1196,7 +1196,7 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Оружие
 http://158.101.222.193:88/georgia_play.php?id=oruzhie
 #EXTINF:-1 group-title="Познавательные", Глазами туриста
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1423/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nano (Нано)
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи!
@@ -1212,15 +1212,15 @@ https://stream8.cinerama.uz/1248/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 https://stream8.cinerama.uz/1429/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние Животные
-https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1426/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор
-https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1409/index.m3u8
 #EXTINF:-1 group-title="Познавательные", The explorers
 http://stream.mcquack.net/450/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Ратник
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2119/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи активно
-https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1405/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Полет
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Про бизнес
@@ -1241,7 +1241,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Бог Благ
-https://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.m3u8
+https://glorystarplus.tv/BogBlagTV/index.m3u8
 #EXTINF:-1 group-title="Религиозные", Хузур
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Религиозные", Вера 24
@@ -1352,7 +1352,7 @@ http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_TVGUBERNIYA/variant.m3u8
 #EXTINF:-1 group-title="Региональные", TV Губерния (2) | Воронеж
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
 #EXTINF:-1 group-title="Региональные", TV Губерния (3) | Воронеж
-https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1 group-title="Региональные", Урал 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", АСТВ | Южно-Сахалинск
@@ -1510,7 +1510,7 @@ https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Дон 24 (3) | Ростов-на-Дону
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
 #EXTINF:-1 group-title="Региональные", Первый Ростовский (Ростов-на-Дону)
-https://rost.mediacdn.ru/cdn/rostov1/tracks-v2a1/mono.m3u8
+https://rost.mediacdn.ru/cdn/rostov1/index.m3u8
 #EXTINF:-1 group-title="Региональные", Евразия | Орск
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 group-title="Региональные", Евразия (2) | Орск
