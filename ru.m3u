@@ -620,8 +620,6 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 https://stream8.cinerama.uz/1263/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Setanta Sports 2
 https://stream8.cinerama.uz/1264/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Астрахань Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", A21 Network
 https://tv.a21network.ru/content/37909/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Старт Баскет
@@ -1395,18 +1393,22 @@ https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Региональные", Архыз 24 (3) | Карачаево-Черкесия
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Архыз 24 Light (Карачаево-Черкесия)
+#EXTINF:-1 group-title="Региональные", Архыз 24 Light | Карачаево-Черкесия
 http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Astrakhan.RU | Астрахань
 https://streaming.astrakhan.ru/astrakhanrulivehd/index.m3u8
+#EXTINF:-1 group-title="Региональные", Astrakhan.RU Sport | Астрахань
+https://streaming.astrakhan.ru/astrakhanrusporthd/index.m3u8
 #EXTINF:-1 group-title="Региональные", Астрахань 24 | Астрахань
 https://streaming.astrakhan.ru/astrakhan24/index.m3u8
 #EXTINF:-1 group-title="Региональные", Астрахань 24 (2) | Астрахань
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Телплюс | Астрахань
-https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1 group-title="Региональные", Культ Мудиа | Астрахань
+#EXTINF:-1 group-title="Региональные", Культ Медиа | Астрахань
+https://streaming.astrakhan.ru/telplushd/index.m3u8
+#EXTINF:-1 group-title="Региональные", Культ Медиа (2) | Астрахань
 http://213.108.175.226/telplushd/index.m3u8
+#EXTINF:-1 group-title="Региональные", Продвижение | Астрахань
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", БСТ 24 | Братск
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", БСТ 24 (2) | Братск
@@ -1647,7 +1649,7 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Городской телеканал (2) | Ярославская область
 https://gtk.tv/hls/gtyar.m3u8
-#EXTINF:-1 group-title="Региональные", Первый областной (Орловская область)
+#EXTINF:-1 group-title="Региональные", Первый областной | Орловская область
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Про жизнь | Кемеровская область
 https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
@@ -1655,8 +1657,6 @@ https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
 https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные", Кузбасс Первый | Кемеровская область
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Продвижение (Астрахань)
-http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", РИМ (Каменск-Уральский)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
 #EXTINF:-1 group-title="Региональные", РТК Забайкалье (Забайкальский край)
