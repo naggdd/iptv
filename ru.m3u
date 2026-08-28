@@ -1491,10 +1491,12 @@ https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 450 (Губерния) | Самара
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные", РГВК Дагестан | Махачкала
-https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные", РГВК Дагестан (2) | Махачкала
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", РГВК | Дагестан
+https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_DAGESTAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные", РГВК (2) | Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/index.m3u8
+#EXTINF:-1 group-title="Региональные", Среда | Дагестан
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https
 #EXTINF:-1 group-title="Региональные", Девятка | Киров
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Девятка (2) | Киров
@@ -1607,6 +1609,8 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", РИМ | Свердловская область
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Эхо 24 | Свердловская область
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1 group-title="Региональные", ОТВ Приморье | Приморский край
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ОТВ Приморье (2) | Приморский край
@@ -1627,6 +1631,8 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/varian
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Область 45 | Курганcкая область
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Инфо 24 | Курганcкая областьы
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Осетия Ирыстон | Владикавказ
 https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Осетия Ирыстон (2) | Владикавказ
@@ -1859,12 +1865,6 @@ https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 http://62.76.73.38/hls/stream.m3u8
 #EXTINF:-1 group-title="Региональные", ПТВ (Первоуральск)
 https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=RqQza13Ro4UeKu7IwmQbHA&e=2070623502&scheme=https
-#EXTINF:-1 group-title="Региональные", Среда (Каспийск)
-https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https
-#EXTINF:-1 group-title="Региональные", Эхо 24 (Новоуральск)
-http://stream.novouralsk-news.ru/echotv24/live.m3u8
-#EXTINF:-1 group-title="Региональные", Инфо 24 (Шадринск)
-https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ОшТВ | Кыргызстан
 http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 group-title="Региональные", TV1 KG| Кыргызстан
