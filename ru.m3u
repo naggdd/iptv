@@ -1411,12 +1411,10 @@ https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", БСТ 24 (2) | Братск
 https://bst.bratsk.ru/hls/bst2/index.m3u8
-#EXTINF:-1 group-title="Региональные", Башкортостан 24
+#EXTINF:-1 group-title="Региональные", Башкортостан 24 | Башкортостан
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Башкортостан 24 (2)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные", Арис 24 | Башкортостан
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+https://serv25.vintera.tv/test/aris/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Арис 24 (2) | Башкортостан
 https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=92J55630qJZPz9iiIJZpVw&e=2076071194&scheme=https
 #EXTINF:-1 group-title="Региональные", БСТ | Башкортостан
@@ -1424,7 +1422,7 @@ https://bsttv.bonus-tv.ru/cdn/bst/index.m3u8
 #EXTINF:-1 group-title="Региональные", БСТ (2) | Башкортостан
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Салям | Башкортостан
-http://s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
+https://s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Салям (2) | Башкортостан
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Тамыр | Башкортостан
@@ -1432,9 +1430,9 @@ https://s45177.cdn.ngenix.net/hls/CH_R03_TAMYRTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Тамыр (2) | Башкортостан
 https://bsttv.bonus-tv.ru/cdn/tamyr/index.m3u8
 #EXTINF:-1 group-title="Региональные", Туган Тел | Башкортостан
-http://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
+https://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Next | Башкортостан
-http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
+https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Брянская Губерния | Брянск
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 #EXTINF:-1 group-title="Региональные", Брянская Губерния (2) | Брянск
@@ -1493,8 +1491,6 @@ https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 https://devyatka.iptv2022.com/index.m3u8
 #EXTINF:-1 group-title="Региональные", Первый городской | Киров
 http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Дзержинск
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Дон 24 | Ростов-на-Дону
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Дон 24 (2) | Ростов-на-Дону
@@ -1509,8 +1505,6 @@ https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_IOT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Барс | Иваново
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_BARS/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Импульс Севера (Новый Уренгой)
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 1 КБР | Нальчик
 https://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_KBR/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Камчатка 1 | Камчатский край
@@ -1564,7 +1558,9 @@ https://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", ННТВ | Нижегородская область
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", К16 Саров | Нижегородская область
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+https://serv25.vintera.tv/test/k16/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Дзержинск | Нижегородская область
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 #EXTINF:-1 group-title="Региональные", НТМ | Мордовия
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
 #EXTINF:-1 group-title="Региональные", НТМ (2) | Мордовия
@@ -1689,9 +1685,9 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Санкт-Петербург (3)
 https://edge-ekat1.teletarget.ru/stream/msk/tvspb/index.m3u8
-#EXTINF:-1 group-title="Региональные", Саратов 24
+#EXTINF:-1 group-title="Региональные", Саратов 24 | Саратовская область
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Саратов 24 (2)
+#EXTINF:-1 group-title="Региональные", Саратов 24 (2) | Саратовская область
 http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", ТВ7 | Хакасия
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
@@ -1811,14 +1807,16 @@ https://utv.iptv2022.com/index.m3u8
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Юрган | Коми
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Ямал 1 | ЯНАО
+#EXTINF:-1 group-title="Региональные", Ямал 1 | Ямало-Ненецкий АО
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Ямал | ЯНАО
+#EXTINF:-1 group-title="Региональные", Ямал | Ямало-Ненецкий АО
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Муравленко 24 | ЯНАО
+#EXTINF:-1 group-title="Региональные", Муравленко 24 | Ямало-Ненецкий АО
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Вестник Надыма | ЯНАО
+#EXTINF:-1 group-title="Региональные", Вестник Надыма | Ямало-Ненецкий АО
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VESTN_URAL_NAD/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Импульс Севера | Ямало-Ненецкий АО
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Алмазный край
 https://s34351.cdn.ngenix.net/hls/CH_R14_ALMAZNYJKRAJHD/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Алмазный край (2)
