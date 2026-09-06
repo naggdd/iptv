@@ -1381,6 +1381,8 @@ https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_AKTIS/variant.m3u8
 http://5.183.155.8:88/stream.m3u8
 #EXTINF:-1 group-title="Региональные", АОТВ | Амурская область
 https://s84942.cdn.ngenix.net/hls/CH_R28_AOT/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Город 24 | Амурская область
+https://s84942.cdn.ngenix.net/hls/CH_R28_GOROD24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Арктик | Мурманск
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ТВ-21+ | Мурманск
@@ -1433,6 +1435,8 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/index.m3u8
 https://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Next | Башкортостан
 https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Вся Уфа | Башкортостан
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=eKlI_aa8PX3A-krCbqLsRA&e=2070623504&scheme=https
 #EXTINF:-1 group-title="Региональные", Брянская Губерния | Брянск
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 #EXTINF:-1 group-title="Региональные", Брянская Губерния (2) | Брянск
@@ -1555,6 +1559,10 @@ https://s34351.cdn.ngenix.net/hls/CH_R03_NVC_OTT/variant.m3u8
 https://s34351.cdn.ngenix.net/hls/CH_R14_YKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Якутия 24 (2) | Якутия
 https://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Алмазный край | Якутия
+https://s34351.cdn.ngenix.net/hls/CH_R14_ALMAZNYJKRAJHD/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Алмазный край (2) | Якутия
+https://stream.almaz-media.tv/hls/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", ННТВ | Нижегородская область
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные", К16 Саров | Нижегородская область
@@ -1699,6 +1707,8 @@ https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_RTS/variant.m3u8
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Губерния 33 | Владимирская область
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA33/variant.m3u8
+#EXTINF:-1 group-title="Региональные", Муром | Владимирская область
+http://62.76.73.38/hls/stream.m3u8
 #EXTINF:-1 group-title="Региональные", ТКР | Рязань
 https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_TKP/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ТКР (2) | Рязань
@@ -1817,11 +1827,7 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VESTN_URAL_NAD/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Импульс Севера | Ямало-Ненецкий АО
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Алмазный край
-https://s34351.cdn.ngenix.net/hls/CH_R14_ALMAZNYJKRAJHD/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Алмазный край (2)
-https://stream.almaz-media.tv:8080/hls/720.m3u8
-#EXTINF:-1 group-title="Региональные", НТРК Ингушетия
+#EXTINF:-1 group-title="Региональные", НТРК Магас | Ингушетия
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", МТРК | Казахстан
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
@@ -1841,14 +1847,8 @@ https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 group-title="Региональные", За! | Запорожская область
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1 group-title="Региональные", Вся Уфа
-https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=eKlI_aa8PX3A-krCbqLsRA&e=2070623504&scheme=https
-#EXTINF:-1 group-title="Региональные", Город 24
-http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_GOROD24/variant.m3u8
-#EXTINF:-1 group-title="Региональные", Грозный
+#EXTINF:-1 group-title="Региональные", Грозный | Чеченская республика
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 group-title="Региональные", Муром
-http://62.76.73.38/hls/stream.m3u8
 #EXTINF:-1 group-title="Региональные", ОшТВ | Кыргызстан
 http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 group-title="Региональные", TV1 KG | Кыргызстан
