@@ -312,12 +312,14 @@ http://31148.rafail1982.uz/Russkiy_Detektiv/index.m3u8
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery (2)
 https://stream8.cinerama.uz/1039/index.m3u8
+#EXTINF:-1 group-title="Популярные", Investigation Discovery
+http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/2x2.png", 2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/2x2.png", 2x2 (2)
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/2x2.png", 2x2 (3)
-http://31.148.48.15/2x2/index.m3u8
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/solnce.png", Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/solnce.png", Солнце (2)
@@ -536,7 +538,7 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
 https://stream8.cinerama.uz/1407/index.m3u8
 #EXTINF:-1 group-title="Детские", О!
-http://37.186.70.39:40/play/100/index.m3u8
+https://fs.uplink.kz/o/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
@@ -671,17 +673,11 @@ https://stream8.cinerama.uz/1416/index.m3u8
 https://cdn-01.bonus-tv.ru/tvm_edge/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .black
-http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 group-title="Кино и сериалы", .black (2)
-https://s70378.cdn.ngenix.net/sony_turbo/index.m3u8
+http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .Red
-http://158.101.222.193:88/georgia_play.php?id=red
-#EXTINF:-1 group-title="Кино и сериалы", .Red (2)
-https://s70378.cdn.ngenix.net/sony_channel/index.m3u8
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi
-http://158.101.222.193:88/georgia_play.php?id=scifi
-#EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi (2)
-https://s70378.cdn.ngenix.net/sony_sci_fi/index.m3u8
+http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинеко
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинеко (2)
@@ -709,11 +705,7 @@ http://31148.rafail1982.uz/A1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2
 http://31148.rafail1982.uz/A2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
-#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit (2)
-http://tinyurl.com/TvZaTak65?id=amediahit
-#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit (3)
-http://37.186.70.39:40/play/54/index.m3u8
+http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium (2)
@@ -820,6 +812,12 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://185.221.213.254:8080/Mafia2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Dunyo bo'ylab
 https://stream8.cinerama.uz/1006/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", 312
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Хит
+http://stream.mcquack.net/363/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
@@ -1119,6 +1117,8 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8
 http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета (2)
 https://stream8.cinerama.uz/1247/index.m3u8
+#EXTINF:-1 group-title="Познавательные", One Planet
+http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure (2)
@@ -1138,7 +1138,7 @@ https://stream8.cinerama.uz/1415/index.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных
 https://stream8.cinerama.uz/1404/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней
-http://31.148.48.15/365_dney/index.m3u8
+http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней (2)
 https://stream8.cinerama.uz/1242/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кухня
@@ -1803,6 +1803,8 @@ https://stream8.cinerama.uz/1408/index.m3u8
 https://serv25.vintera.tv/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Рика | Казахстан
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Almaty | Казахстан
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Региональные", Таврия | Херсонская область
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 group-title="Региональные", За! | Запорожская область
