@@ -29,11 +29,11 @@ https://tv.streams.baikal-telecom.net/RT_DOC/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Classic
 http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Deluxe
-http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
+http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Hits
-http://31148.rafail1982.uz/Bridge_TV_Dance/index.m3u8
-#EXTINF:-1 group-title="Музыкальные", Bridge Hits (2)
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Русский хит
+http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Танцуй!
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/14023/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Vevo Retro Rock
