@@ -30,6 +30,8 @@ https://tv.streams.baikal-telecom.net/RT_DOC/index.m3u8
 http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Deluxe
 http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Deluxe (2)
+http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge Русский хит
@@ -80,6 +82,8 @@ https://tntm.mediacdn.ru/cdn/tntmusic/index.m3u8
 https://cdn-01.bonus-tv.ru/tntmusic/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", 15+ Music
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+#EXTINF:-1 group-title="Музыкальные", 1HD Music
+http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Жар Птица
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
 #EXTINF:-1 group-title="Музыкальные", Курай
@@ -104,6 +108,8 @@ http://stream.mcquack.net/386/index.m3u8
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", О!2 (2)
 http://31.148.48.15/O2_HD/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка Live
+https://stream8.cinerama.uz/1238/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Туган Тел
 https://stream8.cinerama.uz/1261/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVM3
@@ -158,8 +164,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVS Music
 http://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
-#EXTINF:-1 group-title="Музыкальные", Ля-минор
-https://stream8.cinerama.uz/1238/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Company
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
 #EXTINF:-1 group-title="Музыкальные", Super Six
