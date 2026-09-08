@@ -8,6 +8,8 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", VIVA TV Russia
 https://s.catcast.tv/content/39575/index.m3u8?token=f71a681c1f07a34aa8dc4d869e6bfcd5
+#EXTINF:-1 group-title="Музыкальные", Russian MusicBox
+http://stream.mcquack.net/319/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", TMF RUS
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Classic Music
