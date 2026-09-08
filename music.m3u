@@ -11,13 +11,15 @@ https://s.catcast.tv/content/39575/index.m3u8?token=f71a681c1f07a34aa8dc4d869e6b
 #EXTINF:-1 group-title="Музыкальные", TMF RUS
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Classic Music
-https://cityeden.catcast.tv/content/47400/index.m3u8
+http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Meditation Music
 https://cityeden.catcast.tv/content/47410/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Бирма Play
 https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка Первого
 https://stream8.cinerama.uz/1201/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка Первого (2)
+http://stream.mcquack.net/153/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Первый музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные", Retro Music
@@ -110,6 +112,8 @@ http://77.232.131.211/O2TV/index.m3u8
 http://31.148.48.15/O2_HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка Live
 https://stream8.cinerama.uz/1238/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка Live (2)
+http://stream.mcquack.net/303/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Туган Тел
 https://stream8.cinerama.uz/1261/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", TVM3
@@ -258,6 +262,8 @@ https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8
 #EXTINF:-1 group-title="Музыкальные", Galaxy
 https://livestream.galaxytv.ug/jikonkone/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Makon
+https://stream8.cinerama.uz/1497/index.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
