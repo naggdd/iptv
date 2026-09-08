@@ -12,6 +12,8 @@ https://stream8.cinerama.uz/1020/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч! (2)
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/match.png", Матч! (3)
+http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/ntv.png", НТВ (2)
@@ -57,11 +59,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (2)
+http://stream.mcquack.net/227/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (3)
 https://stream8.cinerama.uz/1436/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/pyatnica.png", Пятница (2)
+http://stream.mcquack.net/181/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/zvezda.png", Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/zvezda.png", Звезда (2)
@@ -253,9 +259,9 @@ https://streaming.televizor-24-tochka.ru/live/43.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино (2)
-https://fs.uplink.kz/dom_kino/index.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино (3)
 https://stream8.cinerama.uz/1054/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_kino.png", Дом Кино (3)
+http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_premium.png", Дом Кино Премиум
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/dom_premium.png", Дом Кино Премиум (2)
@@ -514,6 +520,8 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Союзный (2)
 http://radio.tvs.by/TRO/index.m3u8
+#EXTINF:-1 group-title="Информационные", Ost West 24
+http://stream.mcquack.net/455/index.m3u8
 
 #EXTINF:-1 group-title="Детские", Маша и Медведь
 https://lbgo.bozztv.com/07/ushba79/index.m3u8
@@ -525,6 +533,8 @@ http://stream.mcquack.net/197/index.m3u8
 http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама
 https://stream8.cinerama.uz/1244/index.m3u8
+#EXTINF:-1 group-title="Детские", Мама (2)
+http://stream.mcquack.net/79/index.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time
 http://109.248.236.51/baby_time/index.m3u8
 #EXTINF:-1 group-title="Детские", Ducktv
@@ -566,7 +576,7 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
 https://stream8.cinerama.uz/1407/index.m3u8
 #EXTINF:-1 group-title="Детские", О!
-https://fs.uplink.kz/o/index.m3u8?token=onlinetv
+http://stream.mcquack.net/60/index.m3u8
 #EXTINF:-1 group-title="Детские", Союзмультфильмы
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские", Тооку
@@ -607,7 +617,11 @@ http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Премьер
 http://stream.mcquack.net/193/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Окко Спорт
-http://185.221.213.254:8080/Okko/index.m3u8
+http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Окко Футбол
+http://stream.mcquack.net/491/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Окко Прайм Спорт
+http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Бокс
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спортивные", Бокс (2)
@@ -736,6 +750,8 @@ http://stream.mcquack.net/129/index.m3u8
 http://31.210.208.171:8080/kineko/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино и сериалы", Дорама
 https://stream8.cinerama.uz/1273/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Дорама (2)
+http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
@@ -764,6 +780,8 @@ http://195.189.60.253/118/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Кино и сериалы", НТВ Сериал
 https://cdn.ntv.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", НТВ Сериал (2)
+http://stream.mcquack.net/301/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Ретро
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Ретро (2)
@@ -774,8 +792,16 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 group-title="Кино и сериалы", Комедия
 http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Комедия (2)
+http://stream.mcquack.net/68/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Комедийное
+http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киноужас
 http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Остросюжетное
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Премиальное
+http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс
 https://stream8.cinerama.uz/1233/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киномикс (2)
@@ -789,9 +815,9 @@ https://stream8.cinerama.uz/1203/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание (3)
 http://stream.mcquack.net/171/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
-#EXTINF:-1 group-title="Кино и сериалы", Киносемья (2)
 https://stream8.cinerama.uz/1234/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Киносемья (2)
+http://stream.mcquack.net/170/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносезон
 https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", КиноМеню
@@ -862,6 +888,20 @@ http://stream.mcquack.net/363/index.m3u8
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Сапфир
 http://77.232.131.211/Sapfir/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Bollywood
+https://stream8.cinerama.uz/1444/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Blokbaster
+http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Душевное
+http://stream.mcquack.net/213/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино 1
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино 2
+http://stream.mcquack.net/465/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Наше
+http://stream.mcquack.net/217/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Наше Мужское
+http://stream.mcquack.net/362/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
@@ -1137,6 +1177,8 @@ http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 https://stream8.cinerama.uz/1414/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения
 https://stream8.cinerama.uz/1420/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Приключения (2)
+http://stream.mcquack.net/198/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
@@ -1153,6 +1195,10 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Открытый мир
 https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Дикая охота
+http://stream.mcquack.net/274/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Дикая рыбалка
+http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Охотник и рыболов
 https://stream8.cinerama.uz/1413/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Охотник и рыболов (2)
@@ -1161,6 +1207,8 @@ http://stream.mcquack.net/194/index.m3u8
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 #EXTINF:-1 group-title="Познавательные", Охота и рыбалка
 https://stream8.cinerama.uz/1038/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Охота и рыбалка (2)
+http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
@@ -1206,7 +1254,7 @@ https://stream8.cinerama.uz/1236/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Кухня (2)
 http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательные", Кухня (3)
-http://31.148.48.15/Kuhnya_TV/index.m3u8
+http://stream.mcquack.net/179/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Kulinar
 https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
@@ -1228,7 +1276,7 @@ https://stream8.cinerama.uz/1423/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста (2)
 http://stream.mcquack.net/304/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Nano (Нано)
-http://s1.tv-nano.com/Nano_rec/video.m3u8
+http://stream.mcquack.net/419/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи!
 https://stream8.cinerama.uz/1419/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи! (2)
@@ -1244,6 +1292,8 @@ https://stream8.cinerama.uz/1429/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние Животные
 https://stream8.cinerama.uz/1426/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор
+https://stream8.cinerama.uz/1409/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Доктор (2)
 http://stream.mcquack.net/80/index.m3u8
 #EXTINF:-1 group-title="Познавательные", The explorers
 http://stream.mcquack.net/450/index.m3u8
@@ -1859,6 +1909,8 @@ https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Региональные", Qazaqstan | Казахстан
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Qazaqstan (2) | Казахстан
+https://stream8.cinerama.uz/1431/index.m3u8
 #EXTINF:-1 group-title="Региональные", JTV | Казахстан
 https://stream8.cinerama.uz/1488/index.m3u8
 #EXTINF:-1 group-title="Региональные", Хабар 24 | Казахстан
