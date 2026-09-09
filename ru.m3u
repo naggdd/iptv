@@ -284,6 +284,8 @@ http://stream.mcquack.net/265/index.m3u8
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_tv1000.png", Viju TV1000 (2)
 https://stream8.cinerama.uz/1058/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_tv1000.png", Viju TV1000 (3)
+http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское (2)
@@ -295,9 +297,9 @@ https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (2)
 https://stream8.cinerama.uz/1225/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (3)
-http://178.134.1.158:8081/tv1000action/index.m3u8
+http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
+http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_history.png", Viju History
@@ -781,13 +783,15 @@ http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://tv.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
-https://s70378.cdn.ngenix.net/vip_premiere/index.m3u8
+http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit
-https://s70378.cdn.ngenix.net/vip_megahit/index.m3u8
+http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy
 https://stream8.cinerama.uz/1061/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Viju+ Comedy (2)
+http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 1
 http://stream.mcquack.net/117/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2
@@ -1169,6 +1173,8 @@ http://31.148.48.15/Terra/index.m3u8
 https://stitch.teletarget.ru/vintera/terra/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 https://stream8.cinerama.uz/1041/index.m3u8
+#EXTINF:-1 group-title="Познавательные", National Geographic (2)
+http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild
 https://stream8.cinerama.uz/1042/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Здоровое
@@ -1216,11 +1222,13 @@ http://stream.mcquack.net/198/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
-http://31148.rafail1982.uz/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Живая Планета (2)
 https://stream8.cinerama.uz/1250/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая Планета (2)
+http://stream.mcquack.net/83/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая природа
 https://stream8.cinerama.uz/1411/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Живая природа (2)
+http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя стихия
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 555 Hunt Fishing TV
@@ -1253,6 +1261,8 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8
 http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета (2)
 https://stream8.cinerama.uz/1247/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju+ Planet
+http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные", One Planet
 http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure
@@ -1323,6 +1333,8 @@ https://stream8.cinerama.uz/1248/index.m3u8
 http://stream.mcquack.net/125/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 https://stream8.cinerama.uz/1429/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Вопросы и ответы (2)
+http://stream.mcquack.net/76/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние Животные
 https://stream8.cinerama.uz/1426/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор
