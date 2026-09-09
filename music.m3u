@@ -24,6 +24,8 @@ https://stream8.cinerama.uz/1201/index.m3u8
 http://stream.mcquack.net/153/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Первый музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Музыкальные", RU.TV Kids
+https://rutvkids.ru/live/efir/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge
@@ -106,6 +108,8 @@ https://lifecam.sigma-ktv.ru/eshche/index.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Шансон ТВ (2)
+http://catchup.videoline.ru/shanson/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Жара
@@ -272,6 +276,12 @@ https://stream8.cinerama.uz/1497/index.m3u8
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Радио Sputnik
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Радио 1
+https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
+#EXTINF:-1 group-title="Музыкальные", Радио Мир
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Радио России
+https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
