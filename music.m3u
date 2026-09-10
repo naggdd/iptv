@@ -107,9 +107,9 @@ https://lifecam.sigma-ktv.ru/eshche/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Шансон ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные", Шансон ТВ (2)
-http://catchup.videoline.ru/shanson/index.m3u8
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Радио Шансон
+https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
 #EXTINF:-1 group-title="Музыкальные", DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Жара
@@ -282,6 +282,8 @@ https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Радио России
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
+#EXTINF:-1 group-title="Музыкальные", Вести FM
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
@@ -497,8 +499,6 @@ https://hls-01-radiorecord.hostingradio.ru/record-gold/playlist.m3u8
 
 #EXTINF:-1 group-title="Радио", Шансон
 https://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:-1 group-title="Радио", Шансон (2)
-https://chanson-video.hostingradio.ru/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 group-title="Радио", Шансон - Без Цензуры
 http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
 #EXTINF:-1 group-title="Радио", Шансон - Романтика
