@@ -4,6 +4,8 @@
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/perviy.png", Первый (2)
 https://serv30.vintera.tv/restream/1_old/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/perviy.png", Первый (3)
+http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/rossiya_1.png", Россия 1 (2)
@@ -193,7 +195,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ren_tv.png", РЕН ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/ren_tv.png", РЕН ТВ International
-http://178.134.1.158:8081/RENTV/index.m3u8
+https://fs.uplink.kz/ren/index.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/spas.png", Спас (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
@@ -309,11 +311,13 @@ https://stream8.cinerama.uz/1059/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_russkoe.png", Viju TV1000 Русское (4)
 http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action
-https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (2)
 https://stream8.cinerama.uz/1225/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (3)
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (2)
 http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (3)
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (4)
+https://fs.uplink.kz/viju_tv1000_action/index.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
@@ -332,6 +336,8 @@ https://stream8.cinerama.uz/1228/index.m3u8
 https://stream8.cinerama.uz/1207/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinopremiera.png", Кинопремьера (2)
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinopremiera.png", Кинопремьера (3)
+https://fs.uplink.kz/kinopremiera_hd/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinohit.png", Кинохит
 https://stream8.cinerama.uz/1055/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinohit.png", Кинохит (2)
@@ -579,6 +585,8 @@ http://stream.mcquack.net/197/index.m3u8
 https://fs.uplink.kz/sts_kids/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Детские", Fan
 http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 group-title="Детские", Fan (2)
+http://t1.tv.kvant-telecom.ru:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детские", Мама
 https://stream8.cinerama.uz/1244/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама (2)
@@ -752,7 +760,7 @@ https://tvoetv.space/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ (2)
 http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ Юмор
-http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Твоё ТВ Юмор (2)
 http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Перец
@@ -824,6 +832,8 @@ https://stream8.cinerama.uz/1273/index.m3u8
 http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 http://176.118.197.101/KinoTvHD/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ (2)
+http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", OVAA
 http://tv.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere
@@ -844,6 +854,8 @@ http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium
 http://stream.mcquack.net/151/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Premium (2)
+https://fs.uplink.kz/amedia_premium_hd/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Kino Comedy
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viasat Epic Drama
@@ -922,6 +934,8 @@ https://stream8.cinerama.uz/1057/index.m3u8
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ (3)
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ (4)
+http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Hollywood
@@ -998,6 +1012,8 @@ http://stream.mcquack.net/152/index.m3u8
 http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Классика Кино
+https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
@@ -1554,7 +1570,7 @@ https://tshift-1.telecoma.tv/enisei/index.m3u8
 #EXTINF:-1 group-title="Региональные", ТВК | Красноярск
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
 #EXTINF:-1 group-title="Региональные", ТВК (2) | Красноярск
-http://air.tvk6.ru/tvk/index.m3u8
+http://air.tvk6.ru/tvk24/index.m3u8
 #EXTINF:-1 group-title="Региональные", Прима | Красноярск
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Прима (2) | Красноярск
@@ -1639,8 +1655,6 @@ https://serv25.vintera.tv/test/aris/playlist.m3u8
 https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=92J55630qJZPz9iiIJZpVw&e=2076071194&scheme=https
 #EXTINF:-1 group-title="Региональные", БСТ | Башкортостан
 https://bsttv.bonus-tv.ru/cdn/bst/index.m3u8
-#EXTINF:-1 group-title="Региональные", БСТ (2) | Башкортостан
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Салям | Башкортостан
 https://s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Салям (2) | Башкортостан
@@ -2000,7 +2014,7 @@ https://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 group-title="Региональные", НТК | Калмыкия
 https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные", 41 | Щелково
-https://stream1.tv41.ru/hls/live.m3u8
+http://stream0.tv41.ru/index.m3u8
 #EXTINF:-1 group-title="Региональные", Экспресс | Пенза
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 #EXTINF:-1 group-title="Региональные", Экспресс (2) | Пенза
