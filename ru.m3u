@@ -693,7 +693,7 @@ http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Боец
 http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра
-http://31.148.48.15/Match_Igra/index.m3u8
+http://185.37.150.38/test/index.m3u88
 #EXTINF:-1 group-title="Спортивные", Матч! Премьер
 http://stream.mcquack.net/193/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Окко Спорт
@@ -1356,7 +1356,7 @@ http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -1498,6 +1498,8 @@ https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
 #EXTINF:-1 group-title="Религиозные", Благая Весть
 http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные", ТБН
+https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные", Беларусь 1 | Беларусь
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/index.m3u8
@@ -1511,6 +1513,8 @@ http://46.56.85.151:8080/0.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/index.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 5 (2) | Беларусь
 http://stream.mcquack.net/33/index.m3u8
+#EXTINF:-1 group-title="Региональные", Беларусь 5 (3) | Беларусь
+http://radio.tvs.by/BT5/index.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 24 | Беларусь
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24/index.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 24 (2) | Беларусь
