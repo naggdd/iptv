@@ -22,6 +22,8 @@ https://stream8.cinerama.uz/1201/index.m3u8
 http://stream.mcquack.net/153/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Первый музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Музыкальные", RU.TV
+https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
 #EXTINF:-1 group-title="Музыкальные", RU.TV Kids
 https://rutvkids.ru/live/efir/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Retro Music
@@ -51,7 +53,7 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Новое Радио
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные", Europa Plus
-http://31.148.48.15/Europa_Plus_HD/index.m3u8
+https://fs.uplink.kz/europa_plus/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Музыкальные", NM Television
 https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Deluxe Music
