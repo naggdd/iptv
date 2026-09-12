@@ -20,6 +20,8 @@ https://cityeden.catcast.tv/content/47410/index.m3u8
 https://stream8.cinerama.uz/1201/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка Первого (2)
 http://stream.mcquack.net/153/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка Первого (3)
+http://iptv.mega.net.ru:8888/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Первый музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные", RU.TV
@@ -114,6 +116,8 @@ https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Жара
 http://stream.mcquack.net/386/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Жара (2)
+https://fs.uplink.kz/zhara/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Музыкальные", О!2
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", О!2 (2)
@@ -290,6 +294,8 @@ https://cityeden.catcast.tv/content/34100/index.m3u8
 https://cityeden.catcast.tv/content/34364/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Сиртаки Play
 https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Vostok Восток
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 
 #EXTINF:-1 group-title="Радио", Авторадио
 http://23.105.238.4/gpm-avtoradio495.aacp
