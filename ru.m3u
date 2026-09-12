@@ -77,7 +77,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (2)
 http://stream.mcquack.net/227/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (3)
-https://stream8.cinerama.uz/1436/index.m3u8
+http://iptv.mega.net.ru:8888/domashniy_hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3 (2)
@@ -105,6 +105,8 @@ http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/tnt.png", ТНТ (3)
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=https
 #EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", Муз ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://naggdd.github.io/iptv/logos/muz_tv.png", Муз ТВ (2)
 https://stream8.cinerama.uz/1200/index.m3u8
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/perviy.png", Первый (-1)
@@ -217,6 +219,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний International
+https://stream8.cinerama.uz/1436/index.m3u8
+#EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/domashniy.png", Домашний International (2)
+https://fs.uplink.kz/domashniy/index.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://naggdd.github.io/iptv/logos/tv3.png", ТВ3 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
@@ -379,13 +385,9 @@ https://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mult.png", Мульт
 https://stream8.cinerama.uz/1246/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mult.png", Мульт (2)
-https://fs.uplink.kz/mult/index.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mult.png", Мульт (3)
-http://194.152.35.17/Mult/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/mult.png", Мульт (4)
-http://t1.tv.kvant-telecom.ru:8080/mult_HD/index.m3u8?token=+W2MSER
+http://iptv.mega.net.ru:8888/Mul_t/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ani.png", Ani
-http://31148.rafail1982.uz/Ani/index.m3u8
+http://t1.tv.kvant-telecom.ru:8080/ani/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/che.png", Че
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/subbota.png", Суббота
@@ -596,7 +598,7 @@ https://lbgo.bozztv.com/07/ushba80/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids
 http://stream.mcquack.net/197/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids (2)
-https://fs.uplink.kz/sts_kids/index.m3u8?token=onlinetv
+http://iptv.mega.net.ru:8888/CTC_Kids/index.m3u8
 #EXTINF:-1 group-title="Детские", Fan
 http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 group-title="Детские", Fan (2)
@@ -605,6 +607,10 @@ http://t1.tv.kvant-telecom.ru:8080/fan/index.m3u8?token=+W2MSER
 https://stream8.cinerama.uz/1244/index.m3u8
 #EXTINF:-1 group-title="Детские", Мама (2)
 http://stream.mcquack.net/79/index.m3u8
+#EXTINF:-1 group-title="Детские", Мама (3)
+http://iptv.mega.net.ru:8888/Mama/index.m3u8
+#EXTINF:-1 group-title="Детские", Детский мир
+http://iptv.mega.net.ru:8888/Detskii_mir/index.m3u8
 #EXTINF:-1 group-title="Детские", Baby Time
 http://109.248.236.51/baby_time/video.m3u8
 #EXTINF:-1 group-title="Детские", Ducktv
@@ -634,15 +640,15 @@ https://shayan.bonus-tv.ru/cdn/shayan/index.m3u8
 #EXTINF:-1 group-title="Детские", Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
-http://31.148.48.15/Multilandiya/index.m3u8
-#EXTINF:-1 group-title="Детские", Мультиландия (2)
 https://stream8.cinerama.uz/1440/index.m3u8
+#EXTINF:-1 group-title="Детские", Мультиландия (2)
+https://fs.uplink.kz/multilandia/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Детские", Мультиландия (3)
 http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
 #EXTINF:-1 group-title="Детские", МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Детские", Мультимузыка
-http://31.148.48.15/Multimuzika/index.m3u8
+http://iptv.mega.net.ru:8888/Mul_timuzika/index.m3u8
 #EXTINF:-1 group-title="Детские", NikNik
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Детские", Рыжий
@@ -736,10 +742,12 @@ http://stream.mcquack.net/235/index.m3u8
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 group-title="Спортивные", A21 Network
 https://tv.a21network.ru/content/37909/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Старт
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8
 #EXTINF:-1 group-title="Спортивные", Старт Баскет
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
 #EXTINF:-1 group-title="Спортивные", Старт Триумф
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8
 #EXTINF:-1 group-title="Спортивные", Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Viju+ Sport
@@ -831,6 +839,8 @@ http://stream.mcquack.net/361/index.m3u8
 https://cdn-01.bonus-tv.ru/tvm_edge/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://stream.mcquack.net/458/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Gagsnetwork (2)
+http://iptv.mega.net.ru:8888/Gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", PV+
 http://stream.mcquack.net/397/index.m3u8
 
