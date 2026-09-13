@@ -426,6 +426,8 @@ https://stream8.cinerama.uz/1202/index.m3u8
 http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/istoriya.png", История
 https://stream8.cinerama.uz/1266/index.m3u8
+#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/istoriya.png", История (2)
+http://iptv.mega.net.ru:8888/Istoria/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/vremya.png", Время
 https://fs.uplink.kz/vremya/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ntv_hit.png", НТВ Хит
@@ -1287,8 +1289,10 @@ https://stream8.cinerama.uz/1430/index.m3u8
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Авто 24 (3)
 http://stream.mcquack.net/78/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Авто 24 (4)
+http://iptv.mega.net.ru:8888/Avto24/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Поехали!
-https://fs.uplink.kz/poehali/index.m3u8?token=onlinetv
+http://iptv.mega.net.ru:8888/Poehali/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24 Т24
 http://158.101.222.193:88/georgia_play.php?id=24techno
 #EXTINF:-1 group-title="Познавательные", Техно 24 Т24 (2)
@@ -1329,6 +1333,8 @@ https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 https://stream8.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Усадьба (2)
 http://stream.mcquack.net/211/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Усадьба (3)
+http://iptv.mega.net.ru:8888/Usad_ba_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Загородная жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Загородный
@@ -1371,6 +1377,8 @@ https://stream8.cinerama.uz/1411/index.m3u8
 http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя стихия
 http://stream.mcquack.net/141/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя стихия (2)
+http://iptv.mega.net.ru:8888/Moya_stihiya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", НТВ Право
@@ -1391,16 +1399,22 @@ https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Qz
 https://stream8.cinerama.uz/1038/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Охота и рыбалка (2)
 http://stream.mcquack.net/155/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Охота и рыбалка (3)
+http://iptv.mega.net.ru:8888/Ohota_i_Ribalka/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке (2)
+http://iptv.mega.net.ru:8888/Dialogi_o_ribalke/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+#EXTINF:-1 group-title="Познавательные", Мужской (2)
+http://iptv.mega.net.ru:8888/Mugskoi/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
 https://stream8.cinerama.uz/1247/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета (2)
-http://91.226.120.120/chid210/index.m3u8
+http://iptv.mega.net.ru:8888/Moa_Planeta/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Viju+ Planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные", One Planet
@@ -1431,6 +1445,8 @@ https://stream8.cinerama.uz/1415/index.m3u8
 https://stream8.cinerama.uz/1404/index.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных (2)
 http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1 group-title="Познавательные", В мире животных (3)
+http://iptv.mega.net.ru:8888/V_MIRE_GIVOTNIH_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 group-title="Познавательные", 365 дней (2)
@@ -1449,6 +1465,8 @@ http://31148.rafail1982.uz/Zoo_TV/index.m3u8
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка Отрыва
 https://stream8.cinerama.uz/1031/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Точка Отрыва (2)
+http://iptv.mega.net.ru:8888/Tochka_otryva/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Da Vinci
 https://stream8.cinerama.uz/1231/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Da Vinci (2)
@@ -1477,16 +1495,22 @@ http://iptv.mega.net.ru:8888/RTG_HD/index.m3u8
 https://stream8.cinerama.uz/1248/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Наука (2)
 http://stream.mcquack.net/125/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Наука (3)
+http://iptv.mega.net.ru:8888/Nauka_2_0/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы
 https://stream8.cinerama.uz/1429/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Вопросы и ответы (2)
 http://stream.mcquack.net/76/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние Животные
 https://stream8.cinerama.uz/1426/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Домашние Животные (2)
+http://iptv.mega.net.ru:8888/Domasnie_givotnie/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор
 https://stream8.cinerama.uz/1409/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор (2)
 http://stream.mcquack.net/80/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Доктор (3)
+http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 group-title="Познавательные", The explorers
 http://stream.mcquack.net/450/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи активно
