@@ -719,7 +719,7 @@ http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Боец
 http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра
-http://185.37.150.38/test/index.m3u88
+http://stream.mcquack.net/188/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Премьер
 http://stream.mcquack.net/193/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Окко Спорт
@@ -1408,6 +1408,8 @@ https://cdn.ntv.ru/th_pravo/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Открытый мир
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Дикая охота
+https://stream8.cinerama.uz/1412/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Дикая охота (2)
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Дикая рыбалка
 http://stream.mcquack.net/275/index.m3u8
@@ -1431,6 +1433,8 @@ http://iptv.mega.net.ru:8888/Dialogi_o_ribalke/index.m3u8
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской (2)
 http://iptv.mega.net.ru:8888/Mugskoi/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Мужской (3)
+http://89.33.29.115:8080/Muzhskoy/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
@@ -2217,6 +2221,8 @@ https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Региональные", QazSport | Казахстан
 http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 group-title="Региональные", QazSport (2) | Казахстан
+https://fs.uplink.kz/qazsport_hd/index.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Региональные", Таврия | Херсонская область
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 group-title="Региональные", За! | Запорожская область
