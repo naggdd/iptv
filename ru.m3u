@@ -367,13 +367,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/kinoseria.png", Киносерия (3)
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман
-http://31148.rafail1982.uz/Russkiy_Roman/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман (2)
-http://31148.rafail1982.uz/Russkiy_Roman_HD/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман (3)
-https://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_roman.png", Русский роман (4)
-http://t1.tv.kvant-telecom.ru:8080/russian_roman/index.m3u8?token=+W2MSER
+https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/ru_detectiv.png", Русский детектив
 http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://naggdd.github.io/iptv/logos/discovery.png", Discovery
@@ -532,6 +526,8 @@ http://t1.tv.kvant-telecom.ru:8080/rbk/index.m3u8?token=+W2MSER
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 group-title="Информационные", Планета РТР (Planeta RTR)
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:-1 group-title="Информационные", RTVI
+http://89.33.29.115:8080/RTVi/index.m3u8
 #EXTINF:-1 group-title="Информационные", ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", ЛДПР ТВ
@@ -683,8 +679,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Уникум
 https://stream8.cinerama.uz/1033/index.m3u8
-#EXTINF:-1 group-title="Детские", Уникум (2)
-http://31148.rafail1982.uz/Detskiy/index.m3u8
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 https://stream8.cinerama.uz/1270/index.m3u8
 #EXTINF:-1 group-title="Детские", Tiji
@@ -777,7 +771,7 @@ http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA (2)
-http://31.148.48.15/M1_Global/index.m3u8
+http://89.33.29.115:8080/M1_Global/index.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA (3)
 https://stream8.cinerama.uz/1226/index.m3u8
 #EXTINF:-1 group-title="Спортивные", КХЛ KHL 
@@ -795,8 +789,6 @@ https://stream8.cinerama.uz/1274/index.m3u8
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Продвижение (2)
 https://prodvizhenie.mediacdn.ru/cdn/prodvizhenie/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные", Театр
-http://31.148.48.15/Sochi_HD/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ностальгия
 http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ностальгия (2)
@@ -815,6 +807,8 @@ https://fs.uplink.kz/perec/index.m3u8?token=onlinetv
 http://stream.mcquack.net/121/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC
 http://stream.mcquack.net/168/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", TLC (2)
+http://89.33.29.115:8080/TLC_HD/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", КВН
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Развлекательные", Сарафан
@@ -1088,6 +1082,8 @@ http://stream.mcquack.net/362/index.m3u8
 http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Арт
 http://89.104.114.24:8080/art/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Арт (2)
+http://185.23.80.23:8080/ART/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Классика Кино
@@ -1096,6 +1092,8 @@ https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы", Plan B
 http://iptv.mega.net.ru:8888/plan_b_hd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", KinoLiving
+http://stream.mcquack.net/445/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
@@ -1436,7 +1434,7 @@ http://iptv.mega.net.ru:8888/Mugskoi/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Мужской (3)
 http://89.33.29.115:8080/Muzhskoy/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
-http://31.148.48.15/Teleputeshestviya/index.m3u8
+http://89.33.29.115:8080/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета
 https://stream8.cinerama.uz/1247/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Моя планета (2)
@@ -1456,11 +1454,9 @@ http://stream.mcquack.net/231/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel XP
 http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-http://31.148.48.15/Animal_Planet_HD/index.m3u8
+https://stream8.cinerama.uz/1043/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Animal Planet (2)
-http://46.32.176.50/animalplanet/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Animal Planet (3)
-http://37.186.70.39:40/play/113/index.m3u8
+http://89.33.29.115:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Конгресс (2)
@@ -1483,10 +1479,10 @@ https://stream8.cinerama.uz/1236/index.m3u8
 http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Познавательные", Кухня (3)
 http://stream.mcquack.net/179/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Food Time
+http://89.33.29.115:8080/Eda/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Kulinar
 https://api.alpaca.t62a.com/hls/9110/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Зоо ТВ
-http://31148.rafail1982.uz/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="Познавательные", TV Pro
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка Отрыва
@@ -1514,7 +1510,7 @@ http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи!
 https://stream8.cinerama.uz/1419/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живи! (2)
-http://31.148.48.15/Zhivi/index.m3u8
+http://89.33.29.115:8080/Zhivi/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG
 http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG (2)
